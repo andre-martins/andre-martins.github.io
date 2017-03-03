@@ -1,0 +1,9 @@
+ERRATUM
+=======
+There is a mistake in the "English Proj" experiments reported in Table 2, where inadvertently gold POS tags were used.
+The actual scores with predicted POS tags are substantially lower: for the full English model, we obtained 92.79% UAS 
+instead of the reported 93.26%. Therefore, the claim (in the caption) that the parser "slightly beats Koo & Collins (2010), 
+who achieved 93.04%" does not apply.
+
+This mistake did not affect any of the experiments in the other languages.
+
