@@ -2,15 +2,19 @@ Title: Publications
 
 # 2018
 
+* Vlad Niculae, André F. T. Martins, and Claire Cardie.  
+"Towards Dynamic Computation Graphs via Sparse Latent Structure."
+Conference on Empirical Methods in Natural Language Processing (EMNLP'18), Brussels, Belgium, November 2018 (to appear).  
+
 * Vlad Niculae, André F. T. Martins, Mathieu Blondel, and Claire Cardie.  
 "SparseMAP: Differentiable Sparse Structured Inference."  
 International Conference on Machine Learning (ICML'18), Stockholm, Sweden, July 2018 (to appear).  
-[[preprint pdf]](https://arxiv.org/abs/1802.04223)  
+[[pdf]](http://proceedings.mlr.press/v80/niculae18a.html)  
 
 * Chaitanya Malaviya, Pedro Ferreira, and André F. T. Martins.  
 "Sparse and Constrained Attention for Neural Machine Translation."  
 Annual Meeting of the Association for Computational Linguistics (ACL'18), Melbourne, Australia, July 2018 (to appear).  
-[[preprint pdf]](https://arxiv.org/abs/1805.08241)
+[[pdf]](http://aclweb.org/anthology/P18-2059)
 
 # 2017
 

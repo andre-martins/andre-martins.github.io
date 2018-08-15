@@ -35,8 +35,17 @@ My advisors were [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Noah Smith](htt
 
 ---
 
+# Post-docs
+
+- [Vlad Niculae](http://vene.ro) (Post-doc at IT, 2018-)
+- [Erick Fonseca](http://www.nilc.icmc.usp.br/nilc/pessoas/erickrf) (Post-doc at IT, 2018-)
+
 # Students and Interns
 
+- Tsvetomila Mihaylova (PhD at IST, 2018-)
+- Ben Peters (PhD at IST, 2018-)
+- Gonçalo Correia (PhD at IST, 2018-)
+- Pedro Martins (PhD at IST, 2018-)
 - Sameen Maruf (PhD at Monash University, 2016-: co-advised with [Reza Haffari](http://users.monash.edu.au/~gholamrh))
 - [Zita Marinho](http://www.cs.cmu.edu/~zmarinho) (PhD at CMU/IST, 2013-; co-advised with [Geoff Gordon](http://www.cs.cmu.edu/~ggordon) and [Sidd Srinivasa](https://homes.cs.washington.edu/~siddh))
 - Pedro Ferreira (MSc at IST, 2017-)
@@ -52,12 +61,16 @@ My advisors were [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Noah Smith](htt
 
 # News
 
+* We have a new EMNLP paper where we propose **SparseMAP** to build dynamic computation graphs via sparse latent structure. Keep posted!
+* I gave an invited talk in the [ACL 2018 Workshop on Neural Machine Translation and Generation](https://sites.google.com/site/wnmt18). Here are the [slides](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx3bm10MTh8Z3g6NzM2ZWNhMTk2MTdlODQ2Yw).
+* I am co-organizing LxMLS 2018 (Lisbon Machine Learning School). See [here](http://lxmls.it.pt) for details!
+* We have a new [ICML paper](http://proceedings.mlr.press/v80/niculae18a.html) where we propose *SparseMAP* as a new inference procedure for sparse structured prediction (work done in collaboration with [Vlad Niculae](http://vene.ro), [Mathieu Blondel](http://mblondel.org), and [Claire Cardie](http://www.cs.cornell.edu/home/cardie)).
+* We have a new [ACL short paper](http://aclweb.org/anthology/P18-2059) where we use new forms of sparse and constrained attention within neural machine translation (work done in collaboration with Chaitanya Malaviya and Pedro Ferreira).
 * **Great news: I got an ERC (European Research Council) Starting Grant on "Deep Structured Prediction in Natural Language Processing (DeepSPIN)". [I am now looking for Post-Doc and PhD Students](pages/jobs.html).**
 * I'm giving an invited talk in the [EMNLP 2017 Workshop on Structured Prediction for NLP](http://structuredprediction.github.io/EMNLP17).
 * I gave an invited talk in the [ICML 2017 Workshop on Learning to Generate Natural Language](https://sites.google.com/site/langgen17) and co-organized the [ICML 2017 Workshop on Deep Structured Prediction](https://deepstruct.github.io/ICML17).
 * [Our paper on end-to-end differentiable neural-easy first decoders]({filename}/docs/emnlp2017_final.pdf) made it to EMNLP 2017!
 * We have a new [TACL paper](https://transacl.org/ojs/index.php/tacl/article/view/1113) where we further improve our quality estimation system by using automatic post-editing as a auxiliary task.
-* I am co-organizing LxMLS 2017 (Lisbon Machine Learning School). See [here](http://lxmls.it.pt) for details!
 * Our word-level quality estimation system achieved the top score in the First Conference on Machine Translation ([WMT 2016](http://www.statmt.org/wmt16)). Check the paper [here](https://www.aclweb.org/anthology/W/W16/W16-2387.pdf).
 * [Our paper on sparsemax](http://jmlr.org/proceedings/papers/v48/martins16.pdf) was accepted at [ICML 2016](http://icml.cc/2016). It's a sparse, differentiable, alternative to the softmax activation.
 * I joined [Unbabel](http://unbabel.com)! We do AI powered human quality translation.
