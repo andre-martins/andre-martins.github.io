@@ -9,4 +9,4 @@ The theoretical concepts taught in this course will be complemented by a strong 
 
 # Syllabus
 
-TBD.
+Stay tuned!
