@@ -21,6 +21,14 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+MENUITEMS = (
+    ('Home', '/index.html'),
+    ('Jobs', '/pages/jobs.html'),
+    ('Publications', '/pages/publications.html'),
+    ('Software', '/pages/software.html'),
+    ('Courses', '/pages/courses.html')
+)
+
 # Blogroll
 LINKS = None #() #(('Pelican', 'http://getpelican.com/'),
          #('Python.org', 'http://python.org/'),
@@ -36,3 +44,4 @@ DEFAULT_PAGINATION = False
 RELATIVE_URLS = True
 
 DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = False
