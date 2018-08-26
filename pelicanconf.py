@@ -45,3 +45,9 @@ RELATIVE_URLS = True
 
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
+
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.tables': {},
+    }
+}
