@@ -13,8 +13,9 @@ The theoretical concepts taught in this course will be complemented by a strong 
 # Course Information
 
 - **Instructor:** [André Martins](http://andre-martins.github.io)
-- **Schedule:** Wednesdays 14:30-18:00 (tentative)
-- **Mailing list**: TBD
+- **TAs:** [Vlad Niculae](http://vene.ro/), Erick Fonseca
+- **Schedule:** Wednesdays 14:30-18:00, Room LT2 North Tower Level 4 (tentative)
+- **Communication**: [http://piazza.com/tecnico.ulisboa.pt/fall2018/pdeecdsl](http://piazza.com/tecnico.ulisboa.pt/fall2018/pdeecdsl)
 
 ---
 
@@ -45,33 +46,40 @@ TBD
 <colgroup>
   <col span="1" style="width: 10%;">
   <col span="1" style="width: 45%;">
-  <col span="1" style="width: 45%;">
+  <col span="1" style="width: 30%;">
+  <col span="1" style="width: 15%;">
 </colgroup>
 
 <tr>
 <th>Date</th>
 <th>Topic</th>
 <th>Optional Reading</th>
+<th></th>
 </tr>
 
 <tr>
 <td><b>Sep 19</b></td>
 <td>
-Introduction and Course Description
+<a href="../docs/dsl2018/lecture_01.pdf">Introduction and Course Description</a>
 </td>
 <td>
-<a href="http://lxmls.it.pt/2018/Figueiredo_LxMLS2018.pdf">Mário Figueiredo's LxMLS intro lecture</a><br/>
-<a href="https://github.com/luispedro/talk-python-intro">Luis Pedro Coelho's intro to Python</a><br/>
+<!--a href="http://lxmls.it.pt/2018/Figueiredo_LxMLS2018.pdf">Mário Figueiredo's LxMLS intro lecture</a><br/>
+<a href="https://github.com/luispedro/talk-python-intro">Luis Pedro Coelho's intro to Python</a><br/-->
 Goodfellow et al. Ch. 1-5<br/>
 Murphy Ch. 1-2
 </td>
+<td></td>
 </tr>
 
 <tr>
 <td><b>Sep 26</b></td>
-<td>Linear Classifiers</td>
+<td>
+<a href="../docs/dsl2018/lecture_02.pdf">Linear Classifiers</a></td>
 <td>
 Murphy Ch. 3, 6, 8-9, 14
+</td>
+<td>
+<a href=../docs/dsl2018/homework1.pdf>HW1 is out!</a>
 </td>
 </tr>
 
@@ -81,6 +89,7 @@ Murphy Ch. 3, 6, 8-9, 14
 <td>
 Goodfellow et al. Ch. 6
 </td>
+<td></td>
 </tr>
 
 <tr>
@@ -89,6 +98,7 @@ Goodfellow et al. Ch. 6
 <td>
 Goodfellow et al. Ch. 7-8
 </td>
+<td>HW1 is due.</td>
 </tr>
 
 <tr>
@@ -98,6 +108,7 @@ Goodfellow et al. Ch. 7-8
 Smith, Ch. 3-4<br/>
 Murphy Ch. 17, 19
 </td>
+<td></td>
 </tr>
 
 <tr>
@@ -106,14 +117,15 @@ Murphy Ch. 17, 19
 <td>
 Goodfellow et al. Ch. 9, 14-15
 </td>
+<td></td>
 </tr>
 
 <tr>
 <td><b>Oct 31</b></td>
 <td>Structured Prediction and Graphical Models</td>
 <td>
-Murphy Ch. 10, 19-22
-Goodfellow et al. Ch. 16<br/>
+Murphy Ch. 10, 19-22<br/>
+Goodfellow et al. Ch. 16
 </td>
 <td>
 </td>
@@ -125,6 +137,7 @@ Goodfellow et al. Ch. 16<br/>
 <td>
 Goodfellow et al. Ch. 10
 </td>
+<td></td>
 </tr>
 
 <tr>
@@ -132,6 +145,7 @@ Goodfellow et al. Ch. 10
 <td>Sequence-to-Sequence Learning</td>
 <td>
 </td>
+<td></td>
 </tr>
 
 <tr>
@@ -139,6 +153,7 @@ Goodfellow et al. Ch. 10
 <td>Attention Mechanisms and Neural Memories</td>
 <td>
 </td>
+<td></td>
 </tr>
 
 <tr>
@@ -146,6 +161,7 @@ Goodfellow et al. Ch. 10
 <td>Deep Reinforcement Learning</td>
 <td>
 </td>
+<td></td>
 </tr>
 
 <tr>
@@ -155,6 +171,7 @@ Goodfellow et al. Ch. 10
 Goodfellow et al. Ch. 20<br/>
 Murphy, Ch. 28
 </td>
+<td></td>
 </tr>
 
 <tr>
@@ -162,6 +179,7 @@ Murphy, Ch. 28
 <td>Final Projects I</td>
 <td>
 </td>
+<td></td>
 </tr>
 
 <tr>
@@ -169,6 +187,7 @@ Murphy, Ch. 28
 <td>Final Projects II</td>
 <td>
 </td>
+<td></td>
 </tr>
 
 
