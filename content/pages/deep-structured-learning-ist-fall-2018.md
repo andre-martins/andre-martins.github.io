@@ -28,7 +28,19 @@ The theoretical concepts taught in this course will be complemented by a strong 
 
 # Project Examples
 
-TBD
+The course project is an opportunity for you to explore an interesting problem using a real-world dataset. You can either choose one of [our suggested projects](/pages/project-examples-for-deep-structured-learning-fall-2018.html) or pick your own topic (the latter is encouraged). We encourage you to discuss your project with TAs/instructors to get feedback on your ideas.
+
+**Team:** Projects can be done by a team of 2-4 students. You may use Piazza to find potential team mates.
+
+**Milestones:** There are 3 deliverables:
+
+- Proposal: A 1-page description of the project. Do not forget to include a title, the team members, and a short description of the problem, methodology, data, and evaluation metrics. **Due on 17/10.**
+- Midway report: Introduction, related work, details of the proposed method, and preliminary results if available (4-5 pages). **Due on 14/11.**
+- Final report: A full report written as a conference paper, including all the above in full detail, finished experiments and results, conclusion and future work (8 pages excluding references). **Due on 12/12.**
+
+All reports should be in [NIPS format](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles). There will be a class presentation and (tentatively) a poster session, where you can present your work to the peers, instructors, and other community members who will stop by.
+
+See [here](/pages/project-examples-for-deep-structured-learning-fall-2018.html) for a list of project ideas.
 
 ---
 
