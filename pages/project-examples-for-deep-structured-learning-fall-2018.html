@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Project Examples for Deep Structured Learning (Fall 2018)</title>
+        <link rel="stylesheet" href="../theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="../">André F. T. Martins </a></h1>
+                <nav><ul>
+                    <li><a href="/index.html">Home</a></li>
+                    <li><a href="/pages/jobs.html">Jobs</a></li>
+                    <li><a href="/pages/publications.html">Publications</a></li>
+                    <li><a href="/pages/software.html">Software</a></li>
+                    <li><a href="/pages/courses.html">Courses</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+    <h1 class="entry-title">Project Examples for Deep Structured Learning (Fall 2018)</h1>
+    
+    <p>We suggest below some project ideas. Feel free to use this as inspiration for your project. Talk to us for more details.</p>
+<hr />
+<h1>Sparse Classification with Sparsemax</h1>
+<ul>
+<li><strong>Problem:</strong> Apply sparsemax and/or sparsemax loss to a problem that requires outputting sparse label probabilities or sparse latent variables (attention).</li>
+<li><strong>Data:</strong> <a href="http://mulan.sourceforge.net/datasets-mlc.html">Multi-label datasets</a>, <a href="https://nlp.stanford.edu/projects/snli/">SNLI</a>, <a href="http://www.statmt.org/wmt18/translation-task.html">WMT</a>, any data containing many labels for which only a few are plausible for each example.</li>
+<li><strong>Evaluation:</strong> F1, accuracy, inspection of where the model learns to attend to.</li>
+<li>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="http://proceedings.mlr.press/v48/martins16.html">Martins and Astudillo. From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification. ICML 2016.</a></li>
+</ol>
+</li>
+</ul>
+<hr />
+<h1>Deep Generative Models for Discrete Data</h1>
+<ul>
+<li><strong>Problem:</strong> Compare different deep generative models' ability to generate discrete data (such as text).</li>
+<li><strong>Methods:</strong> Generative Adversarial Networks, Variational Auto-Encoders.</li>
+<li><strong>Data:</strong> <a href="https://nlp.stanford.edu/projects/snli/">SNLI</a> (just the text), <a href="https://www.yelp.com/dataset/challenge">Yelp/Yahoo datasets for unaligned sentiment/topic transfer</a>, other text data.</li>
+<li><strong>Evaluation:</strong> Some of the metrics in [4].</li>
+<li>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="https://arxiv.org/abs/1406.2661">Goodfellow, Pouget-Abadie, Mirza, Xu, Warde-Farley, Ozair, Courville, Bengio. Generative Adversarial Networks. NIPS 2014.</a>  </li>
+<li><a href="https://arxiv.org/pdf/1312.6114.pdf">Kingma and Wellington. Auto-Encoding Variational Bayes. NIPS 2013.</a>  </li>
+<li><a href="http://proceedings.mlr.press/v80/zhao18b/zhao18b.pdf">Zhao, Kim, Zhang, Rush, LeCun. Adversarially Regularized Autoencoders. ICML 2018.</a>  </li>
+<li><a href="https://arxiv.org/abs/1806.04936">Semeniuta, Severyn, Gelly. On Accurate Evaluation of GANs for Language Generation. 2018.</a></li>
+</ol>
+</li>
+</ul>
+<hr />
+<h1>Constrained Structured Classification with AD3</h1>
+<ul>
+<li><strong>Problem:</strong> Use AD3 and dual decomposition techniques to impose logic/budget/structured constraints in structured problems. Possible tasks could involve generating diverse output, forbidding certain configurations, etc.</li>
+<li><strong>Data:</strong>  <ul>
+<li><a href="http://rgai.inf.u-szeged.hu/conll2010st/download.html">"weasel words": detecting hedges/uncertainty in writing in order to improve clarity</a>  </li>
+<li><a href="https://www.cs.umd.edu/~aguha/qbcoreference">Coreference in quizbowl</a></li>
+</ul>
+</li>
+<li><strong>Evaluation:</strong> task-dependent</li>
+<li>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="http://jmlr.org/papers/volume16/martins15a/martins15a.pdf">Martins, Figueiredo, Aguiar, Smith, Xing. AD3: Alternating Directions Dual Decomposition for MAP Inference in Graphical Models. JMLR 2015.</a>  </li>
+<li><a href="http://aclweb.org/anthology/P17-1091">Niculae, Park, Cardie. Argument Mining with Structured SVMs and RNNs. ACL 2017.</a></li>
+<li><a href="https://github.com/andre-martins/AD3">AD3 toolkit.</a>  </li>
+</ol>
+</li>
+</ul>
+<hr />
+<h1>Structured multi-label classification</h1>
+<ul>
+<li><strong>Problem:</strong> Multi-label classification is a learning setting where every sample can be assigned zero, one or more labels.</li>
+<li><strong>Method:</strong> Correlations between labels can be exploited by learning an affinity matrix of label correlation. Inference in a fully-connected correlation graph is hard; approximating the graph by a tree makes inference fast (Viterbi can be used.)</li>
+<li><strong>Data:</strong>  <a href="http://mulan.sourceforge.net/datasets-mlc.html">Multi-label datasets</a></li>
+<li><strong>Evaluation:</strong> see <a href="http://scikit-learn.org/stable/modules/model_evaluation.html#multilabel-ranking-metrics">here</a></li>
+<li>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="https://pdfs.semanticscholar.org/6b56/91db1e3a79af5e3c136d2dd322016a687a0b.pdf">Sorower. A Literature Survey on Algorithms for Multi-label Learning.</a>  </li>
+<li><a href="https://www.cs.cornell.edu/people/tj/publications/finley_joachims_08a.pdf">Thomas Finley and Thorsten Joachims. 2008. Training structural SVMs when exact inference is intractable.</a>  </li>
+<li><a href="https://pystruct.github.io/user_guide.html#multi-label-svm">Pystruct</a>  </li>
+<li><a href="http://scikit.ml/">Scikit.ml</a> (very strong methods not based on structured prediction)</li>
+</ol>
+</li>
+</ul>
+<hr />
+<h1>Hierarchical sparsemax attention</h1>
+<ul>
+<li><strong>Problem:</strong> Performing neural attention over very long sequences (e.g. for document-level classification, translation, ...)</li>
+<li><strong>Method:</strong> sparse hierarchical attention with product of sparsemaxes.</li>
+<li><strong>Data:</strong> <a href="https://drive.google.com/drive/u/0/folders/0Bz8a_Dbh9Qhbfll6bVpmNUtUcFdjYmF2SEpmZUZUcVNiMUw1TWN6RDV3a0JHT3kxLVhVR2M">text classification datasets</a></li>
+<li><strong>Evaluation:</strong> Accuracy; empirical analysis of where the models attend to.</li>
+<li><strong>Notes:</strong> If the top-level sparsemax gives zero probability to some paragraphs, those can be pruned from the computation graph. Can this lead to speedups?</li>
+<li>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="http://www.aclweb.org/anthology/N16-1174">Yang, Yang, Dyer, He, Smola, Hovy. Hierarchical Attention Networks for Document Classification. NAACL 2016.</a>  </li>
+<li><a href="http://proceedings.mlr.press/v48/martins16.html">Martins and Astudillo. From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification. ICML 2016.</a></li>
+</ol>
+</li>
+</ul>
+<hr />
+<h1>Sparse group lasso attention mechanism</h1>
+<ul>
+<li><strong>Problem:</strong> For structured data segmented into given "groups" (e.g. fields in a form, regions in an image, sentences in a paragraph), design a "group-sparse" attention mechanism that tends to give zero weight to entire groups when deemed not relevant enough.</li>
+<li><strong>Method:</strong> a Sparse Group-Lasso penalty in a generalized structured attention framework [2]</li>
+<li><strong>Notes:</strong> the L1 term is redundant when optimizing over the simplex; regular group lasso will be sparse!</li>
+<li>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="https://arxiv.org/abs/1001.0736">A note on the group lasso and a sparse group lasso. J. Friedman, T. Hastie, R. Tibshirani. 2010.</a>  </li>
+<li><a href="https://papers.nips.cc/paper/6926-a-regularized-framework-for-sparse-and-structured-neural-attention.pdf">A Regularized Framework for Sparse and Structured Neural Attention. Vlad Niculae, Mathieu Blondel. NIPS 2017.</a>  </li>
+<li><a href="https://www.stat.wisc.edu/~myuan/papers/glasso.final.pdf">Model selection and estimation in regression with grouped variables. Yuan and Lin. 2006.</a></li>
+</ol>
+</li>
+</ul>
+<hr />
+<h1>Geometrical structure: embedding ellipses instead of points</h1>
+<ul>
+<li><strong>Problem:</strong> Go beyond vector (point) embeddings: embed objects as ellipses instead of points; capture notions of inclusion/overlap.</li>
+<li>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="https://arxiv.org/abs/1805.07594">Generalizing Point Embeddings using the Wasserstein Space of Elliptical Distributions. Muzellec &amp; Cuturi. 2018.</a></li>
+</ol>
+</li>
+</ul>
+<hr />
+<h1>Embed structured input data with graph-CNNs</h1>
+<ul>
+<li><strong>Problem:</strong> learn good fixed-size hidden representations for data that comes in graph format with different shapes and sizes.</li>
+<li><strong>Method:</strong> <a href="http://tkipf.github.io/graph-convolutional-networks/">Graph convolutional networks</a></li>
+<li><strong>Data:</strong> <a href="https://github.com/CornellNLP/Macros">arXiv macro usage</a>, <a href="https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets">annotated semantic relationships datasets</a>, <a href="http://knowitall.cs.washington.edu/paralex/">paralex</a></li>
+<li>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="https://openreview.net/pdf?id=SJU4ayYgl">Kipf and Welling. Semi-Supervised Classification with Graph Convolutional Networks. ICLR 2017.</a>  </li>
+<li><a href="https://arxiv.org/abs/1606.09375">Defferrard et al. Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering. NIPS 2016.</a></li>
+</ol>
+</li>
+</ul>
+<hr />
+<h1>Sparse link prediction</h1>
+<ul>
+<li><strong>Problem:</strong> Predicting links in a large structured graph. For instance: predict co-authorship, movie recommendation, coreference resolution, discourse relations between sentences in a document.</li>
+<li><strong>Method:</strong> The simplest approach is independent binary classification: for every node pair (i, j), predict whether there is a link or not. Issues: Very high imbalance: most nodes are not linked.
+Structure and higher-order correlations are ignored in independent approach. Develop a method that can address the issues: incorporate structural correlations (e.g. with combinatorial inference, constraints, latent variables) and account for imbalance (ideally via pairwise ranking losses: learn a scorer such that S(i, j) &gt; S(k, l) if there is an edge (i, j) but no edge (k, l).</li>
+<li><strong>Data:</strong> <a href="https://github.com/CornellNLP/Macros">arXiv macro usage</a>, <a href="https://www.cs.umd.edu/~aguha/qbcoreference">Coreference in quizbowl</a></li>
+<li><strong>Notes:</strong> Can graph-CNNs (previous idea) be useful here?</li>
+<li>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="http://ttic.uchicago.edu/~meshi/papers/structAUC_aistats14.pdf">Rosenfeld, Meshi, Tarlow, Globerson. Learning Structured Models with the AUC Loss and Its Generalizations. AISTATS 2014.</a></li>
+</ol>
+</li>
+</ul>
+<hr />
+<h1>Structured Prediction Energy Networks</h1>
+<ul>
+<li><strong>Problem:</strong> Structured output prediction with energy networks: replace discrete structured inference with continuous optimization in a neural net. Applications: multi-label classification; simple structured problems: sequence tagging, arc-factored parsing?</li>
+<li><strong>Method:</strong> Learn a neural network E(x, y; w) to model the energy of an output configuration y (relaxed to be a continuous variable). Inference becomes min_y E(x, y; w). How far can this relaxation take us? Can it be better/faster than global combinatorial optimization approaches?</li>
+<li><strong>Data:</strong> Sequence tagging, parsing, optimal matching?</li>
+<li><strong>Notes:</strong> When E is a neural network, min_y E(x, y; w) is a non-convex optimization problem (possibly with mild constraints such as y in [0, 1]. Amos et al. have an approach that allows E to be a complicated neural net but remain convex in y. Is this beneficial? Are some kinds of structured data better suited for SPENs than others? E.g. sequence labelling seems "less structured" than dependency parsing.</li>
+<li>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="http://proceedings.mlr.press/v48/belanger16.pdf">Belanger and McCallum. Structured Prediction Energy Networks. ICML 2016.</a>  </li>
+<li><a href="https://arxiv.org/abs/1703.05667">Belager, Yang, McCallum. End-to-End Learning for Structured Prediction Energy Networks. ICML 2017.</a>  </li>
+<li><a href="http://proceedings.mlr.press/v70/amos17b/amos17b.pdf">Amos, Xu, Kolter. Input Convex Neural Networks. ICML 2017</a></li>
+</ol>
+</li>
+</ul>
+</section>
+        <section id="extras" class="body">
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
