@@ -105,11 +105,14 @@ Goodfellow et al. Ch. 6
 
 <tr>
 <td><b>Oct 10</b></td>
-<td>Training Neural Networks</td>
+<td><a href="../docs/dsl2018/lecture_03.pdf">Neural Network Toolkits</a></td>
 <td>
 Goodfellow et al. Ch. 7-8
 </td>
-<td>HW1 is due.</td>
+<td>
+HW1 is due.<br/>
+<a href=../docs/dsl2018/homework2.pdf>HW2 is out!</a>
+</td>
 </tr>
 
 <tr>
@@ -119,7 +122,7 @@ Goodfellow et al. Ch. 7-8
 Smith, Ch. 3-4<br/>
 Murphy Ch. 17, 19
 </td>
-<td></td>
+<td>Project proposal is due.</td>
 </tr>
 
 <tr>
@@ -139,6 +142,7 @@ Murphy Ch. 10, 19-22<br/>
 Goodfellow et al. Ch. 16
 </td>
 <td>
+HW2 is due.
 </td>
 </tr>
 
