@@ -142,7 +142,7 @@ Goodfellow et al. Ch. 9, 14-15
 </tr>
 
 <tr>
-<td><b>Oct 31</b></td>
+<td><b>Oct 31 (rescheduled to Oct 29!)</b></td>
 <td>Structured Prediction and Graphical Models</td>
 <td>
 Murphy Ch. 10, 19-22<br/>
