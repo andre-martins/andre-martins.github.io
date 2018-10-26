@@ -142,7 +142,7 @@ Goodfellow et al. Ch. 9, 14-15
 </tr>
 
 <tr>
-<td><b>Oct 31 (rescheduled to Oct 29!)</b></td>
+<td><b>Oct 31 (rescheduled to Oct 29, rooms V1.17/V1.11!)</b></td>
 <td>Structured Prediction and Graphical Models</td>
 <td>
 Murphy Ch. 10, 19-22<br/>
@@ -163,7 +163,7 @@ Goodfellow et al. Ch. 10
 </tr>
 
 <tr>
-<td><b>Nov 14</b></td>
+<td><b>Nov 14 (room E5)</b></td>
 <td>Sequence-to-Sequence Learning</td>
 <td>
 </td>
@@ -171,7 +171,7 @@ Goodfellow et al. Ch. 10
 </tr>
 
 <tr>
-<td><b>Nov 21</b></td>
+<td><b>Nov 21 (room F8)</b></td>
 <td>Attention Mechanisms and Neural Memories</td>
 <td>
 </td>
