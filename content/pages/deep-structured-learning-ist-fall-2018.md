@@ -159,7 +159,9 @@ HW2 is due.<br/>
 
 <tr>
 <td><b>Nov 7</b></td>
-<td>Recurrent Neural Networks</td>
+<td>
+<a href="../docs/dsl2018/lecture_08.pdf">Recurrent Neural Networks</a>
+</td>
 <td>
 Goodfellow et al. Ch. 10
 </td>
@@ -178,8 +180,8 @@ Goodfellow et al. Ch. 10
 <td><b>Nov 21 (room F8)</b></td>
 <td>Attention Mechanisms and Neural Memories</td>
 <td>
-HW3 is due.
 </td>
+HW3 is due.
 <td></td>
 </tr>
 
