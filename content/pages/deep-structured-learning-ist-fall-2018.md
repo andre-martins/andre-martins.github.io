@@ -181,8 +181,7 @@ Goodfellow et al. Ch. 10
 <td>Attention Mechanisms and Neural Memories</td>
 <td>
 </td>
-HW3 is due.
-<td></td>
+<td>HW3 is due.</td>
 </tr>
 
 <tr>
