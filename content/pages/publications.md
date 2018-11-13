@@ -12,6 +12,11 @@ Conference on Empirical Methods in Natural Language Processing (EMNLP'18), Bruss
 Conference on Machine Translation (WMT'18), Brussels, Belgium, November 2018.  
 [[pdf]](http://www.statmt.org/wmt18/pdf/WMT011.pdf)  
 
+* Lucia Specia, Frédéric Blain, Varvara Logacheva, Ramón Astudillo, and André F. T. Martins.  
+"Findings of the WMT 2018 Shared Task on Quality Estimation."
+Conference on Machine Translation (WMT'18), Brussels, Belgium, November 2018.  
+[[pdf]](http://www.statmt.org/wmt18/pdf/WMT079.pdf)  
+
 * Ben Peters, Vlad Niculae, and André F. T. Martins.  
 "Interpretable Structure Induction Via Sparse Attention."  
 EMNLP Workshop on Analyzing and Interpreting Neural Networks for NLP  (BlackboxNLP'18), Brussels, Belgium, November 2018.  
