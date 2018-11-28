@@ -197,7 +197,10 @@ Goodfellow et al. Ch. 10
 
 <tr>
 <td><b>Nov 28</b></td>
-<td>Deep Reinforcement Learning</td>
+<td>
+<a href="../docs/dsl2018/DeepRL.pdf">Deep Reinforcement Learning</a><br/>
+Guest lecture: Francisco Melo
+</td>
 <td>
 </td>
 <td>
