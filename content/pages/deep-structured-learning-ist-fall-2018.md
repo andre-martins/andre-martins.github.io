@@ -211,10 +211,14 @@ Midterm report is due.
 
 <tr>
 <td><b>Dec 5</b></td>
-<td>Deep Generative Models (Variational Auto-Encoders and Generative Adversarial Networks)</td>
+<td>
+<a href="../docs/dsl2018/lecture_12.pdf">Deep Generative Models</a><br/>
+</td>
 <td>
 Goodfellow et al. Ch. 20<br/>
-Murphy, Ch. 28
+Murphy, Ch. 28<br/>
+<a href="http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf">NIPS16 tutorial on GANs</a><br/>
+<a href="https://arxiv.org/abs/1312.6114">Kingma and Welling, 2014</a><br/>
 </td>
 <td></td>
 </tr>
