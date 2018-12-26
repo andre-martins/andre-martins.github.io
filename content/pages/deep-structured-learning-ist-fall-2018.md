@@ -224,7 +224,7 @@ Murphy, Ch. 28<br/>
 </tr>
 
 <tr>
-<td><b>Jan 2</b></td>
+<td><b>Jan 9</b></td>
 <td></td>
 <td>
 </td>
@@ -234,7 +234,7 @@ Final report is due.
 </tr>
 
 <tr>
-<td><b>Jan 9</b></td>
+<td><b>Jan 16</b></td>
 <td>Final Projects I</td>
 <td>
 </td>
@@ -242,7 +242,7 @@ Final report is due.
 </tr>
 
 <tr>
-<td><b>Jan 16</b></td>
+<td><b>Jan 23</b></td>
 <td>Final Projects II</td>
 <td>
 </td>
