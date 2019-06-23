@@ -1,5 +1,43 @@
 Title: Publications
 
+# 2019
+
+* Ben Peters, Vlad Niculae, and André F. T. Martins.  
+"Sparse Sequence-to-Sequence Models."  
+Annual Meeting of the Association for Computational Linguistics (ACL'19), Florence, Italy, July 2019 (to appear).  
+
+* Gonçalo M. Correia and André F. T. Martins.  
+"A Simple and Effective Approach to Automatic Post-Editing with Transfer Learning."  
+Annual Meeting of the Association for Computational Linguistics (ACL'19), Florence, Italy, July 2019 (to appear).  
+
+* Fábio Kepler, Jonay Trénous, Marcos Treviso, Miguel Vera, and André F. T. Martins.  
+"Openkiwi: An open source framework for quality estimation."  
+Annual Meeting of the Association for Computational Linguistics (ACL'19), System Demonstrations, Florence, Italy, July 2019.  
+
+* Tsvetomila Mihaylova and André F. T. Martins.  
+"Scheduled Sampling for Transformers."  
+Annual Meeting of the Association for Computational Linguistics (ACL'19), Student Research Workshop, Florence, Italy, July 2019.  
+
+* Pedro Henrique Martins, Zita Marinho, and André F. T. Martins.  
+"Joint Learning of Named Entity Recognition and Entity Linking."  
+Annual Meeting of the Association for Computational Linguistics (ACL'19), Student Research Workshop, Florence, Italy, July 2019.  
+
+* Sameen Maruf, André F. T. Martins, and Gholamreza Haffari.  
+"Selective attention for context-aware neural machine translation."  
+Conference of the North American Chapter of the Association for Computational Linguistics (NAACL'19), Minneapolis, USA, June 2019.  
+[[pdf]](https://www.aclweb.org/anthology/N19-1313)  
+
+* Afonso Mendes, Shashi Narayan, Sebastião Miranda, Zita Marinho, André F. T. Martins, and Shay B. Cohen.  
+"Jointly extracting and compressing documents with summary state representations."  
+Conference of the North American Chapter of the Association for Computational Linguistics (NAACL'19), Minneapolis, USA, June 2019.  
+[[pdf]](https://www.aclweb.org/anthology/N19-1397)  
+
+* Mathieu Blondel, André F. T. Martins, and Vlad Niculae.  
+"Learning classifiers with Fenchel-Young losses: Generalized entropies, margins, and algorithms."  
+International Conference on Artificial Intelligence and Statistics (AISTATS'19), Okinawa, Japan.  
+In Kamalika Chaudhuri and Masashi Sugiyama, editors, Proceedings of Machine Learning Research, volume 89 of Proceedings of Machine Learning Research, pages 606–615. PMLR, 16–18 Apr 2019.  
+[[pdf]](http://proceedings.mlr.press/v89/blondel19a.html)  
+
 # 2018
 
 * Vlad Niculae, André F. T. Martins, and Claire Cardie.  
@@ -29,19 +67,24 @@ International Conference on Machine Learning (ICML'18), Stockholm, Sweden, July 
 
 * Chaitanya Malaviya, Pedro Ferreira, and André F. T. Martins.  
 "Sparse and Constrained Attention for Neural Machine Translation."  
-Annual Meeting of the Association for Computational Linguistics (ACL'18), Melbourne, Australia, July 2018 (to appear).  
-[[pdf]](http://aclweb.org/anthology/P18-2059)
+Annual Meeting of the Association for Computational Linguistics (ACL'18), Melbourne, Australia, July 2018.  
+[[pdf]](http://aclweb.org/anthology/P18-2059)  
+
+* Marcin Junczys-Dowmunt, Roman Grundkiewicz, Tomasz Dwojak, Hieu Hoang, Kenneth Heafield, Tom Neckermann, Frank Seide, Ulrich Germann, Alham Fikri Aji, Nikolay Bogoychev, André F. T. Martins, and Alexandra Birch.  
+"Marian: Fast neural machine translation in C++."  
+Annual Meeting of the Association for Computational Linguistics (ACL'18), System Demonstrations, Melbourne, Australia, July 2018.
+[[pdf]](https://www.aclweb.org/anthology/P18-4020)  
 
 # 2017
 
 * André F. T. Martins and Julia Kreutzer.  
 "Learning What’s Easy: Fully Differentiable Neural Easy-First Taggers."  
-Conference on Empirical Methods in Natural Language Processing (EMNLP'17), Copenhagen, Denmark, September 2017 (to appear).  
+Conference on Empirical Methods in Natural Language Processing (EMNLP'17), Copenhagen, Denmark, September 2017.  
 [[pdf]](http://www.aclweb.org/anthology/D17-1036)  
 
 * André F. T. Martins, Fábio N. Kepler and José L. Monteiro.  
 "Unbabel's Participation in the WMT17 Translation Quality Estimation Shared Task."  
-Conference on Machine Translation (WMT 2017), Copenhagen, Denmark, September 2017 (to appear).  
+Conference on Machine Translation (WMT 2017), Copenhagen, Denmark, September 2017.  
 [[draft pdf]]({filename}/docs/wmt2017.pdf)  
 
 * André F. T. Martins, Marcin Junczys-Dowmunt, Fábio Kepler, Ramon Astudillo, Chris Hokamp and Roman Grundkiewicz.  
