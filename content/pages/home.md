@@ -18,15 +18,16 @@ save_as: index.html
         <br>
         <span style="font-weight: bold;">Phone:</span> +351 308 805 425<br>
         <br>
-        <a href="http://unbabel.com"><img style="border: 0px solid ; width: 224px; height: 70px;" alt="Unbabel logo" src="{filename}/images/unbabel-logo.png"></a><br>
+        <a href="http://unbabel.com"><img style="border: 0px solid ; width: 80px;" alt="Unbabel logo" src="{filename}/images/unbabel-logo.png"></a>
+        <a href="http://tecnico.ulisboa.pt"><img style="border: 0px solid ; width: 120px;" alt="IST logo" src="{filename}/images/IST-logo.png"></a><br>
+        <a href="http://www.it.pt"><img style="border: 0px solid ; width: 180px;" alt="IT logo" src="{filename}/images/IT-logo.png"></a><br>
       </td>
     </tr>
   </tbody>
 </table>
 
-I am a Research Scientist at [Unbabel](http://unbabel.com) in [Lisbon](http://en.wikipedia.org/wiki/Lisbon), [Portugal](http://en.wikipedia.org/wiki/Portugal).
+I am a Research Scientist at [Unbabel](http://unbabel.com) in [Lisbon](http://en.wikipedia.org/wiki/Lisbon), [Portugal](http://en.wikipedia.org/wiki/Portugal), an Invited Assistant Professor at [Instituto Superior Técnico](https://tecnico.ulisboa.pt), and a Senior Researcher at the [Instituto de Telecomunicações](http://www.lx.it.pt). I also do scientific consulting for [Priberam Labs](http://labs.priberam.com).
 I work on natural language processing and machine learning.
-I am an invited professor at [Instituto Superior Técnico](https://tecnico.ulisboa.pt), a researcher at the [Instituto de Telecomunicações](http://www.lx.it.pt), and I do scientific consulting for [Priberam Labs](http://labs.priberam.com).
 
 Until 2012, I was a PhD student in the joint CMU-Portugal program in Language Technologies, at [Carnegie Mellon University](http://www.cmu.edu) and Instituto Superior Técnico.
 My advisors were [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Noah Smith](http://homes.cs.washington.edu/~nasmith/), [Pedro Aguiar](http://www.isr.ist.utl.pt/~aguiar) and [Eric Xing](http://www.cs.cmu.edu/~epxing).
@@ -42,12 +43,17 @@ My advisors were [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Noah Smith](htt
 
 # Students and Interns
 
-- Tsvetomila Mihaylova (PhD at IST, 2018-)
+- [Nikita Nangia](https://woollysocks.github.io) (Summer Intern at IT, 2019)
+- Michael Zhang (Research Intern at Unbabel, 2019)
+- Daan van Stigt (Research Intern at Unbabel, 2019)
+- [Marcos Treviso](http://mtreviso.github.io) (PhD at IST, 2019-)
+- [Tsvetomila Mihaylova](https://tsvm.github.io) (PhD at IST, 2018-)
 - Ben Peters (PhD at IST, 2018-)
-- Gonçalo Correia (PhD at IST, 2018-)
+- [Gonçalo Correia](https://goncalomcorreia.github.io) (PhD at IST, 2018-)
 - Pedro Martins (PhD at IST, 2018-)
 - Sameen Maruf (PhD at Monash University, 2016-: co-advised with [Reza Haffari](http://users.monash.edu.au/~gholamrh))
-- [Zita Marinho](http://www.cs.cmu.edu/~zmarinho) (PhD at CMU/IST, 2013-; co-advised with [Geoff Gordon](http://www.cs.cmu.edu/~ggordon) and [Sidd Srinivasa](https://homes.cs.washington.edu/~siddh))
+- [Zita Marinho](http://www.cs.cmu.edu/~zmarinho) (PhD at CMU/IST, 2013-2018; co-advised with [Geoff Gordon](http://www.cs.cmu.edu/~ggordon) and [Sidd Srinivasa](https://homes.cs.washington.edu/~siddh), now Head of Research at Priberam Labs)
+- [Telmo Pires](https://ai.google/research/people/telmo) (Research Intern at IT and Unbabel, 2017, now at Google AI)
 - Pedro Ferreira (MSc at IST, 2017-)
 - Chaitanya Malaviya (Research Intern at Unbabel, 2017, now MSc at CMU)
 - [Julia Kreutzer](http://www.cl.uni-heidelberg.de/~kreutzer) (Research Intern at Unbabel, 2016, now PhD student at Heidelberg University)
@@ -61,9 +67,16 @@ My advisors were [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Noah Smith](htt
 
 # News
 
-* We have a new EMNLP paper where we propose **SparseMAP** to build dynamic computation graphs via sparse latent structure. Keep posted!
+* We are presenting a tutorial on Latent Structure Models for NLP at ACL 2019 in Florence. Stay tuned!
+* I am giving an invited talk at the [First EurNLP Summit](https://www.eurnlp.org) in London.  
+* I am giving invited talks at 3 Summer schools: [LxMLS 2019](http://lxmls.it.pt) in Lisbon, [AthNLP 2019](http://athnlp.iit.demokritos.gr) in Athens, and [MLRS 2019](https://www.mlrs.ai) in Bangkok. 
+* I am co-organizing LxMLS 2019 (Lisbon Machine Learning School). See [here](http://lxmls.it.pt) for details!
+* I was part of a discussion panel at Culturgest about AI. Here's the [video](https://www.culturgest.pt/pt/programacao/ana-paiva-andre-martins-e-arlindo-oliveira-especulacoes) (in Portuguese).
+* We have new papers accepted at AISTATS, NAACL, and ACL 2019.
+* Unbabel won the WMT 2019 Shared Task on Quality Estimation! Check the results [here](http://www.statmt.org/wmt19/qe-results.html)!
+* We launched OpenKiwi, a Pytorch-based software toolkit for translation quality estimation. Check the [repo](https://github.com/Unbabel/OpenKiwi) and the [demo paper]() at ACL 2019!   
+* We have a new EMNLP paper where we propose **SparseMAP** to build dynamic computation graphs via sparse latent structure.
 * I gave an invited talk in the [ACL 2018 Workshop on Neural Machine Translation and Generation](https://sites.google.com/site/wnmt18). Here are the [slides](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx3bm10MTh8Z3g6NzM2ZWNhMTk2MTdlODQ2Yw).
-* I am co-organizing LxMLS 2018 (Lisbon Machine Learning School). See [here](http://lxmls.it.pt) for details!
 * We have a new [ICML paper](http://proceedings.mlr.press/v80/niculae18a.html) where we propose *SparseMAP* as a new inference procedure for sparse structured prediction (work done in collaboration with [Vlad Niculae](http://vene.ro), [Mathieu Blondel](http://mblondel.org), and [Claire Cardie](http://www.cs.cornell.edu/home/cardie)).
 * We have a new [ACL short paper](http://aclweb.org/anthology/P18-2059) where we use new forms of sparse and constrained attention within neural machine translation (work done in collaboration with Chaitanya Malaviya and Pedro Ferreira).
 * **Great news: I got an ERC (European Research Council) Starting Grant on "Deep Structured Prediction in Natural Language Processing (DeepSPIN)". [I am now looking for Post-Doc and PhD Students](pages/jobs.html).**
