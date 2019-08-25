@@ -42,7 +42,7 @@ Annual Meeting of the Association for Computational Linguistics (ACL'19), Floren
 * Fábio Kepler, Jonay Trénous, Marcos Treviso, Miguel Vera, and André F. T. Martins.  
 "Openkiwi: An open source framework for quality estimation."  
 Annual Meeting of the Association for Computational Linguistics (ACL'19), System Demonstrations, Florence, Italy, July 2019.  
-**Best system demo paper award.**
+**Best system demo paper award.**  
 [[pdf]](https://arxiv.org/abs/1902.08646)  
 
 * Tsvetomila Mihaylova and André F. T. Martins.  
