@@ -7,18 +7,18 @@ Title: Publications
 Conference on Empirical Methods in Natural Language Processing (EMNLP'19), Hong-Kong, China, November 2019. To appear.  
 [[pdf]]()  
 
-* Erick Fonseca, Lisa Yankovskaya, André F. T. Martins, Mark Fishel, Christian Federmann  
+* Erick Fonseca, Lisa Yankovskaya, André F. T. Martins, Mark Fishel, Christian Federmann.  
 "Findings of the WMT 2019 Shared Tasks on Quality Estimation."  
 Conference on Machine Translation (WMT 2019), Florence, Italy, August 2019.  
 [[pdf]](https://www.aclweb.org/anthology/W19-5401)  
 
-* Fabio Kepler, Jonay Trénous, Marcos Treviso, Miguel Vera, António Góis, M. Amin Farajian, António V. Lopes, André F. T. Martins  
+* Fabio Kepler, Jonay Trénous, Marcos Treviso, Miguel Vera, António Góis, M. Amin Farajian, António V. Lopes, André F. T. Martins.  
 "Unbabel's Participation in the WMT19 Translation Quality Estimation Shared Task."  
 Conference on Machine Translation (WMT 2019), Florence, Italy, August 2019.  
 **Best results in the shared task.**  
 [[pdf]](https://www.aclweb.org/anthology/W19-5406)  
 
-* António V. Lopes, M. Amin Farajian, Gonçalo M. Correia, Jonay Trénous, and André F. T. Martins  
+* António V. Lopes, M. Amin Farajian, Gonçalo M. Correia, Jonay Trénous, and André F. T. Martins.  
 "Unbabel's Submission to the WMT2019 APE Shared Task: BERT-Based Encoder-Decoder for Automatic Post-Editing."  
 Conference on Machine Translation (WMT 2019), Florence, Italy, August 2019.  
 **Best results in the shared task.**  
@@ -27,8 +27,7 @@ Conference on Machine Translation (WMT 2019), Florence, Italy, August 2019.
 * António Góis and André F. T. Martins.  
 "Translator2Vec: Understanding and Representing Human Post-Editors."  
 Proceedings of Machine Translation Summit XVII Volume 1: Research Track (MT Summit 2019), Dublin, Ireland, August 2019.  
-[[pdf]](https://www.aclweb.org/anthology/W19-6605)  
-[[dataset]](https://github.com/Unbabel/translator2vec/releases/download/v1.0/keystrokes_dataset.zip)  
+[[pdf]](https://www.aclweb.org/anthology/W19-6605) [[dataset]](https://github.com/Unbabel/translator2vec/releases/download/v1.0/keystrokes_dataset.zip)  
 
 * Ben Peters, Vlad Niculae, and André F. T. Martins.  
 "Sparse Sequence-to-Sequence Models."  
