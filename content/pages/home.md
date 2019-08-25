@@ -50,7 +50,7 @@ My advisors were [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Noah Smith](htt
 - [Tsvetomila Mihaylova](https://tsvm.github.io) (PhD at IST, 2018-)
 - Ben Peters (PhD at IST, 2018-)
 - [Gonçalo Correia](https://goncalomcorreia.github.io) (PhD at IST, 2018-)
-- Pedro Martins (PhD at IST, 2018-)
+- Pedro Martins (PhD at IST, 2018-; co-advised with Zita Marinho)
 - Sameen Maruf (PhD at Monash University, 2016-: co-advised with [Reza Haffari](http://users.monash.edu.au/~gholamrh))
 - [Zita Marinho](http://www.cs.cmu.edu/~zmarinho) (PhD at CMU/IST, 2013-2018; co-advised with [Geoff Gordon](http://www.cs.cmu.edu/~ggordon) and [Sidd Srinivasa](https://homes.cs.washington.edu/~siddh), now Head of Research at Priberam Labs)
 - [Telmo Pires](https://ai.google/research/people/telmo) (Research Intern at IT and Unbabel, 2017, now at Google AI)
@@ -67,14 +67,14 @@ My advisors were [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Noah Smith](htt
 
 # News
 
-* We are presenting a tutorial on Latent Structure Models for NLP at ACL 2019 in Florence. Stay tuned!
+* We presented a [tutorial on Latent Structure Models for NLP](https://deep-spin.github.io/tutorial/) at ACL 2019 in Florence.  
 * I am giving an invited talk at the [First EurNLP Summit](https://www.eurnlp.org) in London.  
 * I am giving invited talks at 3 Summer schools: [LxMLS 2019](http://lxmls.it.pt) in Lisbon, [AthNLP 2019](http://athnlp.iit.demokritos.gr) in Athens, and [MLRS 2019](https://www.mlrs.ai) in Bangkok. 
 * I am co-organizing LxMLS 2019 (Lisbon Machine Learning School). See [here](http://lxmls.it.pt) for details!
 * I was part of a discussion panel at Culturgest about AI. Here's the [video](https://www.culturgest.pt/pt/programacao/ana-paiva-andre-martins-e-arlindo-oliveira-especulacoes) (in Portuguese).
 * We have new papers accepted at AISTATS, NAACL, and ACL 2019.
 * Unbabel won the WMT 2019 Shared Task on Quality Estimation! Check the results [here](http://www.statmt.org/wmt19/qe-results.html)!
-* We launched OpenKiwi, a Pytorch-based software toolkit for translation quality estimation. Check the [repo](https://github.com/Unbabel/OpenKiwi) and the [demo paper]() at ACL 2019!   
+* We received the **best system demo paper award** for OpenKiwi, a Pytorch-based software toolkit for translation quality estimation. Check the [repo](https://github.com/Unbabel/OpenKiwi) and the [demo paper](https://arxiv.org/abs/1902.08646) at ACL 2019!   
 * We have a new EMNLP paper where we propose **SparseMAP** to build dynamic computation graphs via sparse latent structure.
 * I gave an invited talk in the [ACL 2018 Workshop on Neural Machine Translation and Generation](https://sites.google.com/site/wnmt18). Here are the [slides](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx3bm10MTh8Z3g6NzM2ZWNhMTk2MTdlODQ2Yw).
 * We have a new [ICML paper](http://proceedings.mlr.press/v80/niculae18a.html) where we propose *SparseMAP* as a new inference procedure for sparse structured prediction (work done in collaboration with [Vlad Niculae](http://vene.ro), [Mathieu Blondel](http://mblondel.org), and [Claire Cardie](http://www.cs.cornell.edu/home/cardie)).
