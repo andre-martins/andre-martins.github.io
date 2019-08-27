@@ -45,6 +45,12 @@ Annual Meeting of the Association for Computational Linguistics (ACL'19), System
 **Best system demo paper award.**  
 [[pdf]](https://arxiv.org/abs/1902.08646)  
 
+* Ben Peters and André F. T. Martins.  
+"IT–IST at the SIGMORPHON 2019 Shared Task: Sparse Two-headed Models for Inflection."  
+ACL Workshop on Computational Research in Phonetics, Phonology, and Morphology (SIGMORPHON'19), Florence, Italy, July 2019.  
+**Interpretability Prize.**  
+[[pdf]](https://www.aclweb.org/anthology/W19-4207)  
+
 * Tsvetomila Mihaylova and André F. T. Martins.  
 "Scheduled Sampling for Transformers."  
 Annual Meeting of the Association for Computational Linguistics (ACL'19), Student Research Workshop, Florence, Italy, July 2019.  
