@@ -13,7 +13,7 @@ The theoretical concepts taught in this course will be complemented by a strong 
 # Course Information
 
 - **Instructors:** [André Martins](http://andre-martins.github.io) and [Vlad Niculae](http://vene.ro/)
-- **Schedule:** TBD
+- **Schedule:** TBD. **The first class will be on Wednesday 10:00 in Room LT2** (North Tower, 4th floor)
 - **Communication**: [piazza.com/tecnico.ulisboa.pt/fall2019/pdeecdsl](http://piazza.com/tecnico.ulisboa.pt/fall2019/pdeecdsl)
 
 ---
