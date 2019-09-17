@@ -72,7 +72,6 @@ See [here](/pages/project-examples-for-deep-structured-learning-fall-2019.html) 
 <td><b>Sep 18</b></td>
 <td>
 <a href="../docs/dsl2019/lecture_01.pdf">Introduction and Course Description</a>
-Introduction and Course Description
 </td>
 <td>
 <!--a href="http://lxmls.it.pt/2018/Figueiredo_LxMLS2018.pdf">Mário Figueiredo's LxMLS intro lecture</a><br/>
