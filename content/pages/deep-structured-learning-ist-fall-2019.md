@@ -13,7 +13,7 @@ The theoretical concepts taught in this course will be complemented by a strong 
 # Course Information
 
 - **Instructors:** [André Martins](http://andre-martins.github.io) and [Vlad Niculae](http://vene.ro/)
-- **Schedule:** TBD. **The first class will be on Wednesday September 18 10:00 in Room LT2** (North Tower, 4th floor)
+- **Schedule:** The classes are held on Mondays 9:30-11:00 and Fridays 15:00-16:30 in Room LT2 (North Tower, 4th floor)
 - **Communication**: [piazza.com/tecnico.ulisboa.pt/fall2019/pdeecdsl](http://piazza.com/tecnico.ulisboa.pt/fall2019/pdeecdsl)
 
 ---
@@ -82,9 +82,10 @@ Murphy Ch. 1-2
 <td></td>
 </tr>
 
-<!--tr>
-<td><b>Sep 26</b></td>
-<td><a href="../docs/dsl2018/lecture_02.pdf">Linear Classifiers</a></td>
+<tr>
+<td><b>Sep 23, 27</b></td>
+<!--td><a href="../docs/dsl2019/lecture_02.pdf">Linear Classifiers</a></td-->
+<td>Linear Classifiers</td>
 <td>
 Murphy Ch. 3, 6, 8-9, 14
 </td>
@@ -93,7 +94,7 @@ Murphy Ch. 3, 6, 8-9, 14
 </td>
 </tr>
 
-<tr>
+<!--tr>
 <td><b>Oct 3</b></td>
 <td><a href="../docs/dsl2018/lecture_03.pdf">Feedforward Neural Networks</a></td>
 <td>
