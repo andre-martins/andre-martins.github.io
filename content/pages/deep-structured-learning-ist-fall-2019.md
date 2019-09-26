@@ -84,19 +84,22 @@ Murphy Ch. 1-2
 
 <tr>
 <td><b>Sep 23, 27</b></td>
-<!--td><a href="../docs/dsl2019/lecture_02.pdf">Linear Classifiers</a></td-->
+<td><a href="../docs/dsl2019/lecture_02.pdf">Linear Classifiers</a></td>
 <td>Linear Classifiers</td>
 <td>
 Murphy Ch. 3, 6, 8-9, 14
 </td>
 <td>
-<!--a href=../docs/dsl2019/homework1.pdf>HW1 is out!</a-->
+<a href=../docs/dsl2019/homework1.pdf>HW1 is out!</a>
 </td>
 </tr>
 
-<!--tr>
-<td><b>Oct 3</b></td>
-<td><a href="../docs/dsl2018/lecture_03.pdf">Feedforward Neural Networks</a></td>
+<tr>
+<td><b>Sep 30, Oct 4</b></td>
+<td>
+Feedforward Neural Networks
+<!--a href="../docs/dsl2019/lecture_03.pdf">Feedforward Neural Networks</a-->
+</td>
 <td>
 Goodfellow et al. Ch. 6
 </td>
@@ -104,21 +107,23 @@ Goodfellow et al. Ch. 6
 </tr>
 
 <tr>
-<td><b>Oct 10</b></td>
+<td><b>Oct 7, 11</b></td>
 <td>
-<a href="../docs/dsl2018/lecture_04.pdf">Neural Network Toolkits</a><br/>
-<a href="https://github.com/erickrf/pytorch-lecture">Guest lecture: Erick Fonseca</a>
+Neural Network Toolkits
+<!--a href="../docs/dsl2018/lecture_04.pdf">Neural Network Toolkits</a-->
+<br/>
+<!--a href="https://github.com/erickrf/pytorch-lecture">Guest lecture: Erick Fonseca</a-->
 </td>
 <td>
 Goodfellow et al. Ch. 7-8
 </td>
 <td>
 HW1 is due.<br/>
-<a href=../docs/dsl2018/homework2.pdf>HW2 is out!</a>
+<!--a href=../docs/dsl2018/homework2.pdf>HW2 is out!</a-->
 </td>
 </tr>
 
-<tr>
+<!--tr>
 <td><b>Oct 17</b></td>
 <td>
 <a href="../docs/dsl2018/lecture_05.pdf">Linear Sequence Models</a>
