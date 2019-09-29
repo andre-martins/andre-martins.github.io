@@ -84,8 +84,10 @@ Murphy Ch. 1-2
 
 <tr>
 <td><b>Sep 23, 27</b></td>
-<td><a href="../docs/dsl2019/lecture_02.pdf">Linear Classifiers</a></td>
-<td>Linear Classifiers</td>
+<td>
+<!--Linear Classifiers<-->
+<a href="../docs/dsl2019/lecture_02.pdf">Linear Classifiers</a>
+</td>
 <td>
 Murphy Ch. 3, 6, 8-9, 14
 </td>
@@ -97,8 +99,8 @@ Murphy Ch. 3, 6, 8-9, 14
 <tr>
 <td><b>Sep 30, Oct 4</b></td>
 <td>
-Feedforward Neural Networks
-<!--a href="../docs/dsl2019/lecture_03.pdf">Feedforward Neural Networks</a-->
+<!-->Feedforward Neural Networks<-->
+<a href="../docs/dsl2019/lecture_03.pdf">Feedforward Neural Networks</a>
 </td>
 <td>
 Goodfellow et al. Ch. 6
