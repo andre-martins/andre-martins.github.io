@@ -20,9 +20,9 @@ We suggest below some project ideas. Feel free to use this as inspiration for yo
 # Explainability of Neural Networks
 
 - **Problem:** Neural networks are black boxes and not amenable to interpretation. The goal of this project is to develop and study methods that lead to explainability of neural network model's predictons (for example using sparsemax attention).
--- **Method:** For example, sparse attention, gradient-based measures of feature importance, LIME (see below).
--- **Data:** Stanford Sentiment Treebank, IMDB Large Movie Reviews Corpus, etc. See references below.
--- **References:**
+- **Method:** For example, sparse attention, gradient-based measures of feature importance, LIME (see below).
+- **Data:** Stanford Sentiment Treebank, IMDB Large Movie Reviews Corpus, etc. See references below.
+- **References:**
 
     1. [Marco T Ribeiro, Sammer Singh, and Carlos Guestrin. Why Should I Trust You? Explaining the Predictions of Any Classifier. KDD 2016.](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf)
     2. [Sarthak Jain and Byron C Wallace. Attention is not explanation. NAACL 2019.](https://www.aclweb.org/anthology/N19-1357.pdf)
@@ -37,7 +37,7 @@ We suggest below some project ideas. Feel free to use this as inspiration for yo
 - **Problem:** Compare different deep generative models' ability to generate discrete data (such as text).
 - **Methods:** Generative Adversarial Networks.
 - **Data:** [SNLI](https://nlp.stanford.edu/projects/snli/) (just the text), [Yelp/Yahoo datasets for unaligned sentiment/topic transfer](https://www.yelp.com/dataset/challenge), other text data.
-- **Evaluation:** Some of the metrics in [4].
+- **Evaluation:** Some of the metrics in [3].
 - **References:**
 
     1. [Goodfellow, Pouget-Abadie, Mirza, Xu, Warde-Farley, Ozair, Courville, Bengio. Generative Adversarial Networks. NIPS 2014.](https://arxiv.org/abs/1406.2661)  
@@ -71,9 +71,9 @@ We suggest below some project ideas. Feel free to use this as inspiration for yo
 
 # Contextual Probabilistic Embeddings / Language Modeling
 
--- **Problem:** Embedding words as vectors (aka point masses) cannot distinguish between more vague or more specific concepts. One solution is to embed words as a mean vector μ and a covariance Σ. Muzellec & Cuturi have a nice framework for this, tested for learning non-contextualized embeddings. Can we extend it to contextualized embeddings via language modelling? E.g. a model that reads an entire sentence and predicts a context-dependent pair (μ, Σ) for each word (perhaps left-to-right or masked). What likelihood to use? How can we evaluate the learned embeddings downstream?
--- **Method:** See reference below.
--- **References:**
+- **Problem:** Embedding words as vectors (aka point masses) cannot distinguish between more vague or more specific concepts. One solution is to embed words as a mean vector μ and a covariance Σ. Muzellec & Cuturi have a nice framework for this, tested for learning non-contextualized embeddings. Can we extend it to contextualized embeddings via language modelling? E.g. a model that reads an entire sentence and predicts a context-dependent pair (μ, Σ) for each word (perhaps left-to-right or masked). What likelihood to use? How can we evaluate the learned embeddings downstream?
+- **Method:** See reference below.
+- **References:**
 
     1. [Boris Muzellec, Marco Cuturi. Generalizing Point Embeddings using the Wasserstein Space of Elliptical Distributions. Arxiv 2018.](https://arxiv.org/abs/1805.07594)
 
