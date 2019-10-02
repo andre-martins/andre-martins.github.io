@@ -43,11 +43,11 @@
 <hr />
 <h1>Explainability of Neural Networks</h1>
 <ul>
+<li><strong>Problem:</strong> Neural networks are black boxes and not amenable to interpretation. The goal of this project is to develop and study methods that lead to explainability of neural network model's predictons (for example using sparsemax attention).</li>
+<li><strong>Method:</strong> For example, sparse attention, gradient-based measures of feature importance, LIME (see below).</li>
+<li><strong>Data:</strong> Stanford Sentiment Treebank, IMDB Large Movie Reviews Corpus, etc. See references below.</li>
 <li>
-<p><strong>Problem:</strong> Neural networks are black boxes and not amenable to interpretation. The goal of this project is to develop and study methods that lead to explainability of neural network model's predictons (for example using sparsemax attention).
--- <strong>Method:</strong> For example, sparse attention, gradient-based measures of feature importance, LIME (see below).
--- <strong>Data:</strong> Stanford Sentiment Treebank, IMDB Large Movie Reviews Corpus, etc. See references below.
--- <strong>References:</strong></p>
+<p><strong>References:</strong></p>
 <ol>
 <li><a href="https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf">Marco T Ribeiro, Sammer Singh, and Carlos Guestrin. Why Should I Trust You? Explaining the Predictions of Any Classifier. KDD 2016.</a></li>
 <li><a href="https://www.aclweb.org/anthology/N19-1357.pdf">Sarthak Jain and Byron C Wallace. Attention is not explanation. NAACL 2019.</a></li>
@@ -63,7 +63,7 @@
 <li><strong>Problem:</strong> Compare different deep generative models' ability to generate discrete data (such as text).</li>
 <li><strong>Methods:</strong> Generative Adversarial Networks.</li>
 <li><strong>Data:</strong> <a href="https://nlp.stanford.edu/projects/snli/">SNLI</a> (just the text), <a href="https://www.yelp.com/dataset/challenge">Yelp/Yahoo datasets for unaligned sentiment/topic transfer</a>, other text data.</li>
-<li><strong>Evaluation:</strong> Some of the metrics in [4].</li>
+<li><strong>Evaluation:</strong> Some of the metrics in [3].</li>
 <li>
 <p><strong>References:</strong></p>
 <ol>
@@ -99,11 +99,16 @@
 </ul>
 <hr />
 <h1>Contextual Probabilistic Embeddings / Language Modeling</h1>
-<p>-- <strong>Problem:</strong> Embedding words as vectors (aka point masses) cannot distinguish between more vague or more specific concepts. One solution is to embed words as a mean vector μ and a covariance Σ. Muzellec &amp; Cuturi have a nice framework for this, tested for learning non-contextualized embeddings. Can we extend it to contextualized embeddings via language modelling? E.g. a model that reads an entire sentence and predicts a context-dependent pair (μ, Σ) for each word (perhaps left-to-right or masked). What likelihood to use? How can we evaluate the learned embeddings downstream?
--- <strong>Method:</strong> See reference below.
--- <strong>References:</strong></p>
-<pre><code>1. [Boris Muzellec, Marco Cuturi. Generalizing Point Embeddings using the Wasserstein Space of Elliptical Distributions. Arxiv 2018.](https://arxiv.org/abs/1805.07594)
-</code></pre>
+<ul>
+<li><strong>Problem:</strong> Embedding words as vectors (aka point masses) cannot distinguish between more vague or more specific concepts. One solution is to embed words as a mean vector μ and a covariance Σ. Muzellec &amp; Cuturi have a nice framework for this, tested for learning non-contextualized embeddings. Can we extend it to contextualized embeddings via language modelling? E.g. a model that reads an entire sentence and predicts a context-dependent pair (μ, Σ) for each word (perhaps left-to-right or masked). What likelihood to use? How can we evaluate the learned embeddings downstream?</li>
+<li><strong>Method:</strong> See reference below.</li>
+<li>
+<p><strong>References:</strong></p>
+<ol>
+<li><a href="https://arxiv.org/abs/1805.07594">Boris Muzellec, Marco Cuturi. Generalizing Point Embeddings using the Wasserstein Space of Elliptical Distributions. Arxiv 2018.</a></li>
+</ol>
+</li>
+</ul>
 <hr />
 <h1>Constrained Structured Classification with AD3</h1>
 <ul>
