@@ -1,4 +1,4 @@
-Title: Project Examples for Deep Structured Learning (Fall 2018)
+Title: Project Examples for Deep Structured Learning (Fall 2019)
 
 We suggest below some project ideas. Feel free to use this as inspiration for your project. Talk to us for more details.
 
