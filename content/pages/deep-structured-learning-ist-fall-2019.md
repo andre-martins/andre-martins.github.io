@@ -33,9 +33,9 @@ The course project is an opportunity for you to explore an interesting problem u
 
 **Milestones:** There are 3 deliverables:
 
-- Proposal: A 1-page description of the project. Do not forget to include a title, the team members, and a short description of the problem, methodology, data, and evaluation metrics. **Due on 17/10.**
-- Midway report: Introduction, related work, details of the proposed method, and preliminary results if available (4-5 pages). **Due on 14/11.**
-- Final report: A full report written as a conference paper, including all the above in full detail, finished experiments and results, conclusion and future work (8 pages excluding references). **Due on 12/12.**
+- Proposal: A 1-page description of the project. Do not forget to include a title, the team members, and a short description of the problem, methodology, data, and evaluation metrics. **Due on 18/10.**
+- Midway report: Introduction, related work, details of the proposed method, and preliminary results if available (4-5 pages). **Due on 15/11.**
+- Final report: A full report written as a conference paper, including all the above in full detail, finished experiments and results, conclusion and future work (8 pages excluding references). **Due on 13/12.**
 
 All reports should be in [NIPS format](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles). There will be a class presentation and (tentatively) a poster session, where you can present your work to the peers, instructors, and other community members who will stop by.
 
@@ -109,7 +109,19 @@ Goodfellow et al. Ch. 6
 </tr>
 
 <tr>
-<td><b>Oct 7, 11</b></td>
+<td><b>Oct 7</b></td>
+<td>
+Representation Learning and Convolutional Neural Networks
+<!--a href="../docs/dsl2018/lecture_06.pdf">Representation Learning and Convolutional Neural Networks</a-->
+</td>
+<td>
+Goodfellow et al. Ch. 9, 14-15
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td><b>Oct 11 (room E5!)</b></td>
 <td>
 Neural Network Toolkits
 <!--a href="../docs/dsl2018/lecture_04.pdf">Neural Network Toolkits</a-->
@@ -121,14 +133,28 @@ Goodfellow et al. Ch. 7-8
 </td>
 <td>
 HW1 is due.<br/>
+HW2 out.
 <!--a href=../docs/dsl2018/homework2.pdf>HW2 is out!</a-->
 </td>
 </tr>
 
-<!--tr>
-<td><b>Oct 17</b></td>
+<tr>
+<td><b>Oct 14</b></td>
 <td>
-<a href="../docs/dsl2018/lecture_05.pdf">Linear Sequence Models</a>
+Representation Learning and Convolutional Neural Networks (c'ed)
+<!--a href="../docs/dsl2018/lecture_06.pdf">Representation Learning and Convolutional Neural Networks</a-->
+</td>
+<td>
+Goodfellow et al. Ch. 9, 14-15
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td><b>Oct 18, 21</b></td>
+<td>
+Linear Sequence Models
+<!--a href="../docs/dsl2018/lecture_05.pdf">Linear Sequence Models</a-->
 </td>
 <td>
 Smith, Ch. 3-4<br/>
@@ -138,47 +164,40 @@ Murphy Ch. 17, 19
 </tr>
 
 <tr>
-<td><b>Oct 24</b></td>
+<td><b>Oct 25, 28</b></td>
 <td>
-<a href="../docs/dsl2018/lecture_06.pdf">Representation Learning and Convolutional Neural Networks</a>
+Recurrent Neural Networks
+<!--a href="../docs/dsl2018/lecture_08.pdf">Recurrent Neural Networks</a-->
 </td>
 <td>
-Goodfellow et al. Ch. 9, 14-15
+Goodfellow et al. Ch. 10
 </td>
-<td></td>
+<td>
+HW2 is due.<br/>
+HW3 out.
+<!--a href=../docs/dsl2018/homework3.pdf>HW3 is out!</a-->
+</td>
 </tr>
 
 <tr>
-<td><b>Oct 31 (rescheduled to Oct 29, rooms V1.17/V1.11!)</b></td>
+<td><b>Nov 4, 8</b></td>
 <td>
-<a href="../docs/dsl2018/lecture_07.pdf">Structured Prediction and Graphical Models</a>
+Structured Prediction and Graphical Models
+<!--a href="../docs/dsl2018/lecture_07.pdf">Structured Prediction and Graphical Models</a-->
 </td>
 <td>
 Murphy Ch. 10, 19-22<br/>
 Goodfellow et al. Ch. 16<br/>
 <a href="http://www.inference.org.uk/itprnn/book.pdf">David MacKay's book, Ch. 16, 25-26</a>
 </td>
-<td>
-HW2 is due.<br/>
-<a href=../docs/dsl2018/homework3.pdf>HW3 is out!</a>
-</td>
-</tr>
-
-<tr>
-<td><b>Nov 7</b></td>
-<td>
-<a href="../docs/dsl2018/lecture_08.pdf">Recurrent Neural Networks</a>
-</td>
-<td>
-Goodfellow et al. Ch. 10
-</td>
 <td></td>
 </tr>
 
 <tr>
-<td><b>Nov 14 (room E5)</b></td>
+<td><b>Nov 11, 15</b></td>
 <td>
-<a href="../docs/dsl2018/lecture_09.pdf">Sequence-to-Sequence Learning</a>
+Sequence-to-Sequence Learning
+<!--a href="../docs/dsl2018/lecture_09.pdf">Sequence-to-Sequence Learning</a-->
 </td>
 <td>
 <a href="https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf">Sutskever et al.</a>, 
@@ -189,25 +208,28 @@ Goodfellow et al. Ch. 10
 </tr>
 
 <tr>
-<td><b>Nov 21 (room F8)</b></td>
+<td><b>Nov 18, 22</b></td>
 <td>
-<a href="../docs/dsl2018/lecture_10.pdf">Attention Mechanisms and Neural Memories</a><br/>
-<a href="../docs/dsl2018/attention.pdf">Guest lecture: Vlad Niculae</a>
+Attention Mechanisms and Neural Memories
+<!--a href="../docs/dsl2018/lecture_10.pdf">Attention Mechanisms and Neural Memories</a><br/-->
+<!--a href="../docs/dsl2018/attention.pdf">Guest lecture: Vlad Niculae</a-->
 </td>
 <td>
 <a href="https://vene.ro/talks/18-sparsemap-amsterdam.pdf">Learning with Sparse Latent Structure</a>
 </td>
 <td>HW3 is due.<br/>
-<a href=../docs/dsl2018/homework4.pdf>HW4 is out!</a>
+HW4 is out!
+<!--a href=../docs/dsl2018/homework4.pdf>HW4 is out!</a-->
 </td>
 </tr>
 
 <tr>
-<td><b>Nov 28</b></td>
+<td><b>Nov 25, 29</b></td>
 <td>
-<a href="../docs/dsl2018/DeepRL.pdf">Deep Reinforcement Learning</a><br/>
-<a href="../docs/dsl2018/taxi.py">Game of Taxi</a><br/>
-Guest lecture: Francisco Melo
+Reinforcement Learning
+<!--a href="../docs/dsl2018/DeepRL.pdf">Deep Reinforcement Learning</a><br/-->
+<!--a href="../docs/dsl2018/taxi.py">Game of Taxi</a><br/-->
+<!--Guest lecture: Francisco Melo-->
 </td>
 <td>
 </td>
@@ -217,9 +239,10 @@ Midterm report is due.
 </tr>
 
 <tr>
-<td><b>Dec 5</b></td>
+<td><b>Dec 2, 6</b></td>
 <td>
-<a href="../docs/dsl2018/lecture_12.pdf">Deep Generative Models</a><br/>
+Deep Generative Models
+<!--a href="../docs/dsl2018/lecture_12.pdf">Deep Generative Models</a><br/-->
 </td>
 <td>
 Goodfellow et al. Ch. 20<br/>
@@ -230,7 +253,7 @@ Murphy, Ch. 28<br/>
 <td></td>
 </tr>
 
-<tr>
+<!--tr>
 <td><b>Jan 9</b></td>
 <td></td>
 <td>
@@ -238,23 +261,14 @@ Murphy, Ch. 28<br/>
 <td>
 Final report is due.
 </td>
-</tr>
-
-<tr>
-<td><b>Jan 16</b></td>
-<td>Final Projects I</td>
-<td>
-</td>
-<td></td>
-</tr>
-
-<tr>
-<td><b>Jan 23</b></td>
-<td>Final Projects II</td>
-<td>
-</td>
-<td></td>
 </tr-->
 
+<tr>
+<td><b>Dec 9, 13, 16</b></td>
+<td>Final Projects</td>
+<td>
+</td>
+<td></td>
+</tr>
 
 </table>
