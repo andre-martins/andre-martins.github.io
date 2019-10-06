@@ -112,7 +112,7 @@ Goodfellow et al. Ch. 6
 <td><b>Oct 7</b></td>
 <td>
 Representation Learning and Convolutional Neural Networks
-<!--a href="../docs/dsl2018/lecture_06.pdf">Representation Learning and Convolutional Neural Networks</a-->
+<a href="../docs/dsl2019/lecture_04.pdf">Representation Learning and Convolutional Neural Networks</a>
 </td>
 <td>
 Goodfellow et al. Ch. 9, 14-15
