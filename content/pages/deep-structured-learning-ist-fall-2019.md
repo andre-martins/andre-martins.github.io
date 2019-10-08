@@ -138,7 +138,7 @@ HW2 out.
 </tr>
 
 <tr>
-<td><b>Oct 14</b></td>
+<td><b>Oct 14 (room Q4.6!)</b></td>
 <td>
 Representation Learning and Convolutional Neural Networks (c'ed)
 <!--a href="../docs/dsl2018/lecture_06.pdf">Representation Learning and Convolutional Neural Networks</a-->
