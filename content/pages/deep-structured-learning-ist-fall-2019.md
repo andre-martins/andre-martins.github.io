@@ -122,8 +122,7 @@ Goodfellow et al. Ch. 9, 14-15
 <tr>
 <td><b>Oct 11 (room E5!)</b></td>
 <td>
-Neural Network Toolkits
-<br/>
+<!--Neural Network Toolkits-->
 <a href="https://github.com/goncalomcorreia/pytorch-lecture">Neural Network Toolkits (Gonçalo Correia)</a>
 </td>
 <td>
