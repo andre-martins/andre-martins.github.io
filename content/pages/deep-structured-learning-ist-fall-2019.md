@@ -150,8 +150,7 @@ Goodfellow et al. Ch. 9, 14-15
 <tr>
 <td><b>Oct 18, 21</b></td>
 <td>
-Linear Sequence Models
-<!--a href="../docs/dsl2018/lecture_05.pdf">Linear Sequence Models</a-->
+<a href="../docs/dsl2019/lecture_05.pdf">Linear Sequence Models</a>
 </td>
 <td>
 Smith, Ch. 3-4<br/>
