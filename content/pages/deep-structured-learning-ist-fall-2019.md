@@ -162,8 +162,7 @@ Murphy Ch. 17, 19
 <tr>
 <td><b>Oct 25, 28</b></td>
 <td>
-Recurrent Neural Networks
-<!--a href="../docs/dsl2018/lecture_08.pdf">Recurrent Neural Networks</a-->
+<a href="../docs/dsl2019/lecture_06.pdf">Recurrent Neural Networks</a>
 </td>
 <td>
 Goodfellow et al. Ch. 10
