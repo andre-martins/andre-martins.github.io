@@ -170,7 +170,7 @@ Goodfellow et al. Ch. 10
 <td>
 HW2 is due (Nov 1).<br/>
 HW3 out.
-<!--a href=../docs/dsl2018/homework3.pdf>HW3 is out!</a-->
+<a href=../docs/dsl2019/homework3.pdf>HW3 is out!</a>
 </td>
 </tr>
 
