@@ -34,8 +34,8 @@ The course project is an opportunity for you to explore an interesting problem u
 **Milestones:** There are 3 deliverables:
 
 - Proposal: A 1-page description of the project. Do not forget to include a title, the team members, and a short description of the problem, methodology, data, and evaluation metrics. **Due on 18/10.**
-- Midway report: Introduction, related work, details of the proposed method, and preliminary results if available (4-5 pages). **Due on 15/11.**
-- Final report: A full report written as a conference paper, including all the above in full detail, finished experiments and results, conclusion and future work (8 pages excluding references). **Due on 13/12.**
+- Midway report: Introduction, related work, details of the proposed method, and preliminary results if available (4-5 pages). **Due on 25/11.**
+- Final report: A full report written as a conference paper, including all the above in full detail, finished experiments and results, conclusion and future work (8 pages excluding references). **Due on 6/1.**
 
 All reports should be in [NIPS format](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles). There will be a class presentation and (tentatively) a poster session, where you can present your work to the peers, instructors, and other community members who will stop by.
 
@@ -246,18 +246,18 @@ Murphy, Ch. 28<br/>
 <td></td>
 </tr>
 
-<!--tr>
-<td><b>Jan 9</b></td>
+<tr>
+<td><b>Jan 6</b></td>
 <td></td>
 <td>
 </td>
 <td>
 Final report is due.
 </td>
-</tr-->
+</tr>
 
 <tr>
-<td><b>Dec 9, 13, 16</b></td>
+<td><b>Jan 10, 13</b></td>
 <td>Final Projects</td>
 <td>
 </td>
