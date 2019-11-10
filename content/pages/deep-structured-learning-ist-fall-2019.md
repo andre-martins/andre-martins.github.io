@@ -37,7 +37,7 @@ The course project is an opportunity for you to explore an interesting problem u
 - Midway report: Introduction, related work, details of the proposed method, and preliminary results if available (4-5 pages). **Due on 25/11.**
 - Final report: A full report written as a conference paper, including all the above in full detail, finished experiments and results, conclusion and future work (8 pages excluding references). **Due on 6/1.**
 
-All reports should be in [NIPS format](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles). There will be a class presentation and (tentatively) a poster session, where you can present your work to the peers, instructors, and other community members who will stop by.
+All reports should be in [NeurIPS format](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles). There will be a class presentation and (tentatively) a poster session, where you can present your work to the peers, instructors, and other community members who will stop by.
 
 See [here](/pages/project-examples-for-deep-structured-learning-fall-2019.html) for a list of project ideas.
 
@@ -181,7 +181,9 @@ HW2 is due (Nov 1).<br/>
 <td>
 Murphy Ch. 10, 19-22<br/>
 Goodfellow et al. Ch. 16<br/>
-<a href="http://www.inference.org.uk/itprnn/book.pdf">David MacKay's book, Ch. 16, 25-26</a>
+<a href="http://www.inference.org.uk/itprnn/book.pdf">David MacKay's book, Ch. 16, 25-26</a><br/>
+<a href="https://sailinglab.github.io/pgm-spring-2019/notes/lecture-04">Eric Xing's CMU lecture</a><br/>
+<a href="https://ermongroup.github.io/cs228-notes/inference/ve">Stefano Ermon's notes on variable elimination</a>
 </td>
 <td></td>
 </tr>
@@ -189,8 +191,7 @@ Goodfellow et al. Ch. 16<br/>
 <tr>
 <td><b>Nov 11, 15</b></td>
 <td>
-Sequence-to-Sequence Learning
-<!--a href="../docs/dsl2018/lecture_09.pdf">Sequence-to-Sequence Learning</a-->
+<a href="../docs/dsl2019/lecture_08.pdf">Sequence-to-Sequence Learning</a>
 </td>
 <td>
 <a href="https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf">Sutskever et al.</a>, 
@@ -240,7 +241,7 @@ Deep Generative Models
 <td>
 Goodfellow et al. Ch. 20<br/>
 Murphy, Ch. 28<br/>
-<a href="http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf">NIPS16 tutorial on GANs</a><br/>
+<a href="http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf">NeurIPS16 tutorial on GANs</a><br/>
 <a href="https://arxiv.org/abs/1312.6114">Kingma and Welling, 2014</a><br/>
 </td>
 <td></td>
