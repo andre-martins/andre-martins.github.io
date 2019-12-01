@@ -232,8 +232,7 @@ Midterm report is due.
 <tr>
 <td><b>Dec 2, 6</b></td>
 <td>
-Deep Generative Models
-<!--a href="../docs/dsl2018/lecture_12.pdf">Deep Generative Models</a><br/-->
+<a href="../docs/dsl2019/lecture_11.pdf">Deep Generative Models</a><br/>
 </td>
 <td>
 Goodfellow et al. Ch. 20<br/>
