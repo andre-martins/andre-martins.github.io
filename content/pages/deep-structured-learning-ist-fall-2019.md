@@ -218,9 +218,8 @@ Goodfellow et al. Ch. 16<br/>
 <tr>
 <td><b>Nov 25, 29</b></td>
 <td>
-Reinforcement Learning (Francisco Melo)
-<!--a href="../docs/dsl2018/DeepRL.pdf">Deep Reinforcement Learning</a><br/-->
-<!--a href="../docs/dsl2018/taxi.py">Game of Taxi</a><br/-->
+<a href="../docs/dsl2018/DeepRL.pdf">Deep Reinforcement Learning (Francisco Melo)</a><br/>
+<a href="../docs/dsl2019/taxi.py">Game of Taxi</a><br/>
 </td>
 <td>
 </td>
