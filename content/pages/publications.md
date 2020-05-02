@@ -3,8 +3,8 @@ Title: Publications
 # 2020
 
 * Mathieu Blondel, André F. T. Martins, and Vlad Niculae.  
-"Learning with Fenchel-Young losses."
-Journal of Machine Learning Research 21 (2020) 1-69.
+"Learning with Fenchel-Young losses."  
+Journal of Machine Learning Research, 21 (2020) 1--69.  
 [[pdf]](http://jmlr.csail.mit.edu/papers/volume21/19-021/19-021.pdf)  
 
 
