@@ -20,8 +20,6 @@ See [here](https://deep-spin.github.io) for more information about DeepSPIN, our
 
 The specific roles assigned to the project members will take into account their research interests and their background.
 
-The postdoc is a 2-year position, with the possibility of extension up to 4 years. The salary range is 2500-3000 EUR (free of tax), depending on the candidate's experience. The PhD is a 4-year position, with salary range 1500-2000 EUR (free of tax).
-
 The postdoc is a 2-year position, with the possibility of extension up to 3 years. The salary range is 2500-3000 EUR (free of tax), depending on the candidate's experience.
 This post-doc position can potentially evolve into a ["ELLIS post-doc"](https://ellis.eu/phd-postdoc). and include a visit to an exchange institution in the ELLIS network.
 
