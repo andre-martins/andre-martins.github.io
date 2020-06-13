@@ -10,13 +10,14 @@ save_as: index.html
       <img style="width: 520px; height: 390px;" alt="Beijing, August 2015" src="{filename}/images/andre_beijing.jpg"></td>
       <td style="vertical-align: top;"><span style="font-weight: bold;"> Contact information:</span><br>
         <br>
-        afm AT CS DOT CMU DOT EDU<br>
+        andre.t.martins AT tecnico DOT ulisboa DOT pt<br>
         <br>
-        Unbabel<br>
-        Rua Visconde de Santarém, 67-B<br>
-        1000-286 Lisboa - Portugal<br>
+        Instituto de Telecomunicacões<br>
+        Torre Norte - Sala 9.07<br>
+	Av. Rovisco Pais, 1
+        1049-001 Lisboa - Portugal<br>
         <br>
-        <span style="font-weight: bold;">Phone:</span> +351 308 805 425<br>
+        <span style="font-weight: bold;">Phone:</span> +351 218418454<br>
         <br>
         <a href="http://unbabel.com"><img style="border: 0px solid ; width: 80px;" alt="Unbabel logo" src="{filename}/images/unbabel-logo.png"></a>
         <a href="http://tecnico.ulisboa.pt"><img style="border: 0px solid ; width: 120px;" alt="IST logo" src="{filename}/images/IST-logo.png"></a><br>
@@ -26,7 +27,7 @@ save_as: index.html
   </tbody>
 </table>
 
-I am a Research Scientist at [Unbabel](http://unbabel.com) in [Lisbon](http://en.wikipedia.org/wiki/Lisbon), [Portugal](http://en.wikipedia.org/wiki/Portugal), an Invited Assistant Professor at [Instituto Superior Técnico](https://tecnico.ulisboa.pt), and a Senior Researcher at the [Instituto de Telecomunicações](http://www.lx.it.pt). I also do scientific consulting for [Priberam Labs](http://labs.priberam.com).
+I am an Associate Professor at [Instituto Superior Técnico](https://tecnico.ulisboa.pt), Senior Researcher at the [Instituto de Telecomunicações](http://www.lx.it.pt), and VP of AI Research at [Unbabel](http://unbabel.com) in [Lisbon](http://en.wikipedia.org/wiki/Lisbon), [Portugal](http://en.wikipedia.org/wiki/Portugal). I also do scientific consulting for [Priberam Labs](http://labs.priberam.com).
 I work on natural language processing and machine learning.
 
 Until 2012, I was a PhD student in the joint CMU-Portugal program in Language Technologies, at [Carnegie Mellon University](http://www.cmu.edu) and Instituto Superior Técnico.
@@ -67,12 +68,17 @@ My advisors were [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Noah Smith](htt
 
 # News
 
+* **We have an opening for a Post-Doc position in the DeepSPIN project.** See [here](pages/jobs.html) for details!
+* I am co-organizing LxMLS 2020 (Lisbon Machine Learning School), which will be a fully remote school this year. See [here](http://lxmls.it.pt) for details!
+* We have new papers accepted at ACL 2020, ICML 2020, and EAMT 2020.
+* We have a new [JMLR paper](http://jmlr.csail.mit.edu/papers/volume21/19-021/19-021.pdf) on Learning with Fenchel-Young Losses (work done with collaboration with [Mathieu Blondel](http://mblondel.org)).
+* I am AC for NeurIPS 2020 and EMNLP 2020.
+* I was SAC for ACL 2020 and AC for ICLR 2020.
 * We presented a [tutorial on Latent Structure Models for NLP](https://deep-spin.github.io/tutorial/) at ACL 2019 in Florence.  
 * I am giving an invited talk at the [First EurNLP Summit](https://www.eurnlp.org) in London.  
 * I am giving invited talks at 3 Summer schools: [LxMLS 2019](http://lxmls.it.pt) in Lisbon, [AthNLP 2019](http://athnlp.iit.demokritos.gr) in Athens, and [MLRS 2019](https://www.mlrs.ai) in Bangkok. 
-* I am co-organizing LxMLS 2019 (Lisbon Machine Learning School). See [here](http://lxmls.it.pt) for details!
 * I was part of a discussion panel at Culturgest about AI. Here's the [video](https://www.culturgest.pt/pt/programacao/ana-paiva-andre-martins-e-arlindo-oliveira-especulacoes) (in Portuguese).
-* We have new papers accepted at AISTATS, NAACL, and ACL 2019.
+* We have new papers accepted at AISTATS, NAACL, ACL, and EMNLP 2019.
 * Unbabel won the WMT 2019 Shared Task on Quality Estimation! Check the results [here](http://www.statmt.org/wmt19/qe-results.html)!
 * We received the **best system demo paper award** for OpenKiwi, a Pytorch-based software toolkit for translation quality estimation. Check the [repo](https://github.com/Unbabel/OpenKiwi) and the [demo paper](https://arxiv.org/abs/1902.08646) at ACL 2019!   
 * We have a new EMNLP paper where we propose **SparseMAP** to build dynamic computation graphs via sparse latent structure.
