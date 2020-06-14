@@ -14,14 +14,14 @@ Three research directions are:
 
   1. Better planning mechanisms for structural reasoning. This includes efficient use of large contexts and long-term memories, better handling of uncertainty, and research on calibration and confidence estimation methods.  
   2. Induction of interpretable latent structure, exploiting synergies with probabilistic inference and sparse modeling. This includes sparse and structured attention mechanisms, latent variable models, and induction of latent explanations.  
-  3. Weak supervision and few-shot learning to reduce the need for labeled data. This includes discrete, semi-supervised latent variable models and modular networks with specialized components.  
+  3. Weak supervision and few-shot learning to reduce the need for labeled data. This includes discrete, semi-supervised latent variable models and modular networks to learn disentangled representations.  
 
 See [here](https://deep-spin.github.io) for more information about DeepSPIN, our team, and some of our recent publications.
 
 The specific roles assigned to the project members will take into account their research interests and their background.
 
 The postdoc is a 2-year position, with the possibility of extension up to 3 years. The salary range is 2500-3000 EUR (free of tax), depending on the candidate's experience.
-This post-doc position can potentially evolve into a ["ELLIS post-doc"](https://ellis.eu/phd-postdoc). and include a visit to an exchange institution in the ELLIS network.
+This position can potentially evolve into a ["ELLIS post-doc"](https://ellis.eu/phd-postdoc) and include a visit to an exchange institution in the ELLIS network.
 
 If interested in this position, please send an email with your CV to andre.t.martins AT tecnico.ulisboa.pt. Feel free to contact me for any further information.
 
