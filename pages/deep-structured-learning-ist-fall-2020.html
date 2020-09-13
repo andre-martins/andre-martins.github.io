@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Deep Structured Learning (IST, Fall 2020)</title>
+        <link rel="stylesheet" href="../theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="../">André F. T. Martins </a></h1>
+                <nav><ul>
+                    <li><a href="/index.html">Home</a></li>
+                    <li><a href="/pages/jobs.html">Jobs</a></li>
+                    <li><a href="/pages/publications.html">Publications</a></li>
+                    <li><a href="/pages/software.html">Software</a></li>
+                    <li><a href="/pages/courses.html">Courses</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+    <h1 class="entry-title">Deep Structured Learning (IST, Fall 2020)</h1>
+    
+    <h1>Summary</h1>
+<p><strong>Structured prediction</strong> is a framework in machine learning which deals with structured and highly interdependent output variables, with applications in natural language processing, computer vision, computational biology, and signal processing.
+In the last 5 years, several applications in these areas achieved new breakthroughs by replacing the traditional feature-based linear models by more powerful deep learning models based on neural networks, capable of learning internal representations.</p>
+<p>In this course, we will describe methods, models, and algorithms for structured prediction, ranging from "shallow" <strong>linear models</strong> (hidden Markov models, conditional random fields, structured support vector machines) to modern <strong>deep learning models</strong> (convolutional networks, recurrent neural networks, attention mechanisms, etc.), passing through shallow and deep methods akin to reinforcement learning. Representation learning will also be discussed (PCA, auto-encoders, and various deep generative models).
+The theoretical concepts taught in this course will be complemented by a strong practical component, by letting students work in group projects where they can solve practical problems by using software suitable for deep learning (e.g., Pytorch, TensorFlow, DyNet).</p>
+<hr />
+<h1>Course Information</h1>
+<ul>
+<li><strong>Instructor:</strong> <a href="http://andre-martins.github.io">André Martins</a></li>
+<li><strong>TA:</strong> <a href="http://mtreviso.github.io">Marcos Treviso</a></li>
+<li><strong>Schedule:</strong> The classes are held on Wednesdays 14:30-17:30 remotely (Zoom link to be provided)</li>
+<li><strong>Communication</strong>: <a href="http://piazza.com/tecnico.ulisboa.pt/fall2020/pdeecdsl">piazza.com/tecnico.ulisboa.pt/fall2020/pdeecdsl</a></li>
+</ul>
+<hr />
+<h1>Grading</h1>
+<ul>
+<li>Homework assignments (60%)</li>
+<li>Final project (40%)</li>
+</ul>
+<hr />
+<h1>Project Examples</h1>
+<p>The course project is an opportunity for you to explore an interesting problem using a real-world dataset. You can either choose one of <a href="/pages/project-examples-for-deep-structured-learning-fall-2020.html">our suggested projects</a> or pick your own topic (the latter is encouraged). We encourage you to discuss your project with TAs/instructor to get feedback on your ideas.</p>
+<p><strong>Team:</strong> Projects can be done by a team of 2-4 students. You may use Piazza to find potential team mates.</p>
+<p><strong>Milestones:</strong> There are 3 deliverables:</p>
+<ul>
+<li>Proposal: A 1-page description of the project. Do not forget to include a title, the team members, and a short description of the problem, methodology, data, and evaluation metrics. <strong>Due on 16/10.</strong></li>
+<li>Midway report: Introduction, related work, details of the proposed method, and preliminary results if available (4-5 pages). <strong>Due on 20/11.</strong></li>
+<li>Final report: A full report written as a conference paper, including all the above in full detail, finished experiments and results, conclusion and future work (8 pages excluding references). <strong>Due on 8/1.</strong></li>
+</ul>
+<p>All reports should be in <a href="https://nips.cc/Conferences/2018/PaperInformation/StyleFiles">NeurIPS format</a>. There will be a class presentation and (tentatively) a poster session, where you can present your work to the peers, instructors, and other community members who will stop by.</p>
+<p>See <a href="/pages/project-examples-for-deep-structured-learning-fall-2020.html">here</a> for a list of project ideas.</p>
+<hr />
+<h1>Recommended Bibliography</h1>
+<ul>
+<li><a href="http://www.deeplearningbook.org">Deep Learning.</a> Ian Goodfellow and Yoshua Bengio and Aaron Courville. MIT Press, 2016.</li>
+<li>Machine Learning: a Probabilistic Perspective. Kevin P. Murphy. MIT Press, 2013.</li>
+<li>Linguistic Structured Prediction. Noah A. Smith. Morgan &amp; Claypool Synthesis Lectures on Human Language Technologies. 2011.</li>
+</ul>
+<hr />
+<h1>Schedule</h1>
+<table class="table table-condensed table-bordered table-hover">
+<colgroup>
+  <col span="1" style="width: 10%;">
+  <col span="1" style="width: 45%;">
+  <col span="1" style="width: 30%;">
+  <col span="1" style="width: 15%;">
+</colgroup>
+
+<tr>
+<th>Date</th>
+<th>Topic</th>
+<th>Optional Reading</th>
+<th></th>
+</tr>
+
+<tr>
+<td><b>Sep 23</b></td>
+<td>
+<a href="../docs/dsl2020/lecture_01.pdf">Introduction and Course Description</a>
+</td>
+<td>
+<!--a href="http://lxmls.it.pt/2018/Figueiredo_LxMLS2018.pdf">Mário Figueiredo's LxMLS intro lecture</a><br/>
+<a href="https://github.com/luispedro/talk-python-intro">Luis Pedro Coelho's intro to Python</a><br/-->
+Goodfellow et al. Ch. 1-5<br/>
+Murphy Ch. 1-2
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td><b>Sep 30</b></td>
+<td>
+<!--Linear Classifiers-->
+<a href="../docs/dsl2020/lecture_02.pdf">Linear Classifiers</a>
+</td>
+<td>
+Murphy Ch. 3, 6, 8-9, 14
+</td>
+<td>
+<a href=../docs/dsl2020/homework1.pdf>HW1 is out!</a> <a href=../docs/dsl2020/hw1.py>Skeleton code.</a> 
+</td>
+</tr>
+
+<tr>
+<td><b>Oct 7</b></td>
+<td>
+<!--Feedforward Neural Networks-->
+<a href="../docs/dsl2020/lecture_03.pdf">Feedforward Neural Networks</a>
+</td>
+<td>
+Goodfellow et al. Ch. 6
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td><b>Oct 14</b></td>
+<td>
+<a href="../docs/dsl2020/lecture_04.pdf">Representation Learning and Convolutional Neural Networks</a>
+</td>
+<td>
+Goodfellow et al. Ch. 9, 14-15
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td><b>Oct 21</b></td>
+<td>
+<!--Neural Network Toolkits-->
+<a href="https://github.com/goncalomcorreia/pytorch-lecture">Neural Network Toolkits (Marcos Treviso)</a>
+</td>
+<td>
+Goodfellow et al. Ch. 7-8
+</td>
+<td>
+HW1 is due.
+</td>
+</tr>
+
+<tr>
+<td><b>Oct 28</b></td>
+<td>
+<a href="../docs/dsl2020/lecture_05.pdf">Linear Sequence Models</a>
+</td>
+<td>
+Smith, Ch. 3-4<br/>
+Murphy Ch. 17, 19
+</td>
+<td>Project proposal is due.</td>
+</tr>
+
+<tr>
+<td><b>Nov 4</b></td>
+<td>
+<a href="../docs/dsl2020/lecture_06.pdf">Recurrent Neural Networks</a>
+</td>
+<td>
+Goodfellow et al. Ch. 10
+</td>
+<td>
+HW2 is due.<br/>
+<a href=../docs/dsl2020/homework3.pdf>HW3 is out!</a>
+</td>
+</tr>
+
+<tr>
+<td><b>Nov 11</b></td>
+<td>
+<a href="../docs/dsl2020/lecture_07.pdf">Probabilistic Graphical Models</a>
+</td>
+<td>
+Murphy Ch. 10, 19-22<br/>
+Goodfellow et al. Ch. 16<br/>
+<a href="http://www.inference.org.uk/itprnn/book.pdf">David MacKay's book, Ch. 16, 25-26</a><br/>
+<a href="https://sailinglab.github.io/pgm-spring-2019/notes/lecture-04">Eric Xing's CMU lecture</a><br/>
+<a href="https://ermongroup.github.io/cs228-notes/inference/ve">Stefano Ermon's notes on variable elimination</a>
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td><b>Nov 18</b></td>
+<td>
+<a href="../docs/dsl2020/lecture_08.pdf">Sequence-to-Sequence Learning</a>
+</td>
+<td>
+<a href="https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf">Sutskever et al.</a>, 
+<a href="https://arxiv.org/pdf/1409.0473.pdf">Bahdanau et al.</a>,
+<a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">Vaswani et al.</a>
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td><b>Nov 25</b></td>
+<td>
+<a href="../docs/dsl2020/attention.pdf">Attention Mechanisms and Neural Memories</a>
+</td>
+<td>
+<a href="https://vene.ro/talks/18-sparsemap-amsterdam.pdf">Learning with Sparse Latent Structure</a>
+</td>
+<td>HW3 is due.<br/>
+<a href=../docs/dsl2020/homework4.pdf>HW4 is out!</a>
+</td>
+</tr>
+
+<tr>
+<td><b>Dec 2</b></td>
+<td>
+<a href="../docs/dsl2020/DeepRL.pdf">Deep Reinforcement Learning (Francisco Melo)</a><br/>
+<a href="../docs/dsl2020/taxi.py">Game of Taxi</a><br/>
+</td>
+<td>
+</td>
+<td>
+Midterm report is due.
+</td>
+</tr>
+
+<tr>
+<td><b>Dec 9</b></td>
+<td>
+<a href="../docs/dsl2020/lecture_11.pdf">Deep Generative Models</a><br/>
+</td>
+<td>
+Goodfellow et al. Ch. 20<br/>
+Murphy, Ch. 28<br/>
+<a href="http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf">NeurIPS16 tutorial on GANs</a><br/>
+<a href="https://arxiv.org/abs/1312.6114">Kingma and Welling, 2014</a><br/>
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td><b>Jan 8</b></td>
+<td></td>
+<td>
+</td>
+<td>
+Final report is due.
+</td>
+</tr>
+
+<tr>
+<td><b>Jan 15, 22</b></td>
+<td>Final Projects</td>
+<td>
+</td>
+<td></td>
+</tr>
+
+</table>
+</section>
+        <section id="extras" class="body">
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
