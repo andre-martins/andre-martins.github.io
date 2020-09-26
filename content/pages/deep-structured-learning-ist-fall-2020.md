@@ -14,7 +14,7 @@ The theoretical concepts taught in this course will be complemented by a strong 
 
 - **Instructor:** [André Martins](http://andre-martins.github.io)
 - **TA:** [Marcos Treviso](http://mtreviso.github.io)
-- **Schedule:** The classes are held on Wednesdays 14:30-17:30 remotely (Zoom link to be provided)
+- **Schedule:** The classes are held on Wednesdays 14:00-17:00 remotely (Zoom link provided in Piazza)
 - **Communication**: [piazza.com/tecnico.ulisboa.pt/fall2020/pdeecdsl](http://piazza.com/tecnico.ulisboa.pt/fall2020/pdeecdsl)
 
 ---
@@ -34,8 +34,8 @@ The course project is an opportunity for you to explore an interesting problem u
 
 **Milestones:** There are 3 deliverables:
 
-- Proposal: A 1-page description of the project. Do not forget to include a title, the team members, and a short description of the problem, methodology, data, and evaluation metrics. **Due on 16/10.**
-- Midway report: Introduction, related work, details of the proposed method, and preliminary results if available (4-5 pages). **Due on 20/11.**
+- Proposal: A 1-page description of the project. Do not forget to include a title, the team members, and a short description of the problem, methodology, data, and evaluation metrics. **Due on 21/10.**
+- Midway report: Introduction, related work, details of the proposed method, and preliminary results if available (4-5 pages). **Due on 25/11.**
 - Final report: A full report written as a conference paper, including all the above in full detail, finished experiments and results, conclusion and future work (8 pages excluding references). **Due on 8/1.**
 
 All reports should be in [NeurIPS format](https://nips.cc/Conferences/2018/PaperInformation/StyleFiles). There will be a class presentation and (tentatively) a poster session, where you can present your work to the peers, instructors, and other community members who will stop by.
@@ -48,6 +48,7 @@ See [here](/pages/project-examples-for-deep-structured-learning-fall-2020.html) 
 
 - [Deep Learning.](http://www.deeplearningbook.org) Ian Goodfellow and Yoshua Bengio and Aaron Courville. MIT Press, 2016.
 - Machine Learning: a Probabilistic Perspective. Kevin P. Murphy. MIT Press, 2013.
+- Introduction to Natural Language Processing. Jacob Einsenstein. MIT Press, 2019.
 - Linguistic Structured Prediction. Noah A. Smith. Morgan & Claypool Synthesis Lectures on Human Language Technologies. 2011.
 
 ---
@@ -90,11 +91,10 @@ Murphy Ch. 1-2
 <a href="../docs/dsl2020/lecture_02.pdf">Linear Classifiers</a>
 </td>
 <td>
-Murphy Ch. 3, 6, 8-9, 14
+Murphy Ch. 3, 6, 8-9, 14<br/>
+Eisenstein Ch. 2
 </td>
-<td>
-<a href=../docs/dsl2020/homework1.pdf>HW1 is out!</a> <a href=../docs/dsl2020/hw1.py>Skeleton code.</a> 
-</td>
+<td></td>
 </tr>
 
 <tr>
@@ -106,13 +106,16 @@ Murphy Ch. 3, 6, 8-9, 14
 <td>
 Goodfellow et al. Ch. 6
 </td>
-<td></td>
+<td>
+<a href=../docs/dsl2020/homework1.pdf>HW1 is out!</a> <a href=../docs/dsl2020/hw1.py>Skeleton code.</a> 
+</td>
 </tr>
 
 <tr>
 <td><b>Oct 14</b></td>
 <td>
-<a href="../docs/dsl2020/lecture_04.pdf">Representation Learning and Convolutional Neural Networks</a>
+<!--Neural Network Toolkits-->
+<a href="https://github.com/goncalomcorreia/pytorch-lecture">Neural Network Toolkits (Marcos Treviso)</a>
 </td>
 <td>
 Goodfellow et al. Ch. 9, 14-15
@@ -123,15 +126,12 @@ Goodfellow et al. Ch. 9, 14-15
 <tr>
 <td><b>Oct 21</b></td>
 <td>
-<!--Neural Network Toolkits-->
-<a href="https://github.com/goncalomcorreia/pytorch-lecture">Neural Network Toolkits (Marcos Treviso)</a>
+<a href="../docs/dsl2020/lecture_04.pdf">Representation Learning and Convolutional Neural Networks</a>
 </td>
 <td>
 Goodfellow et al. Ch. 7-8
 </td>
-<td>
-HW1 is due.
-</td>
+<td>Project proposal is due.</td>
 </tr>
 
 <tr>
@@ -140,28 +140,40 @@ HW1 is due.
 <a href="../docs/dsl2020/lecture_05.pdf">Linear Sequence Models</a>
 </td>
 <td>
+Eisenstein, Ch. 6-8<br/>
 Smith, Ch. 3-4<br/>
 Murphy Ch. 17, 19
 </td>
-<td>Project proposal is due.</td>
+<td>
+HW1 is due.<br/>
+<a href=../docs/dsl2020/homework2.pdf>HW2 is out!</a>
+</td>
 </tr>
 
 <tr>
 <td><b>Nov 4</b></td>
+<td>
+<a href="../docs/dsl2020/DeepRL.pdf">Deep Reinforcement Learning (Francisco Melo)</a><br/>
+<a href="../docs/dsl2020/taxi.py">Game of Taxi</a><br/>
+</td>
+<td>
+</td>
+<td></td>
+</tr>
+
+<tr>
+<td><b>Nov 11</b></td>
 <td>
 <a href="../docs/dsl2020/lecture_06.pdf">Recurrent Neural Networks</a>
 </td>
 <td>
 Goodfellow et al. Ch. 10
 </td>
-<td>
-HW2 is due.<br/>
-<a href=../docs/dsl2020/homework3.pdf>HW3 is out!</a>
-</td>
+<td></td>
 </tr>
 
 <tr>
-<td><b>Nov 11</b></td>
+<td><b>Nov 18</b></td>
 <td>
 <a href="../docs/dsl2020/lecture_07.pdf">Probabilistic Graphical Models</a>
 </td>
@@ -172,46 +184,37 @@ Goodfellow et al. Ch. 16<br/>
 <a href="https://sailinglab.github.io/pgm-spring-2019/notes/lecture-04">Eric Xing's CMU lecture</a><br/>
 <a href="https://ermongroup.github.io/cs228-notes/inference/ve">Stefano Ermon's notes on variable elimination</a>
 </td>
-<td></td>
-</tr>
-
-<tr>
-<td><b>Nov 18</b></td>
 <td>
-<a href="../docs/dsl2020/lecture_08.pdf">Sequence-to-Sequence Learning</a>
+HW2 is due.<br/>
+<a href=../docs/dsl2020/homework3.pdf>HW3 is out!</a>
 </td>
-<td>
-<a href="https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf">Sutskever et al.</a>, 
-<a href="https://arxiv.org/pdf/1409.0473.pdf">Bahdanau et al.</a>,
-<a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">Vaswani et al.</a>
-</td>
-<td></td>
 </tr>
 
 <tr>
 <td><b>Nov 25</b></td>
 <td>
-<a href="../docs/dsl2020/attention.pdf">Attention Mechanisms and Neural Memories</a>
+<a href="../docs/dsl2020/lecture_08.pdf">Sequence-to-Sequence Learning</a>
 </td>
 <td>
-<a href="https://vene.ro/talks/18-sparsemap-amsterdam.pdf">Learning with Sparse Latent Structure</a>
+Eisenstein, Ch. 18<br/>
+<a href="https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf">Sutskever et al.</a>, 
+<a href="https://arxiv.org/pdf/1409.0473.pdf">Bahdanau et al.</a>,
+<a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">Vaswani et al.</a>
 </td>
-<td>HW3 is due.<br/>
-<a href=../docs/dsl2020/homework4.pdf>HW4 is out!</a>
+<td>
+Midterm report is due.
 </td>
 </tr>
 
 <tr>
 <td><b>Dec 2</b></td>
 <td>
-<a href="../docs/dsl2020/DeepRL.pdf">Deep Reinforcement Learning (Francisco Melo)</a><br/>
-<a href="../docs/dsl2020/taxi.py">Game of Taxi</a><br/>
+<a href="../docs/dsl2020/attention.pdf">Attention Mechanisms</a>
 </td>
 <td>
+<a href="https://vene.ro/talks/18-sparsemap-amsterdam.pdf">Learning with Sparse Latent Structure</a>
 </td>
-<td>
-Midterm report is due.
-</td>
+<td></td>
 </tr>
 
 <tr>
@@ -225,7 +228,7 @@ Murphy, Ch. 28<br/>
 <a href="http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf">NeurIPS16 tutorial on GANs</a><br/>
 <a href="https://arxiv.org/abs/1312.6114">Kingma and Welling, 2014</a><br/>
 </td>
-<td></td>
+<td>HW3 is due.</td>
 </tr>
 
 <tr>
