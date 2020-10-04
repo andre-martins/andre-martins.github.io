@@ -107,7 +107,7 @@ Eisenstein Ch. 2
 Goodfellow et al. Ch. 6
 </td>
 <td>
-<a href=../docs/dsl2020/homework1.pdf>HW1 is out!</a> <a href=../docs/dsl2020/hw1.py>Skeleton code.</a> 
+<a href=../docs/dsl2020/homework1.pdf>HW1 is out!</a> Skeleton code: <a href=../docs/dsl2020/hw1-q2.py>Q2</a>,  <a href=../docs/dsl2020/hw1-q3.py>Q3</a>.
 </td>
 </tr>
 
