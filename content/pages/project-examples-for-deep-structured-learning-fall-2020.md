@@ -25,7 +25,7 @@ We suggest below some project ideas. Feel free to use this as inspiration for yo
 - **References:**
 
     1. [Marco T Ribeiro, Sammer Singh, and Carlos Guestrin. Why Should I Trust You? Explaining the Predictions of Any Classifier. KDD 2016.](https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf). 
-    2. [Tao Lei, Regina Barzilay and Tommi Jaakkola. Rationalizing Neural Predictions. EMNLP 2016.(https://people.csail.mit.edu/taolei/papers/emnlp16_rationale.pdf). 
+    2. [Tao Lei, Regina Barzilay and Tommi Jaakkola. Rationalizing Neural Predictions. EMNLP 2016.](https://people.csail.mit.edu/taolei/papers/emnlp16_rationale.pdf). 
     3. [Marcos V. Treviso, André F. T. Martins. Towards Prediction Explainability through Sparse Communication. Blackbox Workshop 2020.](https://arxiv.org/abs/2004.13876). 
     4. [Zachary  C  Lipton. The  mythos  of  model  interpretability. ICML 2016 Workshop on Human Interpretability in Machine Learning.](https://arxiv.org/pdf/1606.03490.pdf)  
     5. [Sarah  Wiegreffe  and  Yuval  Pinter. Attention  is  not  not  explanation. EMNLP 2019.](https://arxiv.org/pdf/1908.04626.pdf). 
