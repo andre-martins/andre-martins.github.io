@@ -146,7 +146,7 @@ Murphy Ch. 17, 19
 </td>
 <td>
 HW1 is due.<br/>
-<a href=../docs/dsl2020/homework2.pdf>HW2 is out!</a> Skeleton code: <a href=../docs/dsl2020/hw2-decoder.py>hw2_decoder.py</a>, <a href=../docs/dsl2020/hw2_linear_crf.py>hw2_linear_crf.py</a>, <a href=../docs/dsl2020/utils.py>utils.py</a>.
+<a href=../docs/dsl2020/homework2.pdf>HW2 is out!</a> Skeleton code: <a href=../docs/dsl2020/hw2_decoder.py>hw2_decoder.py</a>, <a href=../docs/dsl2020/hw2_linear_crf.py>hw2_linear_crf.py</a>, <a href=../docs/dsl2020/utils.py>utils.py</a>.
 </td>
 </tr>
 
