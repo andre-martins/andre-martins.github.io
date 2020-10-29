@@ -55,8 +55,8 @@ class LinearChainCRF(nn.Module):
                 Shape of (batch_size, seq_len)
         
         Returns:
-            torch.Tensor: the log-likelihoods for each sequence in the batch.
-                Shape of (batch_size,)
+             torch.Tensor: the sum of neg log-likelihoods of each sequence in the batch.
+                Shape of ([])
         """
         scores = self.compute_scores(emissions, tags, mask=mask)
         partition = self.compute_log_partition(emissions, mask=mask)
