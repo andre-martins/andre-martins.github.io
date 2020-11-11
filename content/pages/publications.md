@@ -2,30 +2,55 @@ Title: Publications
 
 # 2020
 
+* André F. T. Martins, António Farinhas, Marcos Treviso, Vlad Niculae, Pedro M. Q. Aguiar, and Mário A. T. Figueiredo.  
+"Sparse and Continuous Attention Mechanisms."  
+Neural Information Processing Systems (NeurIPS'20, spotlight), December 2020.  
+[[pdf]](https://arxiv.org/abs/2006.07214)  
+
+* Gonçalo M. Correia, Vlad Niculae, Wilker Aziz, and André F. T. Martins.  
+"Efficient Marginalization of Discrete and Structured Latent Variables via Sparsity."  
+Neural Information Processing Systems (NeurIPS'20, spotlight), December 2020.  
+[[pdf]](https://arxiv.org/abs/2007.01919)  
+
+* Pedro Martins, Zita Marinho, and André F. T. Martins.  
+"Sparse Text Generation."  
+Conference on Empirical Methods in Natural Language Processing (EMNLP'20), November 2020.    
+[[pdf]](https://arxiv.org/abs/2004.02644)  
+
+* Tsvetomila Mihaylova, Vlad Niculae, and André F. T. Martins.  
+"Understanding the mechanics of SPIGOT: Surrogate gradients for latent structure learning."  
+Conference on Empirical Methods in Natural Language Processing (EMNLP'20), November 2020.    
+[[pdf]](https://arxiv.org/abs/2010.02357)  
+
+* Marcos Treviso and André F. T. Martins.  
+"The Explanation Game: Towards Prediction Explainability through Sparse Communication."  
+EMNLP Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP'20), November 2020.  
+[[pdf]](https://arxiv.org/pdf/2004.13876.pdf)  
+
 * Vlad Niculae and André F. T. Martins.  
 "LP-SparseMAP: Differentiable Relaxed Optimization for Sparse Structured Prediction."  
 International Conference on Machine Learning (ICML'20), July 2020.  
-[[pdf]]()  
+[[pdf]](https://arxiv.org/abs/2001.04437)  
 
 * Erick Fonseca and André F. T. Martins.  
 "Revisiting Higher-Order Dependency Parsers."  
 Annual Meeting of the Association for Computational Linguistics (ACL'20), July 2020.  
-[[pdf]]()  
+[[pdf]](https://www.aclweb.org/anthology/2020.acl-main.776/)  
 
 * Ben Peters and André F. T. Martins.  
 "DeepSPIN at SIGMORPHON 2020: One-Size-Fits-All Multilingual Models."  
 ACL Workshop on Computational Research in Phonetics, Phonology, and Morphology (SIGMORPHON'20), July 2020.  
-[[pdf]]()  
+[[pdf]](https://www.aclweb.org/anthology/2020.sigmorphon-1.4/)  
 
 * António Góis, Kyunghyun Cho, and André F. T. Martins.  
 "Learning Non-Monotonic Automatic Post-Editing of Translations from Human Orderings."  
 Annual Conference of the European Association for Machine Translation (EAMT'20), November 2020.  
-[[pdf]]()  
+[[pdf]](https://arxiv.org/abs/2004.14120)  
 
 * António Lopes, M. Amin Farajian, Rachel Bawden, Michael Zhang and André F. T. Martins.  
 "Document-level Neural MT: A Systematic Comparison."  
 Annual Conference of the European Association for Machine Translation (EAMT'20), November 2020.  
-[[pdf]]()  
+[[pdf]](https://www.aclweb.org/anthology/2020.eamt-1.24/)  
 
 * Mathieu Blondel, André F. T. Martins, and Vlad Niculae.  
 "Learning with Fenchel-Young losses."  

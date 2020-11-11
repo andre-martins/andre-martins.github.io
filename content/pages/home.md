@@ -39,11 +39,20 @@ My advisors were [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Noah Smith](htt
 
 # Post-docs
 
-- [Vlad Niculae](http://vene.ro) (Post-doc at IT, 2018-)
+- [Vlad Niculae](http://vene.ro) (Post-doc at IT, 2018-2020, now Assistant Professor at University of Amsterdam)
 - [Erick Fonseca](http://www.nilc.icmc.usp.br/nilc/pessoas/erickrf) (Post-doc at IT, 2018-)
 
 # Students and Interns
 
+- Nuno Guerreiro (PhD at IST, 2020-)
+- Patrick Fernandes (PhD at CMU/IST, 2020-; co-advised with [Graham Neubig](http://www.phontron.com/))
+- Taisiya Glushkova (PhD at IST, 2020-)
+- Nuno Guerreiro (PhD at IST, 2020-)
+- António Farinhas (MSc at IST, 2020)
+- Pedro Coelho (MSc at IST, 2020; co-advised with Christine Maroti at Unbabel)
+- João Alves (MSc at IST, 2020; co-advised with Amin Farajian at Unbabel)
+- João Moura (MSc at IST, 2020; co-advised with Fábio Kepler at Unbabel)
+- Rita Costa (MSc at IST, 2020; co-advised with Luisa Coheur)
 - [Nikita Nangia](https://woollysocks.github.io) (Summer Intern at IT, 2019)
 - Michael Zhang (Research Intern at Unbabel, 2019)
 - Daan van Stigt (Research Intern at Unbabel, 2019)
@@ -68,6 +77,10 @@ My advisors were [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Noah Smith](htt
 
 # News
 
+* I am co-directing the [ELLIS NLP program](https://ellis.eu/programs/natural-language-processing) with [Iryna Guleyvich](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/prof_dr_iryna_gurevych/index.en.jsp) and [Ivan Titov](http://ivan-titov.org/), with an amazing list of fellows and scholars!
+* We're launching [LUMLIS](https://lumlis.tecnico.ulisboa.pt), the Lisbon unit of the [ELLIS](https://ellis.eu) network!
+* We have new papers accepted at EMNLP 2020 and NeurIPS 2020.
+* I am SAC for EACL 2021 and AC for ICLR 2021.
 * **We have an opening for a Post-Doc position in the DeepSPIN project.** See [here](pages/jobs.html) for details!
 * I am co-organizing LxMLS 2020 (Lisbon Machine Learning School), which will be a fully remote school this year. See [here](http://lxmls.it.pt) for details!
 * We have new papers accepted at ACL 2020, ICML 2020, and EAMT 2020.
