@@ -62,7 +62,7 @@ Journal of Machine Learning Research, 21 (2020) 1--69.
 
 * Gonçalo M. Correia, Vlad Niculae, and André F. T. Martins.  
 "Adaptively Sparse Transformers."  
-Conference on Empirical Methods in Natural Language Processing (EMNLP'19), Hong-Kong, China, November 2019. To appear.  
+Conference on Empirical Methods in Natural Language Processing (EMNLP'19), Hong-Kong, China, November 2019.  
 [[pdf]](https://www.aclweb.org/anthology/D19-1223.pdf)  
 
 * Erick Fonseca, Lisa Yankovskaya, André F. T. Martins, Mark Fishel, Christian Federmann.  
