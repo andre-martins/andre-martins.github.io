@@ -27,6 +27,21 @@ Conference on Empirical Methods in Natural Language Processing (EMNLP'20), Novem
 EMNLP Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP'20), November 2020.  
 [[pdf]](https://arxiv.org/pdf/2004.13876.pdf)  
 
+* M. Amin Farajian, António V. Lopes, André F. T. Martins, Sameen Maruf and Gholamreza Haffari.  
+"Findings of the WMT 2020 Shared Task on Chat Translation."  
+Conference on Machine Translation (WMT'20), November 2020.  
+[[pdf]](http://www.statmt.org/wmt20/pdf/2020.wmt-1.3.pdf)  
+
+* Lucia Specia, Frédéric Blain, Marina Fomicheva, Erick Fonseca, Vishrav Chaudhary, Francisco Guzmán and André F. T. Martins.  
+"Findings of the WMT 2020 Shared Task on Quality Estimation."  
+Conference on Machine Translation (WMT'20), November 2020.  
+[[pdf]](http://www.statmt.org/wmt20/pdf/2020.wmt-1.79.pdf)  
+
+* João Moura, Miguel Vera, Daan van Stigt, Fabio Kepler and André F. T. Martins.  
+"IST-Unbabel Participation in the WMT20 Quality Estimation Shared Task."  
+Conference on Machine Translation (WMT'20), November 2020.  
+[[pdf]](http://www.statmt.org/wmt20/pdf/2020.wmt-1.119.pdf)  
+
 * Vlad Niculae and André F. T. Martins.  
 "LP-SparseMAP: Differentiable Relaxed Optimization for Sparse Structured Prediction."  
 International Conference on Machine Learning (ICML'20), July 2020.  
