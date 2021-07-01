@@ -1,5 +1,22 @@
 Title: Publications
 
+# 2021
+
+* Patrick Fernandes, Kayo Yin, Graham Neubig, André F. T. Martins.  
+"Measuring and Increasing Context Usage in Context-Aware Machine Translation"  
+Conference of the Association for Computational Linguistics (ACL'21), August 2021.  
+[[pdf]](https://arxiv.org/pdf/2105.03482.pdf)  
+
+* Kayo Yin, Patrick Fernandes, Danish Pruthi, Aditi Chaudhary, André F. T. Martins, Graham Neubig.  
+"Do Context-Aware Translation Models Pay the Right Attention?"  
+Conference of the Association for Computational Linguistics (ACL'21), August 2021.  
+[[pdf]](https://arxiv.org/pdf/2105.06977.pdf)  
+
+* Ben Peters and André F. T. Martins.  
+"Smoothing and Shrinking the Sparse Seq2Seq Search Space (S7)."  
+Conference of the North American Chapter of the Association for Computational Linguistics (NAACL'21), June 2021.  
+[[pdf]](https://arxiv.org/abs/2103.10291)  
+
 # 2020
 
 * André F. T. Martins, António Farinhas, Marcos Treviso, Vlad Niculae, Pedro M. Q. Aguiar, and Mário A. T. Figueiredo.  

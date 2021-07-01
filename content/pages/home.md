@@ -39,13 +39,15 @@ My advisors were [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Noah Smith](htt
 
 # Post-docs
 
+- [Chryssa Zerva](https://www.linkedin.com/in/chryssa-zerva-7bb4a966) (Post-doc at IT, 2021-)
 - [Vlad Niculae](http://vene.ro) (Post-doc at IT, 2018-2020, now Assistant Professor at University of Amsterdam)
-- [Erick Fonseca](http://www.nilc.icmc.usp.br/nilc/pessoas/erickrf) (Post-doc at IT, 2018-)
+- [Erick Fonseca](http://www.nilc.icmc.usp.br/nilc/pessoas/erickrf) (Post-doc at IT, 2018-2020), now Research Scientist at Cleverly
 
 # Students and Interns
 
+- [Haau-Sing Li](https://www.linkedin.com/in/haau-sing-li-152177142/) (ELLIS PhD at TU Darmstadt University, 2021-; co-advised with [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp))
 - Nuno Guerreiro (PhD at IST, 2020-)
-- Patrick Fernandes (PhD at CMU/IST, 2020-; co-advised with [Graham Neubig](http://www.phontron.com/))
+- [Patrick Fernandes](https://coderpat.github.io/) (PhD at CMU/IST, 2020-; co-advised with [Graham Neubig](http://www.phontron.com/))
 - Taisiya Glushkova (PhD at IST, 2020-)
 - Nuno Guerreiro (PhD at IST, 2020-)
 - António Farinhas (MSc at IST, 2020)
@@ -59,7 +61,7 @@ My advisors were [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Noah Smith](htt
 - [Marcos Treviso](http://mtreviso.github.io) (PhD at IST, 2019-, co-advised with [Mário Figueiredo](http://www.lx.it.pt/~mtf/))
 - [Tsvetomila Mihaylova](https://tsvm.github.io) (PhD at IST, 2018-, co-advised with [Vlad Niculae](http://vene.ro)))
 - Ben Peters (PhD at IST, 2018-)
-- [Gonçalo Correia](https://goncalomcorreia.github.io) (PhD at IST, 2018-, co-advised with [Vlad Niculae](http://vene.ro))
+- [Gonçalo Correia](https://goncalomcorreia.github.io) (ELLIS PhD at IST, 2018-, co-advised with [Vlad Niculae](http://vene.ro))
 - Pedro Martins (PhD at IST, 2018-; co-advised with Zita Marinho)
 - Sameen Maruf (PhD at Monash University, 2016-: co-advised with [Reza Haffari](http://users.monash.edu.au/~gholamrh))
 - [Zita Marinho](http://www.cs.cmu.edu/~zmarinho) (PhD at CMU/IST, 2013-2018; co-advised with [Geoff Gordon](http://www.cs.cmu.edu/~ggordon) and [Sidd Srinivasa](https://homes.cs.washington.edu/~siddh), now Head of Research at Priberam Labs)
@@ -77,12 +79,17 @@ My advisors were [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Noah Smith](htt
 
 # News
 
+* I am giving a keynote talk at the [TRITON](https://triton-conference.org/) conference.
+* I gave a keynote talk at [TALN](https://talnrecital2021.inria.fr) where I presented some of the work we did in the [DeepSPIN](https://deep-spin.github.io/) project. [Here](docs/taln2021.pdf) are the slides.
+* I am co-organizing LxMLS 2021 (Lisbon Machine Learning School), which will be a fully remote school this year. See [here](http://lxmls.it.pt) for details!
+* We have new papers accepted at NAACL 2021 and ACL 2021.
+* I am AC for NAACL 2021, NeurIPS 2021, EMNLP 2021, ICLR 2022.
+* I am Action Editor for TACL.
 * I am co-directing the [ELLIS NLP program](https://ellis.eu/programs/natural-language-processing) with [Iryna Guleyvich](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/prof_dr_iryna_gurevych/index.en.jsp) and [Ivan Titov](http://ivan-titov.org/), with an amazing list of fellows and scholars!
 * We're launching [LUMLIS](https://lumlis.tecnico.ulisboa.pt), the Lisbon unit of the [ELLIS](https://ellis.eu) network!
 * We have new papers accepted at EMNLP 2020 and NeurIPS 2020.
 * I am SAC for EACL 2021 and AC for ICLR 2021.
 * **We have an opening for a Post-Doc position in the DeepSPIN project.** See [here](pages/jobs.html) for details!
-* I am co-organizing LxMLS 2020 (Lisbon Machine Learning School), which will be a fully remote school this year. See [here](http://lxmls.it.pt) for details!
 * We have new papers accepted at ACL 2020, ICML 2020, and EAMT 2020.
 * We have a new [JMLR paper](http://jmlr.csail.mit.edu/papers/volume21/19-021/19-021.pdf) on Learning with Fenchel-Young Losses (work done with collaboration with [Mathieu Blondel](http://mblondel.org)).
 * I am AC for NeurIPS 2020 and EMNLP 2020.
