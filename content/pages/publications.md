@@ -29,7 +29,7 @@ Conference of Machine Translation (WMT'21), November 2021.
 
 * Marcos V. Treviso, Nuno M. Guerreiro, Ricardo Rei, André F. T. Martins.  
 "IST-Unbabel 2021 Submission for the Explainable Quality Estimation Shared Task"  
-Workshop on "Evaluation & Comparison of NLP Systems" (Eval4NLP), November 2021.
+Workshop on "Evaluation & Comparison of NLP Systems" (Eval4NLP), November 2021.  
 **Best Explainability Approach Award.**  
 [[pdf]](https://aclanthology.org/2021.eval4nlp-1.14.pdf)
  
