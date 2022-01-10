@@ -3,43 +3,44 @@ Title: Publications
 # 2021
 
 * Taisiya Glushkova, Chrysoula Zerva, Ricardo Rei, André F. T. Martins.  
-"Uncertainty-Aware Machine Translation Evaluation"
+"Uncertainty-Aware Machine Translation Evaluation"  
 Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP'21), November 2021.  
 [[pdf]](https://arxiv.org/pdf/2109.06352.pdf)  
 
 * Nuno M. Guerreiro, André F. T. Martins.  
-"SPECTRA: Sparse Structured Text Rationalization"
+"SPECTRA: Sparse Structured Text Rationalization"  
 Conference on Empirical Methods in Natural Language Processing (EMNLP'21), November 2021.  
 [[pdf]](https://arxiv.org/pdf/2109.04552.pdf)  
 
-* Lucia Specia, Frédéric Blain, Marina Fomicheva, Chrysoula Zerva, Zhenhao Li, Vishrav Chaudhary and André F. T. Martins.
+* Lucia Specia, Frédéric Blain, Marina Fomicheva, Chrysoula Zerva, Zhenhao Li, Vishrav Chaudhary and André F. T. Martins.  
 "Findings of the WMT 2021 Shared Task on Quality Estimation"
-Conference of Machine Translation (WMT'21), November 2021.
+Conference of Machine Translation (WMT'21), November 2021.  
 [[pdf]](https://www.statmt.org/wmt21/pdf/2021.wmt-1.71.pdf)
 
-* Chrysoula Zerva, Daan van Stigt, Ricardo Rei, Catarina Farinha, Pedro Ramos, José G. C. Souza, Taisiya Glushkova, Miguel Vera, Fábio Kepler and André F. T. Martins.
+* Chrysoula Zerva, Daan van Stigt, Ricardo Rei, Catarina Farinha, Pedro Ramos, José G. C. Souza, Taisiya Glushkova, Miguel Vera, Fábio Kepler and André F. T. Martins.  
 "IST-Unbabel 2021 Submission for the QE Shared Task"  
-Conference of Machine Translation (WMT'21), November 2021.
+Conference of Machine Translation (WMT'21), November 2021.  
 [[pdf]](https://www.statmt.org/wmt21/pdf/2021.wmt-1.102.pdf)
 
-* Ricardo Rei, Catarina Farinha, Chrysoula Zerva, Dann van Stigt, Craig Stewart, Pedro Ramos, Taisiya Glushkova, André F. T. Martins and Alon Lavie.
+* Ricardo Rei, Catarina Farinha, Chrysoula Zerva, Dann van Stigt, Craig Stewart, Pedro Ramos, Taisiya Glushkova, André F. T. Martins and Alon Lavie.  
 "Are References Really Needed? Unbabel-IST 2021 Submission for the Metrics Shared Task"  
-Conference of Machine Translation (WMT'21), November 2021.
+Conference of Machine Translation (WMT'21), November 2021.  
 [[pdf]](https://statmt.org/wmt21/pdf/2021.wmt-1.111.pdf)
 
 * Marcos V. Treviso, Nuno M. Guerreiro, Ricardo Rei, André F. T. Martins.  
 "IST-Unbabel 2021 Submission for the Explainable Quality Estimation Shared Task"  
-Workshop on "Evaluation & Comparison of NLP Systems" (Eval4NLP), November 2021.  
+Workshop on "Evaluation & Comparison of NLP Systems" (Eval4NLP), November 2021.
+**Best Explainability Approach Award.**  
 [[pdf]](https://aclanthology.org/2021.eval4nlp-1.14.pdf)
  
 * António Farinhas, André F. T. Martins, Pedro M. Q. Aguiar.  
 "Multimodal Continuous Visual Attention Mechanisms"  
-ICCV 2021 Visual Inductive Priors for Data-Efficient Deep Learning Workshop, October 2021.    
+ICCV 2021 Visual Inductive Priors for Data-Efficient Deep Learning Workshop, October 2021.  
 [[pdf]](https://arxiv.org/pdf/2104.03046.pdf)
 
 * Pedro H. Martins, Vlad Niculae, Zita Marinho, André F. T. Martins.  
 "Sparse and Structured Visual Attention"  
-IEEE International Conference on Image Processing (ICIP'21), Anchorage, United States, September 2021.
+IEEE International Conference on Image Processing (ICIP'21), Anchorage, United States, September 2021.  
 [[pdf]](https://arxiv.org/pdf/2002.05556.pdf)
 
 * Patrick Fernandes, Kayo Yin, Graham Neubig, André F. T. Martins.  
