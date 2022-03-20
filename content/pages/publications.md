@@ -1,5 +1,28 @@
 Title: Publications
 
+# 2022
+
+* Gonçalo R. A. Faria, André F. T. Martins, Mário A. T. Figueiredo.  
+"Differentiable Causal Discovery Under Latent Interventions"  
+1st conference on Causal Learning and Reasoning (CLeaR), April 2022.  
+[[pdf]](https://arxiv.org/pdf/2203.02336.pdf)  
+
+* Pedro Martins, Zita Marinho, André F. T. Martins.  
+"∞-former: Infinite Memory Transformer"  
+Annual Meeting of the Association for Computational Linguistics (ACL'22), May 2022.  
+[[pdf]](https://arxiv.org/pdf/2109.00301.pdf)  
+
+* António Farinhas, Wilker Aziz, Vlad Niculae, André F. T. Martins.  
+"Sparse Communication via Mixed Distributions"  
+International Conference on Learning Representations (selected for oral presentation), May 2022.  
+[[pdf]](https://arxiv.org/pdf/2108.02658.pdf)  
+
+* André F. T. Martins, Marcos Treviso, António Farinhas, Pedro M. Q. Aguiar, Mário A. T. Figueiredo, Mathieu Blondel, Vlad Niculae.
+"Sparse Continuous Distributions and Fenchel-Young Losses"  
+Journal of Machine Learning Research, 2022 (to appear).
+[[pdf]](https://arxiv.org/pdf/2108.01988.pdf)
+
+
 # 2021
 
 * Taisiya Glushkova, Chrysoula Zerva, Ricardo Rei, André F. T. Martins.  
