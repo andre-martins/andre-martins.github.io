@@ -26,7 +26,8 @@ MENUITEMS = (
     ('Jobs', '/pages/jobs.html'),
     ('Publications', '/pages/publications.html'),
     ('Software', '/pages/software.html'),
-    ('Courses', '/pages/courses.html')
+    ('Courses', '/pages/courses.html'),
+    ('SARDINE Lab', '/pages/sardine.html')
 )
 
 # Blogroll

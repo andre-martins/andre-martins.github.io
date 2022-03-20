@@ -19,7 +19,7 @@ International Conference on Learning Representations (selected for oral presenta
 
 * André F. T. Martins, Marcos Treviso, António Farinhas, Pedro M. Q. Aguiar, Mário A. T. Figueiredo, Mathieu Blondel, Vlad Niculae.
 "Sparse Continuous Distributions and Fenchel-Young Losses"  
-Journal of Machine Learning Research, 2022 (to appear).
+Journal of Machine Learning Research, 2022 (to appear).  
 [[pdf]](https://arxiv.org/pdf/2108.01988.pdf)
 
 
