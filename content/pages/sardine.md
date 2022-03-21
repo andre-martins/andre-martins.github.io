@@ -1,4 +1,4 @@
-Title: SARDINE Lab
+Title: SARDINE
 URL: sardine.html
 save_as: sardine.html
 
