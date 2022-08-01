@@ -79,7 +79,12 @@ My advisors were [Mário Figueiredo](http://www.lx.it.pt/~mtf), [Noah Smith](htt
 
 # News
 
-* I am giving a keynote talk at the [TRITON](https://triton-conference.org/) conference.
+* I am giving a keynote talk at the [SEPLN 2022](https://sepln2022.grupolys.org/) conference.
+* I gave a keynote at the Mercury Machine Learning Lab ([MMLL][https://icai.ai/mercury-machine-learning-lab/]) seminar series. I talked about how to go from sparse modeling to sparse communication. Check the video [here](https://www.youtube.com/watch?v=UFsCAr4kIc0&list=PLTg_E6ob657XajMOqJ4HxfQcv49f8xD_Z&t=8s)!
+* I am co-organizing LxMLS 2022 (Lisbon Machine Learning School), back to in-person this year! See [here](http://lxmls.it.pt) for details!
+* I am SAC for ACL 2022 and AC for NeurIPS 2022. 
+* We have new papers accepted at CLeaR 2022, ICLR 2022, ACL 2022, NAACL 2022, ICML 2022.
+* I gave a keynote talk at the [TRITON](https://triton-conference.org/) conference.
 * I gave a keynote talk at [TALN](https://talnrecital2021.inria.fr) where I presented some of the work we did in the [DeepSPIN](https://deep-spin.github.io/) project. [Here](docs/taln2021.pdf) are the slides.
 * I am co-organizing LxMLS 2021 (Lisbon Machine Learning School), which will be a fully remote school this year. See [here](http://lxmls.it.pt) for details!
 * We have new papers accepted at NAACL 2021 and ACL 2021.
