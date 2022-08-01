@@ -2,20 +2,51 @@ Title: Publications
 
 # 2022
 
-* Gonçalo R. A. Faria, André F. T. Martins, Mário A. T. Figueiredo.  
-"Differentiable Causal Discovery Under Latent Interventions"  
-1st conference on Causal Learning and Reasoning (CLeaR), April 2022.  
-[[pdf]](https://arxiv.org/pdf/2203.02336.pdf)  
+* Tsvetomila Mihaylova, Vlad Niculae, André F. T. Martins.  
+"Modeling Structure with Undirected Neural Networks."  
+International Conference on Machine Learning (ICML'22), Baltimore, USA, July 2022.  
+[[pdf]](https://arxiv.org/pdf/2202.03760.pdf)  
+
+* Patrick Fernandes, António Farinhas, Ricardo Rei, José G. C. Souza, Perez Ogayo, Graham Neubig, André F. T. Martins.  
+"Quality-Aware Decoding for Neural Machine Translation."
+Annual Meeting of the North-American Chapter of the Association for Computational Linguistics (NAACL'22), July 2022.  
+[[pdf]](https://arxiv.org/pdf/2205.00978.pdf)  
+
+* Ben Peters, André F. T. Martins.  
+"Beyond characters: Subword-level morpheme segmentation."
+NAACL Workshop on Computational Research in Phonetics, Phonology, and Morphology (SIGMORPHON'22), July 2022.  
+[[pdf]](https://aclanthology.org/2022.sigmorphon-1.14.pdf)  
+
+* Ricardo Rei, Ana C. Farinha, José G. C. Souza, P. G. Ramos, André F. T. Martins, Luisa Coheur, Alon Lavie.  
+"Searching for COMETINHO: The Little Metric That Could."  
+Annual Conference of the European Association for Machine Translation (EAMT'22), Ghent, Belgium, June 2022.
+**Best Paper Award**
+[[pdf]](https://aclanthology.org/2022.eamt-1.9/)  
 
 * Pedro Martins, Zita Marinho, André F. T. Martins.  
 "∞-former: Infinite Memory Transformer"  
-Annual Meeting of the Association for Computational Linguistics (ACL'22), May 2022.  
+Annual Meeting of the Association for Computational Linguistics (ACL'22), Dublin, Ireland, May 2022.  
 [[pdf]](https://arxiv.org/pdf/2109.00301.pdf)  
 
+* Pedro H. Martins, Zita Marinho, André F. T. Martins.  
+"Efficient Machine Translation Domain Adaptation."  
+ACL Workshop on Semiparametric Methods in NLP: Decoupling Logic from Knowledge, Dublin, Ireland, May 2022.  
+[[pdf]](https://arxiv.org/pdf/2204.12608.pdf)  
+
+* Marcos Treviso, António Góis, Patrick Fernandes, Erick Fonseca, André F. T. Martins.  
+"Predicting attention sparsity in transformers."  
+ACL Workshop on Structured Prediction for Natural Language Processing (SPNLP'22), Dublin, Ireland, May 2022.
+[[pdf]](https://arxiv.org/pdf/2109.12188.pdf)  
+
 * António Farinhas, Wilker Aziz, Vlad Niculae, André F. T. Martins.  
-"Sparse Communication via Mixed Distributions"  
-International Conference on Learning Representations (selected for oral presentation), May 2022.  
+"Sparse Communication via Mixed Distributions."  
+International Conference on Learning Representations (ICLR'22; selected for oral presentation), May 2022.  
 [[pdf]](https://arxiv.org/pdf/2108.02658.pdf)  
+
+* Gonçalo R. A. Faria, André F. T. Martins, Mário A. T. Figueiredo.  
+"Differentiable Causal Discovery Under Latent Interventions."  
+1st conference on Causal Learning and Reasoning (CLeaR'22), April 2022.  
+[[pdf]](https://arxiv.org/pdf/2203.02336.pdf)  
 
 * André F. T. Martins, Marcos Treviso, António Farinhas, Pedro M. Q. Aguiar, Mário A. T. Figueiredo, Mathieu Blondel, Vlad Niculae.
 "Sparse Continuous Distributions and Fenchel-Young Losses"  
