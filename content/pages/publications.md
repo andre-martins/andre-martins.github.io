@@ -13,14 +13,14 @@ Annual Meeting of the North-American Chapter of the Association for Computationa
 [[pdf]](https://arxiv.org/pdf/2205.00978.pdf)  
 
 * Ben Peters, André F. T. Martins.  
-"Beyond characters: Subword-level morpheme segmentation."
+"Beyond characters: Subword-level morpheme segmentation."  
 NAACL Workshop on Computational Research in Phonetics, Phonology, and Morphology (SIGMORPHON'22), July 2022.  
 [[pdf]](https://aclanthology.org/2022.sigmorphon-1.14.pdf)  
 
 * Ricardo Rei, Ana C. Farinha, José G. C. Souza, P. G. Ramos, André F. T. Martins, Luisa Coheur, Alon Lavie.  
 "Searching for COMETINHO: The Little Metric That Could."  
-Annual Conference of the European Association for Machine Translation (EAMT'22), Ghent, Belgium, June 2022.
-**Best Paper Award**
+Annual Conference of the European Association for Machine Translation (EAMT'22), Ghent, Belgium, June 2022.  
+**Best Paper Award**  
 [[pdf]](https://aclanthology.org/2022.eamt-1.9/)  
 
 * Pedro Martins, Zita Marinho, André F. T. Martins.  
@@ -35,7 +35,7 @@ ACL Workshop on Semiparametric Methods in NLP: Decoupling Logic from Knowledge, 
 
 * Marcos Treviso, António Góis, Patrick Fernandes, Erick Fonseca, André F. T. Martins.  
 "Predicting attention sparsity in transformers."  
-ACL Workshop on Structured Prediction for Natural Language Processing (SPNLP'22), Dublin, Ireland, May 2022.
+ACL Workshop on Structured Prediction for Natural Language Processing (SPNLP'22), Dublin, Ireland, May 2022.  
 [[pdf]](https://arxiv.org/pdf/2109.12188.pdf)  
 
 * António Farinhas, Wilker Aziz, Vlad Niculae, André F. T. Martins.  
