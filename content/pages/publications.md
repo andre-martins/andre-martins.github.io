@@ -8,13 +8,13 @@ International Conference on Machine Learning (ICML'22), Baltimore, USA, July 202
 [[pdf]](https://arxiv.org/pdf/2202.03760.pdf)  
 
 * Patrick Fernandes, António Farinhas, Ricardo Rei, José G. C. Souza, Perez Ogayo, Graham Neubig, André F. T. Martins.  
-"Quality-Aware Decoding for Neural Machine Translation."
-Annual Meeting of the North-American Chapter of the Association for Computational Linguistics (NAACL'22), July 2022.  
+"Quality-Aware Decoding for Neural Machine Translation."  
+Annual Meeting of the North-American Chapter of the Association for Computational Linguistics (NAACL'22), Seattle, USA, July 2022.  
 [[pdf]](https://arxiv.org/pdf/2205.00978.pdf)  
 
 * Ben Peters, André F. T. Martins.  
 "Beyond characters: Subword-level morpheme segmentation."  
-NAACL Workshop on Computational Research in Phonetics, Phonology, and Morphology (SIGMORPHON'22), July 2022.  
+NAACL Workshop on Computational Research in Phonetics, Phonology, and Morphology (SIGMORPHON'22), Seattle, USA, July 2022.  
 [[pdf]](https://aclanthology.org/2022.sigmorphon-1.14.pdf)  
 
 * Ricardo Rei, Ana C. Farinha, José G. C. Souza, P. G. Ramos, André F. T. Martins, Luisa Coheur, Alon Lavie.  
@@ -24,7 +24,7 @@ Annual Conference of the European Association for Machine Translation (EAMT'22),
 [[pdf]](https://aclanthology.org/2022.eamt-1.9/)  
 
 * Pedro Martins, Zita Marinho, André F. T. Martins.  
-"∞-former: Infinite Memory Transformer"  
+"∞-former: Infinite Memory Transformer."  
 Annual Meeting of the Association for Computational Linguistics (ACL'22), Dublin, Ireland, May 2022.  
 [[pdf]](https://arxiv.org/pdf/2109.00301.pdf)  
 
@@ -45,7 +45,7 @@ International Conference on Learning Representations (ICLR'22; selected for oral
 
 * Gonçalo R. A. Faria, André F. T. Martins, Mário A. T. Figueiredo.  
 "Differentiable Causal Discovery Under Latent Interventions."  
-1st conference on Causal Learning and Reasoning (CLeaR'22), April 2022.  
+1st conference on Causal Learning and Reasoning (CLeaR'22), Eureka, USA, April 2022.  
 [[pdf]](https://arxiv.org/pdf/2203.02336.pdf)  
 
 * André F. T. Martins, Marcos Treviso, António Farinhas, Pedro M. Q. Aguiar, Mário A. T. Figueiredo, Mathieu Blondel, Vlad Niculae.
