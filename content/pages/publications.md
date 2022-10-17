@@ -2,6 +2,21 @@ Title: Publications
 
 # 2022
 
+* Patrick Fernandes, Marcos Treviso, Danish Pruthi, André F. T. Martins, Graham Neubig.
+"Learning to Scaffold: Optimizing Model Explanations for Teaching."
+Advances in Neural Information Processing Systems (NeurIPS'22), New Orleans, USA, November 2022.  
+[[pdf]](https://arxiv.org/pdf/2204.10810.pdf)  
+
+* Pedro Martins, Zita Marinho, André F. T. Martins.  
+"Chunk-based Nearest Neighbor Machine Translation."  
+Conference on Empirical Methods for Natural Language Processing, Abu Dhabi, December 2022.  
+[[pdf]](https://arxiv.org/abs/2205.12230)  
+
+* Chrysoula Zerva, Taisiya Glushkova, André F. T. Martins.  
+"Disentangling Uncertainty in Machine Translation Evaluation."  
+Conference on Empirical Methods for Natural Language Processing, Abu Dhabi, December 2022.  
+[[pdf]](https://arxiv.org/abs/2204.06546)  
+
 * Tsvetomila Mihaylova, Vlad Niculae, André F. T. Martins.  
 "Modeling Structure with Undirected Neural Networks."  
 International Conference on Machine Learning (ICML'22), Baltimore, USA, July 2022.  
