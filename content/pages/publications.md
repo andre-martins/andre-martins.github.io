@@ -2,8 +2,8 @@ Title: Publications
 
 # 2022
 
-* Patrick Fernandes, Marcos Treviso, Danish Pruthi, André F. T. Martins, Graham Neubig.
-"Learning to Scaffold: Optimizing Model Explanations for Teaching."
+* Patrick Fernandes, Marcos Treviso, Danish Pruthi, André F. T. Martins, Graham Neubig.  
+"Learning to Scaffold: Optimizing Model Explanations for Teaching."  
 Advances in Neural Information Processing Systems (NeurIPS'22), New Orleans, USA, November 2022.  
 [[pdf]](https://arxiv.org/pdf/2204.10810.pdf)  
 
