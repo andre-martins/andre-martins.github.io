@@ -1,4 +1,4 @@
-Title: Project Examples for Deep Structured Learning (Spring 2022)
+Title: Project Examples for Deep Structured Learning (Spring 2023)
 
 We suggest below some project ideas. Feel free to use this as inspiration for your project. Talk to us for more details.
 
