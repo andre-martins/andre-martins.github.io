@@ -1,5 +1,18 @@
 Title: Publications
 
+# 2023
+
+* Marcos Treviso, Tianchu Ji, Ji-Ung Lee, Betty van Aken, Qingqing Cao, Manuel R Ciosici, Michael Hassid, Kenneth Heafield, Sara Hooker, Pedro H Martins, André FT Martins, Peter Milder, Colin Raffel, Edwin Simpson, Noam Slonim, Niranjan Balasubramanian, Leon Derczynski, Roy Schwartz.  
+"Efficient methods for natural language processing: a survey."  
+Transactions of the Association for Computational Linguistics (TACL).  
+[[pdf]](https://arxiv.org/pdf/2209.00099.pdf)  
+
+* Nuno M. Guerreiro, Elena Voita, André F. T. Martins.  
+"Looking for a needle in a haystack: A comprehensive study of hallucinations in neural machine translation."
+Conference of the European Chapter of the Association for Computational Linguistics (EACL'23), Dubrovnik, Croatia, May 2023.  
+[[pdf]](https://arxiv.org/pdf/2208.05309.pdf)  
+
+
 # 2022
 
 * Patrick Fernandes, Marcos Treviso, Danish Pruthi, André F. T. Martins, Graham Neubig.  
@@ -353,7 +366,7 @@ Annual Meeting of the Association for Computational Linguistics (ACL'16), Berlin
 * André F. T. Martins and Ramon Astudillo.  
 "From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification."  
 International Conference on Machine Learning (ICML'16), New York, USA, June 2016.  
-[[pdf]](http://jmlr.org/proceedings/papers/v48/martins16.pdf)  
+[[pdf]](http://proceedings.mlr.press/v48/martins16.pdf)  
 
 # 2015
 
