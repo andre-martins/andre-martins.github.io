@@ -16,14 +16,14 @@ However, despite the enormous advances in the last years, current deep learning 
 
 The overarching goal of DECOLLAGE is to attack these fundamental problems by bringing together tools and ideas from machine learning, sparse modeling, information theory, and cognitive science, in an interdisciplinary approach.
 
-Three research directions are:
-  1. Designing new components for utility guidance, control, and contextualization. This will endow the model with the ability to predict its own quality (an "inner voice" or a critic) and to handle contextual information (e.g. document-level, conversation-level, meta-information about the surrounding environment), doing so in a modular, selective, and efficient manner.
-  2. Developing dynamic memory structures that facilitate continual learning, by supporting efficient reading and writing access, fast adaptation, and representation of world and self-knowledge. We will exploit synergies with sparse modeling and information retrieval.
-  3. Formalizing and implementing new mathematical models for sparse communication, bridging the gap between discrete (symbolic) and continuous representations, and developing techniques to integrate multiple modalities (such as text, speech, and image signals) into a shared representation space. This will draw links between information theory, formal languages, and neuroscience.
+Three research directions are:  
+  1. Designing new components for utility guidance, control, and contextualization. This will endow the model with the ability to predict its own quality (an "inner voice" or a critic) and to handle contextual information (e.g. document-level, conversation-level, meta-information about the surrounding environment), doing so in a modular, selective, and efficient manner.  
+  2. Developing dynamic memory structures that facilitate continual learning, by supporting efficient reading and writing access, fast adaptation, and representation of world and self-knowledge. We will exploit synergies with sparse modeling and information retrieval.  
+  3. Formalizing and implementing new mathematical models for sparse communication, bridging the gap between discrete (symbolic) and continuous representations, and developing techniques to integrate multiple modalities (such as text, speech, and image signals) into a shared representation space. This will draw links between information theory, formal languages, and neuroscience.  
 
 We will apply these innovations to highly challenging language generation tasks, including machine translation and open-ended generation.
 
-See [here](https://sardine-lab.github.io/) for more information about the SARDINE and some of our recent publications.
+See [here](https://sardine-lab.github.io/) for more information about the SARDINE Lab and some of our recent publications.
 
 The specific roles assigned to the project members will take into account their research interests and their background.
 
