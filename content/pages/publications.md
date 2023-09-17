@@ -2,6 +2,58 @@ Title: Publications
 
 # 2023
 
+* Patrick Fernandes, Aman Madaan, Emmy Liu, António Farinhas, Pedro H. Martins, Amanda Bertsch, José G. C. de Souza, Shuyan Zhou, Tongshuang Wu, Graham Neubig, André F. T. Martins.  
+"Bridging the gap: A survey on integrating (human) feedback for natural language generation."  
+Transactions of the Association for Computational Linguistics (to appear).  
+[[pdf]](https://arxiv.org/pdf/2305.00955)  
+
+* Nuno M. Guerreiro, Duarte Alves, Jonas Waldendorf, Barry Haddow, Alexandra Birch, Pierre Colombo, André F. T. Martins.  
+"Hallucinations in large multilingual translation models."  
+Transactions of the Association for Computational Linguistics (to appear).  
+[[pdf]](https://arxiv.org/pdf/2303.16104)  
+
+* Patrick Fernandes, Kayo Yin, Emmy Liu, André F. T. Martins, Graham Neubig.  
+"When Does Translation Require Context? A Data-driven, Multilingual Exploration."  
+Annual Meeting of the Association for Computational Linguistics (ACL'23), Toronto, Canada, July 2023.  
+[[pdf]](https://arxiv.org/pdf/2109.07446)  
+**Best resource paper award.**
+
+* Haau-Sing Li, Mohsen Mesgar, André F. T. Martins, Iryna Gurevych.  
+"Python Code Generation by Asking Clarification Questions."
+Annual Meeting of the Association for Computational Linguistics (ACL'23), Toronto, Canada, July 2023.  
+[[pdf]](https://arxiv.org/pdf/2212.09885)  
+
+* Marcos Treviso, Alexis Ross, Nuno M. Guerreiro, André F. T. Martins.  
+"CREST: A Joint Framework for Rationalization and Counterfactual Text Generation."  
+Annual Meeting of the Association for Computational Linguistics (ACL'23), Toronto, Canada, July 2023.  
+[[pdf]](https://arxiv.org/pdf/2305.17075)  
+
+* Ayyoob ImaniGooghari, Peiqin Lin, Amir Hossein Kargaran, Silvia Severini, Masoud Jalili Sabet, Nora Kassner, Chunlan Ma, Helmut Schmid, André F. T. Martins, François Yvon, Hinrich Schütze.  
+"Glot500: Scaling Multilingual Corpora and Language Models to 500 Languages."  
+Annual Meeting of the Association for Computational Linguistics (ACL'23), Toronto, Canada, July 2023.  
+[[pdf]](https://arxiv.org/pdf/2305.12182)  
+**ACL 2023 Area Chair Award.**
+
+* Ricardo Rei, Nuno M. Guerreiro, Marcos Treviso, Luisa Coheur, Alon Lavie, André F. T. Martins.  
+"The inside story: Towards better understanding of machine translation neural evaluation metrics."  
+Annual Meeting of the Association for Computational Linguistics (ACL'23), Toronto, Canada, July 2023.  
+[[pdf]](https://arxiv.org/pdf/2305.11806)  
+
+* Nuno M. Guerreiro, Pierre Colombo, Pablo Piantanida, André F. T. Martins.  
+"Optimal transport for unsupervised hallucination detection in neural machine translation."  
+Annual Meeting of the Association for Computational Linguistics (ACL'23), Toronto, Canada, July 2023.  
+[[pdf]](https://arxiv.org/pdf/2212.09631)  
+
+* Pedro H. Martins, João Alves, Tânia Vaz, Madalena Gonçalves, Beatriz Silva, Marianna Buchicchio, José G. C. de Souza, André F. T. Martins.  
+"Empirical Assessment of kNN-MT for Real-World Translation Scenarios."  
+Proceedings of the Annual Conference of the European Association for Machine Translation (EAMT'23), Tampere, Finland, June 2023.  
+[[pdf]](https://aclanthology.org/2023.eamt-1.12/)  
+
+* Taisiya Glushkova, Chrysoula Zerva, André F. T. Martins.  
+"BLEU Meets COMET: Combining Lexical and Neural Metrics Towards Robust Machine Translation Evaluation."  
+Proceedings of the Annual Conference of the European Association for Machine Translation (EAMT'23), Tampere, Finland, June 2023.  
+[[pdf]](https://arxiv.org/pdf/2305.19144)  
+
 * Marcos Treviso, Tianchu Ji, Ji-Ung Lee, Betty van Aken, Qingqing Cao, Manuel R. Ciosici, Michael Hassid, Kenneth Heafield, Sara Hooker, Pedro H. Martins, André F. T. Martins, Peter Milder, Colin Raffel, Edwin Simpson, Noam Slonim, Niranjan Balasubramanian, Leon Derczynski, Roy Schwartz.  
 "Efficient methods for natural language processing: a survey."  
 Transactions of the Association for Computational Linguistics (TACL).  
