@@ -2,14 +2,39 @@ Title: Publications
 
 # 2023
 
+* André F. T. Martins, Vlad Niculae, Daniel C McNamee.  
+"Sparse Modern Hopfield Networks."  
+NeurIPS Workshop on Associative Memories \& Hopfield Networks, New Orleans, December 2023.  
+[[pdf]](https://openreview.net/pdf?id=zwqlV7HoaT)  
+
+* Patrick Fernandes, Daniel Deutsch, Mara Finkelstein, Parker Riley, André Martins, Graham Neubig, Ankush Garg, Jonathan Clark, Markus Freitag and Orhan Firat.  
+"The Devil Is in the Errors: Leveraging Large Language Models for Fine-grained Machine Translation Evaluation."  
+Conference of Machine Translation (WMT'23), Singapore, December 2023.  
+[[pdf]](https://arxiv.org/abs/2308.07286)  
+
+* Duarte M. Alves, Nuno M. Guerreiro, João Alves, José Pombal, Ricardo Rei, José G. C. de Souza, Pierre Colombo, André F. T. Martins.  
+"Steering Large Language Models for Machine Translation with Finetuning and In-Context Learning."  
+Conference on Empirical Methods for Natural Language Processing (Findings), Singapore, December 2023.  
+[[pdf]](https://arxiv.org/abs/2310.13448)  
+
+* Ricardo Rei, Nuno M. Guerreiro, José Pombal, Daan van Stigt, Marcos Treviso, Luisa Coheur, José G.C. de Souza, André F.T. Martins.  
+"Scaling up CometKiwi: Unbabel-IST 2023 Submission for the Quality Estimation Shared Task."
+Conference of Machine Translation (WMT'23), Singapore, December 2023.  
+[[pdf]](https://arxiv.org/pdf/2309.11925.pdf)  
+
+* António Farinhas, José G. C. de Souza, André F. T. Martins.  
+"An Empirical Study of Translation Hypothesis Ensembling with Large Language Models."  
+Conference on Empirical Methods for Natural Language Processing, Singapore, December 2023.   
+[[pdf]](https://arxiv.org/abs/2310.11430)  
+
 * Patrick Fernandes, Aman Madaan, Emmy Liu, António Farinhas, Pedro H. Martins, Amanda Bertsch, José G. C. de Souza, Shuyan Zhou, Tongshuang Wu, Graham Neubig, André F. T. Martins.  
 "Bridging the gap: A survey on integrating (human) feedback for natural language generation."  
-Transactions of the Association for Computational Linguistics (to appear).  
+Transactions of the Association for Computational Linguistics.  
 [[pdf]](https://arxiv.org/pdf/2305.00955)  
 
 * Nuno M. Guerreiro, Duarte Alves, Jonas Waldendorf, Barry Haddow, Alexandra Birch, Pierre Colombo, André F. T. Martins.  
 "Hallucinations in large multilingual translation models."  
-Transactions of the Association for Computational Linguistics (to appear).  
+Transactions of the Association for Computational Linguistics.  
 [[pdf]](https://arxiv.org/pdf/2303.16104)  
 
 * Patrick Fernandes, Kayo Yin, Emmy Liu, André F. T. Martins, Graham Neubig.  
