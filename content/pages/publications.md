@@ -1,8 +1,56 @@
 Title: Publications
 
+# 2024
+
+* Margarida M. Campos, António Farinhas, Chrysoula Zerva, Mário A.T. Figueiredo, André F.T. Martins.  
+"Conformal Prediction for Natural Language Processing: A Survey."
+Transactions of the Association for Computational Linguistics (TACL), 2024.  
+[[pdf]](https://arxiv.org/abs/2405.01976)  
+
+* Chryssa Zerva and André F. T. Martins.  
+"Conformalizing Machine Translation Evaluation."  
+Transactions of the Association for Computational Linguistics (TACL), 2024.  
+[[pdf]](https://arxiv.org/pdf/2306.06221)  
+
+* Sweta Agarwal, Amin Farajian, Patrick Fernandes, Ricardo Rei, André F. T. Martins.  
+"Is Context Helpful for Chat Translation Evaluation?"  
+Transactions of the Association for Computational Linguistics (TACL), 2024.  
+[[pdf]](https://arxiv.org/pdf/2403.08314)
+
+* Saul Santos, Vlad Niculae, Daniel C. McNamee, André F. T. Martins.  
+"Sparse and Structured Hopfield Networks."  
+International Conference on Machine Learning (ICML'24, spotlight), Vienna, Austria, July 2024.  
+[[pdf]](https://arxiv.org/pdf/2402.13725)
+
+* Miguel Moura Ramos, Patrick Fernandes, António Farinhas, André F. T. Martins.  
+"Aligning Neural Machine Translation Models: Human Feedback in Training and Inference."  
+Conference of the European Association for Machine Translation (EAMT'24), Sheffield, UK, June 2024.
+[[pdf]](https://arxiv.org/pdf/2311.09132)
+
+* António Farinhas, Chryssa Zerva, Dennis Ulmer, André F. T. Martins.  
+"Non-exchangeable Conformal Risk Control."  
+International Conference on Learning Representations (ICLR'24), May 2024.  
+[[pdf]](https://arxiv.org/pdf/2310.01262)  
+
+* Dennis Ulmer, Chryssa Zerva, André F. T. Martins.  
+"Non-exchangeable Conformal Language Generation with Nearest Neighbors"  
+Conference of the European Chapter of the Association for Computational Linguistics (EACL'24), St. Julians, Malta, March 2024.  
+[[pdf]](https://arxiv.org/pdf/2402.00707)
+
+* Peiqin Lin, Chengzhi Hu, Zheyu Zhang, André F. T. Martins, Hinrich Schütze.
+"mPLM-Sim: Unveiling Better Cross-Lingual Similarity and Transfer in Multilingual Pretrained Language Models."  
+Conference of the European Chapter of the Association for Computational Linguistics (EACL'24), St. Julians, Malta, March 2024.  
+[[pdf]](https://arxiv.org/abs/2305.13684)  
+
+* Nuno M. Guerreiro, Ricardo Rei, Daan van Stigt, Luisa Coheur, Pierre Colombo, André F. T. Martins.  
+"xCOMET: Transparent Machine Translation Evaluation through Fine-grained Error Detection."
+Transactions of the Association for Computational Linguistics (TACL), 2024.  
+[[pdf]](https://arxiv.org/abs/2310.10482)  
+
+
 # 2023
 
-* André F. T. Martins, Vlad Niculae, Daniel C McNamee.  
+* André F. T. Martins, Vlad Niculae, Daniel C. McNamee.  
 "Sparse Modern Hopfield Networks."  
 NeurIPS Workshop on Associative Memories \& Hopfield Networks, New Orleans, December 2023.  
 [[pdf]](https://openreview.net/pdf?id=zwqlV7HoaT)  
