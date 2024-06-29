@@ -3,7 +3,7 @@ Title: Publications
 # 2024
 
 * Margarida M. Campos, António Farinhas, Chrysoula Zerva, Mário A.T. Figueiredo, André F.T. Martins.  
-"Conformal Prediction for Natural Language Processing: A Survey."
+"Conformal Prediction for Natural Language Processing: A Survey."  
 Transactions of the Association for Computational Linguistics (TACL), 2024.  
 [[pdf]](https://arxiv.org/abs/2405.01976)  
 
@@ -37,13 +37,13 @@ International Conference on Learning Representations (ICLR'24), May 2024.
 Conference of the European Chapter of the Association for Computational Linguistics (EACL'24), St. Julians, Malta, March 2024.  
 [[pdf]](https://arxiv.org/pdf/2402.00707)
 
-* Peiqin Lin, Chengzhi Hu, Zheyu Zhang, André F. T. Martins, Hinrich Schütze.
+* Peiqin Lin, Chengzhi Hu, Zheyu Zhang, André F. T. Martins, Hinrich Schütze.  
 "mPLM-Sim: Unveiling Better Cross-Lingual Similarity and Transfer in Multilingual Pretrained Language Models."  
 Conference of the European Chapter of the Association for Computational Linguistics (EACL'24), St. Julians, Malta, March 2024.  
 [[pdf]](https://arxiv.org/abs/2305.13684)  
 
 * Nuno M. Guerreiro, Ricardo Rei, Daan van Stigt, Luisa Coheur, Pierre Colombo, André F. T. Martins.  
-"xCOMET: Transparent Machine Translation Evaluation through Fine-grained Error Detection."
+"xCOMET: Transparent Machine Translation Evaluation through Fine-grained Error Detection."  
 Transactions of the Association for Computational Linguistics (TACL), 2024.  
 [[pdf]](https://arxiv.org/abs/2310.10482)  
 
