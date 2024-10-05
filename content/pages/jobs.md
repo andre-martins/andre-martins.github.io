@@ -4,7 +4,7 @@ Title: Jobs
 
 **Project:** DECOLLAGE ("Deep Cognition Learning for Language Generation"), ERC Consolidator Grant (2023-2028)
 
-**Application deadline:** July 31, 2023
+**Application deadline:** December 31, 2024
 
 **Job description:**
 
