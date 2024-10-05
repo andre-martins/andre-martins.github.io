@@ -33,7 +33,7 @@ Conference on Empirical Methods for Natural Language Processing (Findings of EMN
 [[pdf]](https://arxiv.org/abs/2406.19482)  
 
 * Hugo Pitorro, Pavlo Vasylenko, Marcos Treviso, André F.T. Martins.  
-"How Effective are State Space Models for Machine Translation?"
+"How Effective are State Space Models for Machine Translation?"  
 Conference of Machine Translation (WMT'24), Miami, USA, November 2024.  
 [[pdf]](https://arxiv.org/abs/2407.05489)  
 
