@@ -14,32 +14,32 @@ Advances in Neural Information Processing Systems (NeurIPS'24), Vancouver, Canad
 
 * Sweta Agrawal, António Farinhas, Ricardo Rei, André F.T. Martins.  
 "Can Automatic Metrics Assess High-Quality Translations?"
-Conference on Empirical Methods for Natural Language Processing (EMNLP'24), Miami, USA, Movember 2024.
+Conference on Empirical Methods for Natural Language Processing (EMNLP'24), Miami, USA, November 2024.  
 [[pdf]](https://arxiv.org/abs/2405.18348)  
 
 * Sweta Agrawal, José G. C. de Souza, Ricardo Rei, António Farinhas, Gonçalo Faria, Patrick Fernandes, Nuno M Guerreiro, André F.T. Martins.  
 "Modeling User Preferences with Automatic Metrics: Creating a High-Quality Preference Dataset for Machine Translation."  
-Conference on Empirical Methods for Natural Language Processing (EMNLP'24), Miami, USA, Movember 2024.
+Conference on Empirical Methods for Natural Language Processing (EMNLP'24), Miami, USA, November 2024.  
 [[pdf]]()  
 	
 * Emmanouil Zaranis, Nuno M. Guerreiro, Andre Martins.  
 "Analyzing Context Contributions in LLM-based Machine Translation."
-Conference on Empirical Methods for Natural Language Processing (Findings of EMNLP'24), Miami, USA, Movember 2024.
+Conference on Empirical Methods for Natural Language Processing (Findings of EMNLP'24), Miami, USA, November 2024.  
 [[pdf]]()  
 
 * Marcos V. Treviso, Nuno M. Guerreiro, Sweta Agrawal, Ricardo Rei, José Pombal, Tania Vaz, Helena Wu, Beatriz Silva, Daan van Stigt, André F.T. Martins.  
 "xTower: A Multilingual LLM for Explaining and Correcting Translation Errors."  
-Conference on Empirical Methods for Natural Language Processing (Findings of EMNLP'24), Miami, USA, Movember 2024.
+Conference on Empirical Methods for Natural Language Processing (Findings of EMNLP'24), Miami, USA, November 2024.  
 [[pdf]](https://arxiv.org/abs/2406.19482)  
 
 * Hugo Pitorro, Pavlo Vasylenko, Marcos Treviso, André F.T. Martins.  
 "How Effective are State Space Models for Machine Translation?"
-Conference of Machine Translation (WMT'24), Miami, USA, Movember 2024.
+Conference of Machine Translation (WMT'24), Miami, USA, November 2024.  
 [[pdf]](https://arxiv.org/abs/2407.05489)  
 
 * Duarte M. Alves, José Pombal, Nuno M. Guerreiro, Pedro H. Martins, João Alves, Amin Farajian, Ben Peters, Ricardo Rei, Patrick Fernandes, Sweta Agrawal, Pierre Colombo, José G.C. de Souza, André F.T. Martins.  
 "Tower: An Open Multilingual Large Language Model for Translation-Related Tasks."  
-Conference on Language Modeling (COLM'24, oral), 2024. 
+Conference on Language Modeling (COLM'24, oral), Philadelphia, USA, 2024.  
 [[pdf]](https://arxiv.org/abs/2402.17733)  
 
 * Margarida M. Campos, António Farinhas, Chrysoula Zerva, Mário A.T. Figueiredo, André F.T. Martins.  
