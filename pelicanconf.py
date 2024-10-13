@@ -27,6 +27,7 @@ MENUITEMS = (
     ('Publications', '/pages/publications.html'),
     ('Software', '/pages/software.html'),
     ('Courses', '/pages/courses.html'),
+    ('DECOLLAGE', '/pages/decollage.html'),
     ('SARDINE Lab', '/pages/sardine.html')
 )
 
