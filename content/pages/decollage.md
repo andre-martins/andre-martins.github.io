@@ -3,10 +3,10 @@ Title: DECOLLAGE
 <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="20">
   <tbody>
     <tr>
-      <td style="vertical-align: middle; text-align: right;">
-      <img style="width: 150px; height: 150px;" alt="European Research Council" src="{filename}/images/erc.gif" /></td>
-      <td style="vertical-align: middle; text-align: right;">
-      <img style="width: 150px; height: 100px;" alt="DECOLLAGE" src="{filename}/images/decollage_logo.png" /></td>
+      <td style="vertical-align: middle; text-align: right; width=150px;">
+      <img style="width: 300px; object-fit: contain;" alt="European Research Council" src="{filename}/images/erc.gif" /></td>
+      <td style="vertical-align: middle; text-align: right; width=150px;">
+      <img style="width: 300px; object-fit: contain;" alt="DECOLLAGE" src="{filename}/images/decollage_logo.png" /></td>
       <td style="vertical-align: middle;">
 <b>DECOLLAGE</b> ("Deep Cognition Learning for Language Generation") is a research project funded by the <a href="http://erc.europa.eu" alt="European Research Council">European Research Council (ERC)</a>
 (ERC Consolidator Grant) and coordinated by <a href="http://andre-martins.github.io" alt="André Martins">André Martins</a>.
