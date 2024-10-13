@@ -3,10 +3,13 @@ Title: DECOLLAGE
 <table style="text-align: left; width: 100%;" border="0" cellpadding="2" cellspacing="20">
   <tbody>
     <tr>
-      <td style="vertical-align: top; text-align: right;">
+      <td style="vertical-align: middle; text-align: right;">
       <img style="width: 150px; height: 150px;" alt="European Research Council" src="{filename}/images/erc.gif" /></td>
+      <td style="vertical-align: middle; text-align: right;">
+      <img style="width: 150px; height: 100px;" alt="DECOLLAGE" src="{filename}/images/decollage_logo.png" /></td>
       <td style="vertical-align: middle;">
-<b>DECOLLAGE</b> ("Deep Cognition Learning for Language Generation") is a research project funded by the <a href="http://erc.europa.eu" alt="European Research Council">European Research Council (ERC)</a> (ERC Consolidator Grant) and coordinated by <a href="http://andre-martins.github.io" alt="André Martins">André Martins</a>.
+<b>DECOLLAGE</b> ("Deep Cognition Learning for Language Generation") is a research project funded by the <a href="http://erc.europa.eu" alt="European Research Council">European Research Council (ERC)</a>
+(ERC Consolidator Grant) and coordinated by <a href="http://andre-martins.github.io" alt="André Martins">André Martins</a>.
 It runs 2023-2028 within <a href="http://www.lx.it.pt" alt="Instituto de Telecomunicações">Instituto de Telecomunicações</a> at <a href="https://tecnico.ulisboa.pt" alt="Instituto Superior Técnico">Instituto Superior Técnico</a>, and <a href="http://unbabel.com" alt=Unbabel>Unbabel</a>, in <a href="http://en.wikipedia.org/wiki/Lisbon" alt="Lisbon">Lisbon</a>, <a href="http://en.wikipedia.org/wiki/Portugal" alt="Portugal">Portugal</a>.
       </td>
     </tr>
