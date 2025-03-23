@@ -35,6 +35,7 @@ My research interests revolve around natural language processing and machine lea
 My research has been funded by a ERC Starting Grant (DeepSPIN) and Consolidator Grant (DECOLLAGE), among other grants, and has received several paper awards at ACL conferences. I co-founded and co-organize the [Lisbon Machine Learning School (LxMLS)](https://lxmls.it.pt). I am a Fellow of the [ELLIS society](https://ellis.eu) and a co-director of the [ELLIS Program in Natural Language Processing](https://ellis.eu/programs/natural-language-processing). I am a member of the [Lisbon Academy of Sciences](https://www.acad-ciencias.pt/) and of the Research & Innovation Advisory Group (RIAG) of the [EuroHPC Joint Undertaking](https://eurohpc-ju.europa.eu). 
 
 Our work has been featured in the media:
+
 - [Slator piece on "Adding Chocolate to Mint"](https://slator.com/unbabel-tackles-metric-bias-in-ai-translation/)  
 - [Science Business piece on EuroLLM](https://sciencebusiness.net/news/r-d-funding/horizon-europe/artificial-intelligence-model-specialising-eu-languages-released)  
 - [EuroLLM: Pioneering European Open Source AI](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/eurollm-pioneering-european-open-source-ai)  
