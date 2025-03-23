@@ -34,6 +34,13 @@ Until 2012, I was a PhD student in the joint CMU-Portugal program in Language Te
 My research interests revolve around natural language processing and machine learning, more specifically sparse and structured transformations, uncertainty quantification, interpretability, and multimodal processing applied to machine translation, natural language generation, quality estimation, and evaluation. 
 My research has been funded by a ERC Starting Grant (DeepSPIN) and Consolidator Grant (DECOLLAGE), among other grants, and has received several paper awards at ACL conferences. I co-founded and co-organize the [Lisbon Machine Learning School (LxMLS)](https://lxmls.it.pt). I am a Fellow of the [ELLIS society](https://ellis.eu) and a co-director of the [ELLIS Program in Natural Language Processing](https://ellis.eu/programs/natural-language-processing). I am a member of the [Lisbon Academy of Sciences](https://www.acad-ciencias.pt/) and of the Research & Innovation Advisory Group (RIAG) of the [EuroHPC Joint Undertaking](https://eurohpc-ju.europa.eu). 
 
+Our work has been featured in the media:
+* [Slator piece on "Adding Chocolate to Mint"](https://slator.com/unbabel-tackles-metric-bias-in-ai-translation/)
+* [Science Business piece on EuroLLM](https://sciencebusiness.net/news/r-d-funding/horizon-europe/artificial-intelligence-model-specialising-eu-languages-released)  
+* [EuroLLM: Pioneering European Open Source AI](https://interoperable-europe.ec.europa.eu/collection/open-source-observatory-osor/news/eurollm-pioneering-european-open-source-ai)  
+* [A EuroHPC Success Story: Speaking Freely with EuroLLM](https://eurohpc-ju.europa.eu/eurohpc-success-story-speaking-freely-eurollm_en)  
+* [TechCrunch piece on Large AI Grand Challenge](https://techcrunch.com/2024/06/26/unbabel-among-first-ai-startups-to-win-millions-of-gpu-training-hours-on-eu-supercomputers/)  
+* [Slator piece on our method to detect and correct MT hallucinations](https://slator.com/why-large-language-models-hallucinate-when-machine-translating-in-wild/)  
 
 ---
 
@@ -48,18 +55,21 @@ My research has been funded by a ERC Starting Grant (DeepSPIN) and Consolidator 
 
 - Beatriz Canaverde (PhD at IST, 2025-)  
 - Miguel Ramos (PhD at IST, 2024-)  
-- Sonal Sannigrahi (PhD at IST, 2023-)  
+- [Sonal Sannigrahi](https://sonalsannigrahi.github.io/) (PhD at IST, 2023-)  
 - Emmanouil Zaranis (PhD at IST, 2023-)  
-- Pavlo Vasylenko (PhD at IST, 2023-; co-supervised with Marcos Treviso from IST/UL)  
+- Pavlo Vasylenko (PhD at IST, 2023-; co-supervised with [Marcos Treviso](https://mtreviso.github.io/))  
 - Sophia Sklaviadis (PhD at IST, 2023-)  
 - Margarida Campos (co-supervised with Mário Figueiredo from IST/UL)  
-- Saul Santos (co-supervised with Daniel McNamee from Champalimaud Foundation)  
+- [Saul Santos](https://ssantos97.github.io/) (co-supervised with [Daniel McNamee](https://fchampalimaud.org/research/groups/mcnamee) from Champalimaud Foundation)  
 - Duarte Alves (PhD at IST, 2023-)  
-- António Farinhas (PhD at IST, 2021-)  
-- [Haau-Sing Li](https://www.linkedin.com/in/haau-sing-li-152177142/) (ELLIS PhD at TU Darmstadt University, 2021-; co-advised with [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp))  
+- [António Farinhas](https://antonio-farinhas.github.io/) (PhD at IST, 2021-)  
+- [Haau-Sing Li](https://lhaausing.github.io/) (ELLIS PhD at TU Darmstadt University, 2021-; co-advised with [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp))  
 - [Patrick Fernandes](https://coderpat.github.io/) (PhD at CMU/IST, 2020-; co-advised with [Graham Neubig](http://www.phontron.com/))  
 - [Nuno Guerreiro](https://nunonmg.github.io/) (PhD at IST, 2020-; co-advised with Pierre Colombo at University of Paris Saclay)  
-- [Peiqin Lin]() (ELLIS PhD at LMU Munich, 2021-; co-supervised with Hinrich Schutze)  
+- [Peiqin Lin](https://lpq29743.github.io/) (ELLIS PhD at LMU Munich, 2021-; co-supervised with Hinrich Schutze)  
+- [Hugo Pitorro](https://pitorro.de/) (Researcher at IT, 2024-; co-supervised with [Marcos Treviso](https://mtreviso.github.io/))
+- [Nuno Gonçalves]() (MSc Student at IST, 2024-; co-supervised with [Marcos Treviso](https://mtreviso.github.io/))   
+
 
 # Alumni
 
@@ -74,6 +84,7 @@ My research has been funded by a ERC Starting Grant (DeepSPIN) and Consolidator 
 - Pedro Martins (PhD at IST, 2018-2022; co-advised with Zita Marinho from Google DeepMind, now at SAP)
 - [Tsvetomila Mihaylova](https://tsvm.github.io) (PhD at IST, 2018-2022, co-advised with [Vlad Niculae](http://vene.ro), now at Aalto University)  
 - [Gonçalo Correia](https://goncalomcorreia.github.io) (ELLIS PhD at IST, 2018-2022, co-advised with [Vlad Niculae](http://vene.ro), now at Priberam)
+- [Gonçalo Faria](https://www.goncalofaria.com/) (Researcher at IT, 2023-2024; now PhD Student at the University of Washington)  
 - Sameen Maruf (PhD at Monash University, 2016-: co-advised with [Reza Haffari](http://users.monash.edu.au/~gholamrh))
 - [Zita Marinho](http://www.cs.cmu.edu/~zmarinho) (PhD at CMU/IST, 2013-2018; co-advised with [Geoff Gordon](http://www.cs.cmu.edu/~ggordon) and [Sidd Srinivasa](https://homes.cs.washington.edu/~siddh), now Head of Research at Priberam Labs)
 - António Farinhas (MSc at IST, 2020)  
@@ -98,6 +109,13 @@ My research has been funded by a ERC Starting Grant (DeepSPIN) and Consolidator 
 
 # News
 
+* I presented "Open & Multilingual LLMs for Europe" in a discussion panel at EuroHPC Summit about the AI Factories. There I covered some of our recent successes with CroissantLLM, TowerLLM, EuroLLM, and EuroBERT.
+* New [EuroLLM website](https://eurollm.io)! We trained two LLMs from scratch, [EuroLLM-1.7B](https://huggingface.co/utter-project/EuroLLM-1.7B) and [EuroLLM-9B](https://huggingface.co/utter-project/EuroLLM-9B), using the European supercomputing infrastructure (EuroHPC). These models support 35 languages (including all 24 EU official languages). They were released fully open and are [among the best in several benchmarks](https://huggingface.co/blog/eurollm-team/eurollm-9b). They have 300k+ downloads so far! This was done in collaboration with Instituto Superior Técnico, Instituto de Telecomunicações, Unbabel, The University of Edinburgh, CentraleSupélec among others and was recently featured as [a success story at EuroHPC](https://eurohpc-ju.europa.eu/eurohpc-success-story-speaking-freely-eurollm_en). Larger and more powerful models are on the making now!  
+* We released TowerLLM 7B and 13B: multilingual LLMs for translation-related tasks. Check our [Tower Collection](https://huggingface.co/collections/Unbabel/tower-659eaedfe36e6dd29eb1805c) at Hugging Face. These models and datasets are now widely used by the community (200k+ downloads so far). We presented this work as a spotlight paper at COLM 2024. 
+* We participated for the first time in the WMT 2024 shared task on General Translation -- and we were the best participating system, with the best results in 8 out of 11 languages! (Bonus: we also won the Biomedical and the Chat Translation task!) Fruit of this work, Unbabel launched [Widn.Ai](https://www.widn.ai/) -- the highest quality MT engine which can be personalized with instructions and used as an API. Try it out!  
+* We built [xCOMET](https://huggingface.co/collections/Unbabel/xcomet-659eca973b3be2ae4ac023bb), a state-of-the-art interpretable model for MT evaluation and quality estimation. Give it a try!  It was published in TACL and presented at ACL 2024.  
+* We were one of the 4 winning projects of the Large AI Grand Challenge grant (AI Boost), a highly competitive grant which comes with 2M GPU hours: https://lnkd.in/ghYTVaDb. We are using this allocation to train a mixture-of-experts version of Tower.
+* In 2024, our team presented 20+ papers in top conferences (including NeurIPS, ICLR, ICML, COLM, TACL, EMNLP, COLM, ICML, ...). We had spotlight/oral papers at ICML, NeurIPS, and COLM. We presented in several keynote talks in workshops and other events.  
 * I am Program Co-Chair of ACL 2024.  
 * **Great news: I got an ERC (European Research Council) Consolidator Grant on "Deep Cognition Learning for Language Generation (DECOLLAGE)". [I am now looking for Post-Doc and PhD Students](pages/jobs.html).**
 * I gave a keynote talk at the [SEPLN 2022](https://sepln2022.grupolys.org/) conference.
