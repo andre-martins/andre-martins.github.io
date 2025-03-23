@@ -1,5 +1,23 @@
 Title: Publications
 
+# 2025
+
+* Margarida Campos, João Calém, Sophia Sklaviadis, Mário A. T. Figueiredo, André F. T. Martins.  
+"Sparse Activations as Conformal Predictors."  
+Artificial Intelligence and Statistics (AISTATS'25), Mai Khao, Thailand, May 2025.  
+[[pdf]](https://arxiv.org/pdf/2502.14773)
+
+* Saul Santos, António Farinhas, Daniel C McNamee, André FT Martins.  
+"Modern Hopfield Networks with Continuous-Time Memories."  
+ICLR Workshop on New Frontiers in Associative Memories, Singapore, April 2025.  
+[[pdf]](https://arxiv.org/pdf/2502.10122)
+
+* Peiqin Lin, André FT Martins, Hinrich Schütze.  
+"XAMPLER: Learning to retrieve cross-lingual in-context examples."  
+Findings of the Annual Meeting of the North-American Chapter of the Association for Computational Linguistics (NAACL'25), Albuquerque, USA, April 2025.  
+[[pdf]](https://arxiv.org/pdf/2405.05116)
+
+
 # 2024
 
 * António Farinhas, Haau-Sing Li, André F. T. Martins.  

@@ -37,20 +37,46 @@ My research has been funded by a ERC Starting Grant (DeepSPIN) and Consolidator 
 
 ---
 
-# Post-docs
+# Current Post-docs
 
-- [Chryssa Zerva](https://www.linkedin.com/in/chryssa-zerva-7bb4a966) (Post-doc at IT, 2021-)
-- [Vlad Niculae](http://vene.ro) (Post-doc at IT, 2018-2020, now Assistant Professor at University of Amsterdam)
-- [Erick Fonseca](http://www.nilc.icmc.usp.br/nilc/pessoas/erickrf) (Post-doc at IT, 2018-2020), now Research Scientist at Cleverly
+- [Miguel Faria]() (Post-doc at IT, 2024-)
+- [Giuseppe Attanasio](https://gattanasio.cc/) (Post-doc at IT, 2024-)
+- [Marcos Treviso](http://mtreviso.github.io) (Post-doc at IT, 2023-)  
+- [Ben Peters]() (Post-doc at IT, 2022-)
 
-# Students and Interns
+# Current PhD Students
 
-- [Haau-Sing Li](https://www.linkedin.com/in/haau-sing-li-152177142/) (ELLIS PhD at TU Darmstadt University, 2021-; co-advised with [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp))
-- Nuno Guerreiro (PhD at IST, 2020-)
-- [Patrick Fernandes](https://coderpat.github.io/) (PhD at CMU/IST, 2020-; co-advised with [Graham Neubig](http://www.phontron.com/))
-- Taisiya Glushkova (PhD at IST, 2020-)
-- Nuno Guerreiro (PhD at IST, 2020-)
-- António Farinhas (MSc at IST, 2020)
+- Beatriz Canaverde (PhD at IST, 2025-)  
+- Miguel Ramos (PhD at IST, 2024-)  
+- Sonal Sannigrahi (PhD at IST, 2023-)  
+- Emmanouil Zaranis (PhD at IST, 2023-)  
+- Pavlo Vasylenko (PhD at IST, 2023-; co-supervised with Marcos Treviso from IST/UL)  
+- Sophia Sklaviadis (PhD at IST, 2023-)  
+- Margarida Campos (co-supervised with Mário Figueiredo from IST/UL)  
+- Saul Santos (co-supervised with Daniel McNamee from Champalimaud Foundation)  
+- Duarte Alves (PhD at IST, 2023-)  
+- António Farinhas (PhD at IST, 2021-)  
+- [Haau-Sing Li](https://www.linkedin.com/in/haau-sing-li-152177142/) (ELLIS PhD at TU Darmstadt University, 2021-; co-advised with [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp))  
+- [Patrick Fernandes](https://coderpat.github.io/) (PhD at CMU/IST, 2020-; co-advised with [Graham Neubig](http://www.phontron.com/))  
+- [Nuno Guerreiro](https://nunonmg.github.io/) (PhD at IST, 2020-; co-advised with Pierre Colombo at University of Paris Saclay)  
+- [Peiqin Lin]() (ELLIS PhD at LMU Munich, 2021-; co-supervised with Hinrich Schutze)  
+
+# Alumni
+
+- [Sweta Agrawal](https://sweta20.github.io/) (Post-doc at IT, 2024-2025, now Research Scientist at Google)
+- [Chunchuan Lyu]() (Post-doc at IT, 2021-2022)  
+- [Chryssa Zerva](https://www.linkedin.com/in/chryssa-zerva-7bb4a966) (Post-doc at IT, 2021-2023, now Assistant Professor at Instituto Superior Técnico)  
+- [Vlad Niculae](http://vene.ro) (Post-doc at IT, 2018-2020, now Assistant Professor at University of Amsterdam)  
+- [Erick Fonseca](http://www.nilc.icmc.usp.br/nilc/pessoas/erickrf) (Post-doc at IT, 2018-2020, now Data Scientist at Data Scientist at Kaufland)
+- Taisiya Glushkova (PhD at IST, 2020-2024; co-advised with Chryssa Zerva at IST)
+- [Marcos Treviso](http://mtreviso.github.io) (PhD at IST, 2019-2023, now post-doc at IT)  
+- Ben Peters (PhD at IST, 2018-2023, now post-doc at IT)  
+- Pedro Martins (PhD at IST, 2018-2022; co-advised with Zita Marinho from Google DeepMind, now at SAP)
+- [Tsvetomila Mihaylova](https://tsvm.github.io) (PhD at IST, 2018-2022, co-advised with [Vlad Niculae](http://vene.ro), now at Aalto University)  
+- [Gonçalo Correia](https://goncalomcorreia.github.io) (ELLIS PhD at IST, 2018-2022, co-advised with [Vlad Niculae](http://vene.ro), now at Priberam)
+- Sameen Maruf (PhD at Monash University, 2016-: co-advised with [Reza Haffari](http://users.monash.edu.au/~gholamrh))
+- [Zita Marinho](http://www.cs.cmu.edu/~zmarinho) (PhD at CMU/IST, 2013-2018; co-advised with [Geoff Gordon](http://www.cs.cmu.edu/~ggordon) and [Sidd Srinivasa](https://homes.cs.washington.edu/~siddh), now Head of Research at Priberam Labs)
+- António Farinhas (MSc at IST, 2020)  
 - Pedro Coelho (MSc at IST, 2020; co-advised with Christine Maroti at Unbabel)
 - João Alves (MSc at IST, 2020; co-advised with Amin Farajian at Unbabel)
 - João Moura (MSc at IST, 2020; co-advised with Fábio Kepler at Unbabel)
@@ -58,13 +84,6 @@ My research has been funded by a ERC Starting Grant (DeepSPIN) and Consolidator 
 - [Nikita Nangia](https://woollysocks.github.io) (Summer Intern at IT, 2019)
 - Michael Zhang (Research Intern at Unbabel, 2019)
 - Daan van Stigt (Research Intern at Unbabel, 2019)
-- [Marcos Treviso](http://mtreviso.github.io) (PhD at IST, 2019-, co-advised with [Mário Figueiredo](http://www.lx.it.pt/~mtf/))
-- [Tsvetomila Mihaylova](https://tsvm.github.io) (PhD at IST, 2018-, co-advised with [Vlad Niculae](http://vene.ro)))
-- Ben Peters (PhD at IST, 2018-)
-- [Gonçalo Correia](https://goncalomcorreia.github.io) (ELLIS PhD at IST, 2018-, co-advised with [Vlad Niculae](http://vene.ro))
-- Pedro Martins (PhD at IST, 2018-; co-advised with Zita Marinho)
-- Sameen Maruf (PhD at Monash University, 2016-: co-advised with [Reza Haffari](http://users.monash.edu.au/~gholamrh))
-- [Zita Marinho](http://www.cs.cmu.edu/~zmarinho) (PhD at CMU/IST, 2013-2018; co-advised with [Geoff Gordon](http://www.cs.cmu.edu/~ggordon) and [Sidd Srinivasa](https://homes.cs.washington.edu/~siddh), now Head of Research at Priberam Labs)
 - [Telmo Pires](https://ai.google/research/people/telmo) (Research Intern at IT and Unbabel, 2017, now at Google AI)
 - Pedro Ferreira (MSc at IST, 2017-)
 - Chaitanya Malaviya (Research Intern at Unbabel, 2017, now MSc at CMU)
