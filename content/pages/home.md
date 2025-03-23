@@ -60,7 +60,7 @@ Our work has been featured in the media:
 - Emmanouil Zaranis (PhD at IST, 2023-)  
 - Pavlo Vasylenko (PhD at IST, 2023-; co-supervised with [Marcos Treviso](https://mtreviso.github.io/))  
 - Sophia Sklaviadis (PhD at IST, 2023-)  
-- Margarida Campos (co-supervised with Mário Figueiredo from IST/UL)  
+- Margarida Campos (co-supervised with [Mário Figueiredo](http://www.lx.it.pt/~mtf))    
 - [Saul Santos](https://ssantos97.github.io/) (co-supervised with [Daniel McNamee](https://fchampalimaud.org/research/groups/mcnamee) from Champalimaud Foundation)  
 - Duarte Alves (PhD at IST, 2023-)  
 - [António Farinhas](https://antonio-farinhas.github.io/) (PhD at IST, 2021-)  
