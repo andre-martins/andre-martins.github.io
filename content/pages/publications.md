@@ -3,18 +3,18 @@ Title: Publications
 # 2025
 
 * Nuno Gonçalves, Marcos Treviso, André F. T. Martins.  
-"AdaSplash: Adaptive Sparse Flash Attention."
-International Conference on Machine Learning (ICML'25, oral), Vancouver, Canada, July 2025.
+"AdaSplash: Adaptive Sparse Flash Attention."  
+International Conference on Machine Learning (ICML'25, oral), Vancouver, Canada, July 2025.  
 [[pdf]](https://arxiv.org/abs/2502.12082)  
 
 * Saul Santos, António Farinhas, Daniel C McNamee, André F. T. Martins.  
 "∞-Video: A Training-Free Approach to Long Video Understanding via Continuous-Time Memory Consolidation."
-International Conference on Machine Learning (ICML'25), Vancouver, Canada, July 2025.
+International Conference on Machine Learning (ICML'25), Vancouver, Canada, July 2025.  
 [[pdf]](https://arxiv.org/abs/2501.19098)  
 
 * José Pombal, Sweta Agrawal, Patrick Fernandes, Emmanouil Zaranis, André F. T. Martins.  
 "A Context-aware Framework for Translation-mediated Conversations."  
-Transactions of the Association for Computational Linguistics.
+Transactions of the Association for Computational Linguistics.  
 [[pdf]](https://arxiv.org/abs/2412.04205)  
 
 * Ben Peters, André F. T. Martins.  
