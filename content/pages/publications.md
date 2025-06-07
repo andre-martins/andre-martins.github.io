@@ -2,6 +2,51 @@ Title: Publications
 
 # 2025
 
+* Nuno Gonçalves, Marcos Treviso, André F. T. Martins.  
+"AdaSplash: Adaptive Sparse Flash Attention."
+International Conference on Machine Learning (ICML'25, oral), Vancouver, Canada, July 2025.
+[[pdf]](https://arxiv.org/abs/2502.12082)  
+
+* Saul Santos, António Farinhas, Daniel C McNamee, André F. T. Martins.  
+"∞-Video: A Training-Free Approach to Long Video Understanding via Continuous-Time Memory Consolidation."
+International Conference on Machine Learning (ICML'25), Vancouver, Canada, July 2025.
+[[pdf]](https://arxiv.org/abs/2501.19098)  
+
+* José Pombal, Sweta Agrawal, Patrick Fernandes, Emmanouil Zaranis, André F. T. Martins.  
+"A Context-aware Framework for Translation-mediated Conversations."  
+Transactions of the Association for Computational Linguistics.
+[[pdf]](https://arxiv.org/abs/2412.04205)  
+
+* Ben Peters, André F. T. Martins.  
+"Did Translation Models Get More Robust Without Anyone Even Noticing?"
+Annual Meeting of the Association for Computational Linguistics (ACL'25), Vienna, Austria, July 2025.  
+[[pdf]](https://arxiv.org/abs/2403.03923)  
+
+* Emmanouil Zaranis, Giuseppe Attanasio, Sweta Agrawal, André F. T. Martins.  
+"Watching the watchers: Exposing gender disparities in machine translation quality estimation."  
+Annual Meeting of the Association for Computational Linguistics (ACL'25), Vienna, Austria, July 2025.  
+[[pdf]](https://arxiv.org/abs/2410.10995)  
+
+* Dennis Fucci, Marco Gaido, Matteo Negri, Luisa Bentivogli, Andre Martins, Giuseppe Attanasio.  
+"Different Speech Translation Models Encode and Translate Speaker Gender Differently."  
+Annual Meeting of the Association for Computational Linguistics (ACL'25), Vienna, Austria, July 2025.  
+[[pdf]](https://arxiv.org/abs/2506.02172)
+
+* Anna Bavaresco, Raffaella Bernardi, Leonardo Bertolazzi, Desmond Elliott, Raquel Fernández, Albert Gatt, Esam Ghaleb, Mario Giulianelli, Michael Hanna, Alexander Koller, Andre Martins, Philipp Mondorf, Vera Neplenbroek, Sandro Pezzelle, Barbara Plank, David Schlangen, Alessandro Suglia, Aditya K Surikuchi, Ece Takmaz, Alberto Testoni.  
+"LLMs instead of Human Judges? A Large Scale Empirical Study across 20 NLP Evaluation Tasks."  
+Annual Meeting of the Association for Computational Linguistics (ACL'25), Vienna, Austria, July 2025.  
+[[pdf]](https://arxiv.org/abs/2406.18403)
+
+* Shivalika Singh, Angelika Romanou, Clémentine Fourrier, David Ifeoluwa Adelani, Jian Gang Ngui, Daniel Vila-Suero, Peerat Limkonchotiwat, Kelly Marchisio, Wei Qi Leong, Yosephine Susanto, Raymond Ng, Shayne Longpre, Sebastian Ruder, Wei-Yin Ko, Antoine Bosselut, Alice Oh, Andre Martins, Leshem Choshen, Daphne Ippolito, Enzo Ferrante, Marzieh Fadaee, Beyza Ermis, Sara Hooker.  
+"Global MMLU: Understanding and Addressing Cultural and Linguistic Biases in Multilingual Evaluation."  
+Annual Meeting of the Association for Computational Linguistics (ACL'25), Vienna, Austria, July 2025.  
+[[pdf]](https://arxiv.org/abs/2412.03304)
+
+* Vlad Niculae, Caio Corro, Nikita Nangia, Tsvetomila Mihaylova, André F. T. Martins.  
+"Discrete latent structure in neural networks."  
+Foundations and Trends in Signal Processing, 19 (2), 99-211, Now Publishers.  
+[[pdf]](https://arxiv.org/abs/2301.07473)
+
 * Margarida Campos, João Calém, Sophia Sklaviadis, Mário A. T. Figueiredo, André F. T. Martins.  
 "Sparse Activations as Conformal Predictors."  
 Artificial Intelligence and Statistics (AISTATS'25), Mai Khao, Thailand, May 2025.  
@@ -48,7 +93,7 @@ Conference on Empirical Methods for Natural Language Processing (Findings of EMN
 * Marcos V. Treviso, Nuno M. Guerreiro, Sweta Agrawal, Ricardo Rei, José Pombal, Tania Vaz, Helena Wu, Beatriz Silva, Daan van Stigt, André F.T. Martins.  
 "xTower: A Multilingual LLM for Explaining and Correcting Translation Errors."  
 Conference on Empirical Methods for Natural Language Processing (Findings of EMNLP'24), Miami, USA, November 2024.  
-[[pdf]](https://arxiv.org/abs/2406.19482)  
+[[pdf]](https://arxiv.org/abs/2406.19482)
 
 * Hugo Pitorro, Pavlo Vasylenko, Marcos Treviso, André F.T. Martins.  
 "How Effective are State Space Models for Machine Translation?"  
@@ -71,7 +116,7 @@ Transactions of the Association for Computational Linguistics (TACL), 2024.
 [[pdf]](https://arxiv.org/pdf/2306.06221)  
 
 * Sweta Agarwal, Amin Farajian, Patrick Fernandes, Ricardo Rei, André F. T. Martins.  
-"Is Context Helpful for Chat Translation Evaluation?"  
+"Assessing the Role of Context in Chat Translation Evaluation: Is Context Helpful and Under What Conditions?"  
 Transactions of the Association for Computational Linguistics (TACL), 2024.  
 [[pdf]](https://arxiv.org/pdf/2403.08314)
 
@@ -104,7 +149,6 @@ Conference of the European Chapter of the Association for Computational Linguist
 "xCOMET: Transparent Machine Translation Evaluation through Fine-grained Error Detection."  
 Transactions of the Association for Computational Linguistics (TACL), 2024.  
 [[pdf]](https://arxiv.org/abs/2310.10482)  
-
 
 # 2023
 
