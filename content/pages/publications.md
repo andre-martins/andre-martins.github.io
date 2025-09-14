@@ -2,6 +2,46 @@ Title: Publications
 
 # 2025
 
+* António Farinhas, Nuno M Guerreiro, Sweta Agrawal, Ricardo Rei, André F. T. Martins.  
+"Translate Smart, not Hard: Cascaded Translation Systems with Quality-Aware Deferral."  
+Conference on Empirical Methods in Natural Language Processing (EMNLP'25), Suzhou, China, November 2025.  
+[[pdf]]()
+
+* Kshitij Ambilduke, Ben Peters, Sonal Sannigrahi, Anil Keshwani, Tsz Kin Lam, Bruno Martins, Marcely Zanon Boito, André F. T. Martins.  
+"From Tower to Spire: Adding the Speech Modality to a Text-Only LLM."  
+Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP'25), Suzhou, China, November 2025.  
+[[pdf]]()
+
+* Marine Carpuat, Omri Asscher, Kalika Bali, Luisa Bentivogli, Fred Blain, Lynne Bowker, Monojit Choudhury, Hal Daumé III, Kevin Duh, Ge Gao, Alvin C Grissom II, Marzena Karpinska, Elaine C Khoong, William D. Lewis, André F. T. Martins, Mary Nurminen, Douglas W. Oard, Maja Popovic, Michel Simard, François Yvon.  
+"An Interdisciplinary Approach to Human-Centered Machine Translation."  
+Conference on Empirical Methods in Natural Language Processing (EMNLP'25), Suzhou, China, November 2025.  
+[[pdf]]()
+
+* Nicolas Boizard, Hippolyte Gisserot-Boukhlef, Duarte Miguel Alves, André F. T. Martins, Ayoub Hammal, Caio Corro, CELINE HUDELOT, Emmanuel Malherbe, Etienne Malaboeuf, Fanny Jourdan, Gabriel Hautreux, João Alves, Kevin El Haddad, Manuel Faysse, Maxime Peyrard, Nuno M Guerreiro, Patrick Fernandes, Ricardo Rei, Pierre Colombo.  
+"EuroBERT: Scaling Multilingual Encoders for European Languages."  
+Conference on Language Modeling (COLM'25), Montreal, Canada, October 2025.  
+[[pdf]](https://openreview.net/pdf?id=jdOC24msVq)
+
+* José Pombal, Nuno M Guerreiro, Ricardo Rei, André F. T. Martins.  
+"Zero-shot Benchmarking: A Framework for Flexible and Scalable Automatic Evaluation of Language Models."
+Conference on Language Modeling (COLM'25), Montreal, Canada, October 2025.  
+[[pdf]](https://openreview.net/pdf?id=WARZwyDf17)
+
+* Patrick Fernandes, Sweta Agrawal, Emmanouil Zaranis, André F. T. Martins, Graham Neubig.  
+"Do LLMs Understand Your Translations? Evaluating Paragraph-level MT with Question Answering."  
+Conference on Language Modeling (COLM'25), Montreal, Canada, October 2025.  
+[[pdf]](https://openreview.net/pdf?id=Zfa9jCYGCz)
+
+* Miguel Moura Ramos, Patrick Fernandes, Sweta Agrawal, André F. T. Martins.  
+"Multilingual Contextualization of Large Language Models for Document-Level Machine Translation."  
+Conference on Language Modeling (COLM'25), Montreal, Canada, October 2025.  
+[[pdf]](https://openreview.net/pdf?id=Ah0U1r5Ldq)
+
+* José Pombal, Dongkeun Yoon, Patrick Fernandes, Ian Wu, Seungone Kim, Ricardo Rei, Graham Neubig, André F. T. Martins.  
+"M-Prometheus: A Suite of Open Multilingual LLM Judges."  
+Conference on Language Modeling (COLM'25), Montreal, Canada, October 2025.  
+[[pdf]](https://openreview.net/pdf?id=Atyk8lnIQQ)
+
 * Nuno Gonçalves, Marcos Treviso, André F. T. Martins.  
 "AdaSplash: Adaptive Sparse Flash Attention."  
 International Conference on Machine Learning (ICML'25, oral), Vancouver, Canada, July 2025.  
