@@ -1,10 +1,10 @@
 Title: Jobs
 
-**Job openings:** PhD and post-doc positions in Machine Learning and Natural Language Processing at Instituto Superior Tecnico, University of Lisbon, Portugal
+**Job openings:** PhD and post-doc positions in Machine Learning and Natural Language Processing at the [SARDINE Lab](https://sardine-lab.github.io/), Instituto Superior Tecnico, University of Lisbon, Portugal
 
 **Project:** DECOLLAGE ("Deep Cognition Learning for Language Generation"), ERC Consolidator Grant (2023-2028)
 
-**Application deadline:** December 31, 2024
+**Application deadline:** October 31, 2025
 
 **Job description:**
 
@@ -16,12 +16,13 @@ However, despite the enormous advances in the last years, current deep learning 
 
 The overarching goal of DECOLLAGE is to attack these fundamental problems by bringing together tools and ideas from machine learning, sparse modeling, information theory, and cognitive science, in an interdisciplinary approach.
 
-Three research directions are:  
+Four research directions are:  
   1. Designing new components for utility guidance, control, and contextualization. This will endow the model with the ability to predict its own quality (an "inner voice" or a critic) and to handle contextual information (e.g. document-level, conversation-level, meta-information about the surrounding environment), doing so in a modular, selective, and efficient manner.  
   2. Developing dynamic memory structures that facilitate continual learning, by supporting efficient reading and writing access, fast adaptation, and representation of world and self-knowledge. We will exploit synergies with sparse modeling and information retrieval.  
-  3. Formalizing and implementing new mathematical models for sparse communication, bridging the gap between discrete (symbolic) and continuous representations, and developing techniques to integrate multiple modalities (such as text, speech, and image signals) into a shared representation space. This will draw links between information theory, formal languages, and neuroscience.  
+  3. Formalizing and implementing new mathematical models for sparse communication, bridging the gap between discrete (symbolic) and continuous representations, and developing techniques to integrate multiple modalities (such as text, speech, and image signals) into a shared representation space. This will draw links between information theory, formal languages, and neuroscience.
+  4. Develop new methods for automatic and semi-automatic evaluation of multimodal language models and their various components in multiple dimensions. 
 
-We will apply these innovations to highly challenging language generation tasks, including machine translation and open-ended generation.
+We will apply these innovations to highly challenging language generation tasks, including machine translation and open-ended generation. Our team has been involved in the training (both pretraining and post-training) of language models such as [Tower](https://arxiv.org/abs/2402.17733) and [EuroLLM](https://arxiv.org/abs/2506.04079). 
 
 See [here](https://sardine-lab.github.io/) for more information about the SARDINE Lab and some of our recent publications.
 
@@ -39,7 +40,7 @@ IST is the top engineering school in Portugal, with 11,000+ students and 700+ fa
 
 The host institution is part of the Lisbon Unit for Machine Learning and Intelligent Systems (LUMLIS) and part of the [ELLIS network](https://ellis.eu/units). Collaborations with other ELLIS members are encouraged.
 
-Part of the work may be done in collaboration with [Unbabel](http://www.unbabel.com), a scale-up translation company with unique assets (a crowd of 10,000+ human translators, and post-edited translations in 50+ language pairs), and with [Champalimaud Centre for the Unknown](https://fchampalimaud.org/champalimaud-research), a cutting-edge research center in neuroscience.
+Part of the work may be done in collaboration with the [Champalimaud Centre for the Unknown](https://fchampalimaud.org/champalimaud-research), a cutting-edge research center in neuroscience.
 
 [Lisbon](https://en.wikipedia.org/wiki/Lisbon) is one of the oldest cities in Western Europe, being the major political, economic and cultural centre of Portugal. It enjoys a Mediterranean climate, having one of the warmest winters of any metropolis in Europe and a long summer season lasting from June to September. [Portugal](https://en.wikipedia.org/wiki/Portugal) has an outstanding coastline and is home to some of the most stunning beaches in Europe, being a popular spot for surfers and other water sport enthusiasts.
 
